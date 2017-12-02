@@ -10,6 +10,7 @@ toc_max: 4
 Action is a calculation method . But action don't return result instance. Aftar javascript events then return result.
 
 ```js
+// store/Index.js
 import {observable,action} from 'mobx'
 class MyComponent{
     @observable name = "Mr. Kamal"

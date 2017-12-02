@@ -11,6 +11,7 @@ toc_max: 4
 `observable` is a kind of variable . mobx environment your all data binding with observable.
 
 ```js
+// store/Index.js
 import {observable} from 'mobx'
 class MyComponent{
     @observable name = "Mr. Kamal"
