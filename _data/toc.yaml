@@ -53,6 +53,8 @@ react:
     title: What is mobx
   - path: /javascript-developer/react/mobx/register/
     title: linked up mobx
+  - path: /javascript-developer/react/mobx/observable/
+    title: observable
 - sectiontitle: Atom Plugin
   section:
   - path: /javascript-developer/react/atom/
