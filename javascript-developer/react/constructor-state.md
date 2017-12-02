@@ -1,7 +1,7 @@
 ---
-description: Constructor and state
+description: Constructor and state (React)
 keywords: react, react.js, js
-title: Constructor and state
+title: Constructor and state (React)
 toc_max: 4
 ---
 

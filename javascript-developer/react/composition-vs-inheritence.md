@@ -1,7 +1,7 @@
 ---
-description: Compositions VS Inheritence
+description: Compositions VS Inheritence (React)
 keywords: react, react.js, js
-title: Compositions vs Inheritence
+title: Compositions vs Inheritence (React)
 toc_max: 4
 ---
 
@@ -37,4 +37,4 @@ Class Test extends Component {
 }
 ```
 
-* https://www.youtube.com/watch?v=ldtBhHRltSg
+* [https://www.youtube.com/watch?v=ldtBhHRltSg](https://www.youtube.com/watch?v=ldtBhHRltSg)

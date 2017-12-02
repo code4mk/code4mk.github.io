@@ -1,7 +1,7 @@
 ---
-description: JSX
+description: JSX (React)
 keywords: react, react.js, js
-title: JSX
+title: JSX (React)
 toc_max: 4
 ---
 

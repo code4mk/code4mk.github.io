@@ -1,7 +1,7 @@
 ---
-description: Component
+description: Component (React)
 keywords: react, react.js, js
-title: Component
+title: Component  (React)
 toc_max: 4
 ---
 

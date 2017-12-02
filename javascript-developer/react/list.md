@@ -1,7 +1,7 @@
 ---
-description: Lists and key
+description: Lists and key (React)
 keywords: react, react.js, js
-title: Lists and key
+title: Lists and key (React)
 toc_max: 4
 ---
 

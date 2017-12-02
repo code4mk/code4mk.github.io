@@ -1,7 +1,7 @@
 ---
-description: Conditions
+description: Conditions (React)
 keywords: react, react.js, js
-title: Conditions React
+title: Conditions (React)
 toc_max: 4
 ---
 ## inside render if/else

@@ -1,7 +1,7 @@
 ---
-description: Event
+description: Event (React)
 keywords: react, react.js, js
-title: Event
+title: Event (React)
 toc_max: 4
 ---
 

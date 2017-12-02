@@ -1,7 +1,7 @@
 ---
-description: Forms
+description: Forms (React)
 keywords: react, react.js, js
-title: Forms
+title: Forms (React)
 toc_max: 4
 ---
 
@@ -66,5 +66,3 @@ constructor(props) {
  ```js
  var val = this.refs.myText.value ;
  ```
-
-## m
