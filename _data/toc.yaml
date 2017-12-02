@@ -51,6 +51,10 @@ react:
   section:
   - path: /javascript-developer/react/mobx
     title: What is mobx
+- sectiontitle: Atom Plugin
+  section:
+  - path: /javascript-developer/react/atom
+    title: atom & react lover (plugin)
 
 
 
