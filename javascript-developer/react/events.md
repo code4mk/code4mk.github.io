@@ -2,7 +2,6 @@
 description: Event
 keywords: react, react.js, js
 title: Event
-toc_max: 2
 ---
 
 ##  React Event Action

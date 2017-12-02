@@ -2,7 +2,6 @@
 description: Conditions
 keywords: react, react.js, js
 title: Conditions
-toc_max: 2
 ---
 ## inside render if/else
 

@@ -2,7 +2,6 @@
 description: Compositions VS Inheritence
 keywords: react, react.js, js
 title: Compositions vs Inheritence
-toc_max: 2
 ---
 
 ## what is Compositions

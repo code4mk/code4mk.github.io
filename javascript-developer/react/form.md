@@ -2,7 +2,6 @@
 description: Forms
 keywords: react, react.js, js
 title: Forms
-toc_max: 2
 ---
 
 

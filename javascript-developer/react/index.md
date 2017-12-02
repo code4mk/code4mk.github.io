@@ -2,7 +2,6 @@
 description: What is React?
 keywords: react, react.js, js
 title: What is React
-toc_max: 2
 ---
 
 
