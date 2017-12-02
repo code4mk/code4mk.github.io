@@ -5,7 +5,7 @@ title: Installing React
 toc_max: 4
 ---
 
-## Prerequisite before starting React library .
+## Prerequisite
 
  * JSX
  * ES6
@@ -15,18 +15,11 @@ toc_max: 4
  * Webpack  
 
 ## Build in webpack
-You can use painless [React-pack](https://github.com/code4mk/webpack-react) theme . It's maintained by [@code4mk](https://twitter.com/code4mk) .
+You can use painless cli [getreact cli](https://github.com/code4mk/getreact)  . It's maintained by [@code4mk](https://twitter.com/code4mk) .
 
 ``` bash
-#clone repo
-git clone https://github.com/code4mk/webpack-react my-new-project
-
-# install dependencies
-npm install
-
-or,
-
-yarn install
+# use our cli
+getreact new
 
 # serve with hot reload at localhost:8080
 npm run dev
