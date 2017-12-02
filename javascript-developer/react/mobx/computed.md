@@ -9,6 +9,7 @@ toc_max: 4
 computed is a calculation method but return result instance.
 
 ```js
+// store/Index.js
 import {observable, computed} from "mobx";
 
 class OrderLine {
@@ -23,4 +24,10 @@ class OrderLine {
         return this.price + this.vat;
     }
 }
+```
+
+## Access computed
+
+```js
+{this.props.store.total}
 ```
