@@ -55,6 +55,10 @@ react:
     title: linked up mobx
   - path: /javascript-developer/react/mobx/observable/
     title: observable
+  - path: /javascript-developer/react/mobx/computed/
+    title: computed
+  - path: /javascript-developer/react/mobx/action/
+    title: action
 - sectiontitle: Atom Plugin
   section:
   - path: /javascript-developer/react/atom/
