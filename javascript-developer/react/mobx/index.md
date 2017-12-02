@@ -1,6 +1,6 @@
 ---
 description: What is mobx?
-keywords: react, react.js, js
+keywords: react, mobx
 title: What is mobx
 toc_max: 4
 ---

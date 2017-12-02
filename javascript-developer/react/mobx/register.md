@@ -1,6 +1,6 @@
 ---
 description: linked up mobx props
-keywords: react, react.js, js
+keywords: react, mobx
 title: linked up  mobx props
 toc_max: 4
 ---
