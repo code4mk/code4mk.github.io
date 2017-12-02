@@ -23,10 +23,30 @@ horizontalnav:
 
 
 react:
-- sectiontitle: React.js
+- sectiontitle: Basic React
   section:
   - path: /javascript-developer/react/
     title: What is react
+  - path: /javascript-developer/react/install
+    title: Install react
+  - path: /javascript-developer/react/jsx
+    title: Learn about JSX
+  - path: /javascript-developer/react/components
+    title: Components
+  - path: /javascript-developer/react/constructor-state
+    title: Constructor-state
+  - path: /javascript-developer/react/form
+    title: Form
+  - path: /javascript-developer/react/events
+    title: Events
+  - path: /javascript-developer/react/condition
+    title: Condition
+  - path: /javascript-developer/react/list
+    title: List
+  - path: /javascript-developer/react/props
+    title: Props
+  - path: /javascript-developer/react/composition-vs-inheritence
+    title: Composition-vs-inheritence
 
 
 guides:
