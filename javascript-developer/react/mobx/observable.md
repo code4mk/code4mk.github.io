@@ -19,3 +19,9 @@ class MyComponent{
 }
 export default window.__STATE = new MyComponent(window.__STATE)
 ```
+
+## Access observable
+
+```js
+<h1>{this.props.store.name}</h1>
+```
