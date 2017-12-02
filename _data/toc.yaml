@@ -49,11 +49,11 @@ react:
     title: Composition-vs-inheritence
 - sectiontitle: MobX React
   section:
-  - path: /javascript-developer/react/mobx
+  - path: /javascript-developer/react/mobx/
     title: What is mobx
 - sectiontitle: Atom Plugin
   section:
-  - path: /javascript-developer/react/atom
+  - path: /javascript-developer/react/atom/
     title: atom & react lover (plugin)
 
 
