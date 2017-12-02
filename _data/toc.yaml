@@ -51,6 +51,8 @@ react:
   section:
   - path: /javascript-developer/react/mobx/
     title: What is mobx
+  - path: /javascript-developer/react/mobx/register/
+    title: linked up mobx
 - sectiontitle: Atom Plugin
   section:
   - path: /javascript-developer/react/atom/
