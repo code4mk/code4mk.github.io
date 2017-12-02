@@ -1,0 +1,74 @@
+/*
+*
+* hero banner text *************************************************************
+*
+*/
+
+.hero-text {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    min-height: 20em;
+    min-width: 400px;
+    -ms-flex-pack: center;
+    justify-content: center;
+
+    & h1 {
+
+      color: white;
+      & i {
+        background-image:linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #A166AB 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+        background-size:cover;
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        background-clip:text;
+        text-fill-color:transparent
+      }
+      & span{
+        /*color: $white;*/
+        background-image:linear-gradient(90deg, #F79533 0%, #F37055 15%, #EF4E7B 30%, #6DBA82 44%, #5073B8 58%, #1098AD 72%, #07B39B 86%, #6DBA82 100%);
+        background-size:cover;
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+        background-clip:text;
+        text-fill-color:transparent
+      }
+    }
+    & ul {
+        padding: 0;
+        li {
+            padding: 0 10px 0 0;
+        }
+    }
+    p {
+        color: $white;
+        margin-bottom: 15px;
+        font-size: 18px;
+        font-family: "Open Sans", sans-serif;
+    }
+}
+
+.hero-text-centered {
+    -ms-flex: none;
+    flex: none;
+    text-align: center;
+    max-width: 70%;
+}
+
+
+/** code4mk banner **/
+
+.banner {
+    width: 270px;
+    height: auto;
+    position: absolute;
+    bottom: 55px;
+    right: 0;
+    z-index: 1;
+    img {
+        width: 100%;
+    }
+}

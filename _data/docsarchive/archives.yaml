@@ -1,0 +1,7 @@
+- archive:
+  name: vue
+  image: test
+  current: true
+- archive:
+  name: react
+  image: test
