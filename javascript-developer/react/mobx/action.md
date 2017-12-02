@@ -23,3 +23,11 @@ class MyComponent{
 }
 export default window.__STATE = new MyComponent(window.__STATE)
 ```
+
+## Access action
+
+action access as like react event
+
+```js
+<input  value={this.props.store.name} onChange={(e) => this.props.store.todos(e.target.value)} type="text" placeholder="Text input"/>
+```
