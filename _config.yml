@@ -219,6 +219,10 @@ defaults:
       path: "apidocs/v2.0.1"
     values:
       hide_from_sitemap: true
+  - scope:
+      path: "javascript-developer/react"
+    values:
+      hide_from_sitemap: true
 
 # Assets
 #
