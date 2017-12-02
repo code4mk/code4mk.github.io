@@ -10,7 +10,7 @@ toc_max: 4
 
 React is a popular JS library . It is a declarative, efficient, and flexible library for building UI .
 
-## Who miantain React?
+## Who maintain React?
 
 `React` is maintained by `Facebook Community` . Main author `Jordan Walke`, `Denis Popov`
 
