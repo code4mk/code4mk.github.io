@@ -2,6 +2,7 @@
 description: Constructor and state
 keywords: react, react.js, js
 title: Constructor and state
+toc_max: 4
 ---
 
 ## What is constructor

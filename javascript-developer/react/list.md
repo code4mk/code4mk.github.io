@@ -2,6 +2,7 @@
 description: Lists and key
 keywords: react, react.js, js
 title: Lists and key
+toc_max: 4
 ---
 
 ## Lists and key  

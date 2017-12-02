@@ -2,6 +2,7 @@
 description: Installing React
 keywords: react, react.js, js
 title: Installing React
+toc_max: 4
 ---
 
 ## Prerequisite before starting React library .

@@ -2,6 +2,7 @@
 description: JSX
 keywords: react, react.js, js
 title: JSX
+toc_max: 4
 ---
 
 ## What is JSX ?

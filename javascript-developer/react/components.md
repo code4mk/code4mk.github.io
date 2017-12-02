@@ -2,6 +2,7 @@
 description: Component
 keywords: react, react.js, js
 title: Component
+toc_max: 4
 ---
 
 ## What is component ?

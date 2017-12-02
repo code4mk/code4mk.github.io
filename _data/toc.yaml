@@ -27,25 +27,25 @@ react:
   section:
   - path: /javascript-developer/react/
     title: What is react
-  - path: /javascript-developer/react/install
+  - path: /javascript-developer/react/install/
     title: Install react
-  - path: /javascript-developer/react/jsx
+  - path: /javascript-developer/react/jsx/
     title: Learn about JSX
-  - path: /javascript-developer/react/components
+  - path: /javascript-developer/react/components/
     title: Components
-  - path: /javascript-developer/react/constructor-state
+  - path: /javascript-developer/react/constructor-state/
     title: Constructor-state
-  - path: /javascript-developer/react/form
+  - path: /javascript-developer/react/form/
     title: Form
-  - path: /javascript-developer/react/events
+  - path: /javascript-developer/react/events/
     title: Events
-  - path: /javascript-developer/react/condition
+  - path: /javascript-developer/react/condition/
     title: Condition
-  - path: /javascript-developer/react/list
+  - path: /javascript-developer/react/list/
     title: List
-  - path: /javascript-developer/react/props
+  - path: /javascript-developer/react/props/
     title: Props
-  - path: /javascript-developer/react/composition-vs-inheritence
+  - path: /javascript-developer/react/composition-vs-inheritence/
     title: Composition-vs-inheritence
 
 
@@ -56,12 +56,12 @@ guides:
     title: Install Docker
   - sectiontitle: Docker EE
     section:
-    - path: /engine/installation/windows/docker-ee/
-      title: Windows Server
+    - path: /engine/installation/linux/docker-ee/install
+      title: mk Windows Server
     - path: /engine/installation/linux/docker-ee/ubuntu/
       title: Ubuntu
-    - path: /engine/installation/linux/docker-ee/rhel/
-      title: RHEL
+    - path: /engine/installation/linux/docker-ee/code4mk/
+      title: Code4mk tester
     - path: /engine/installation/linux/docker-ee/centos/
       title: CentOS
     - path: /engine/installation/linux/docker-ee/oracle/

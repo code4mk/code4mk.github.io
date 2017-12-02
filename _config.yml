@@ -140,6 +140,10 @@ defaults:
     values:
       assignee: "gbarr01"
   - scope:
+      path: "javascript-developer/react"
+    values:
+      assignee: "gbarr01"
+  - scope:
       path: "datacenter"
     values:
       ucp_latest_image: "docker/ucp:2.2.4"
@@ -217,10 +221,6 @@ defaults:
       hide_from_sitemap: true
   - scope:
       path: "apidocs/v2.0.1"
-    values:
-      hide_from_sitemap: true
-  - scope:
-      path: "javascript-developer/react"
     values:
       hide_from_sitemap: true
 
