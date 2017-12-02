@@ -54,9 +54,6 @@ guides:
   section:
   - path: /engine/installation/
     title: Install Docker
-  section:
-  - path: /javascript-developer/react/
-    title: What is react
   - sectiontitle: Docker EE
     section:
     - path: /engine/installation/windows/docker-ee/
