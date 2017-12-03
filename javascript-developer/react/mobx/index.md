@@ -8,7 +8,7 @@ toc_max: 4
 ## What is mobx?
 mobX is a scalable state managemment system .
 
-![Run nginx edge>](images/mobx.png)
+![mobx>](images/mobx.png)
 
 ## How use mobx
 
