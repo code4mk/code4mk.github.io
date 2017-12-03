@@ -26,3 +26,5 @@ RRB is a `react-redux-boss` mini boilerplate of react.
   yarn install or npm install
   npm run dev
 ```
+
+<a class="btn btn-primary" href="https://github.com/code4mk/react-redux-boss" role="button" target="_blank">RRB github</a>
