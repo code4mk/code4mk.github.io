@@ -2,7 +2,7 @@
 description: What is Angular
 keywords: js, angular
 title: What is Angular
-notoc: true
+toc_max: 4
 ---
 
 ## What is Angular ?
