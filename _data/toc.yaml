@@ -63,6 +63,10 @@ react:
   section:
   - path: /javascript-developer/react/atom/
     title: atom & react lover (plugin)
+- sectiontitle: React Redux Boss
+  section:
+  - path: /javascript-developer/react/rrb/
+    title: React Mini Boilerplate
 
 
 
