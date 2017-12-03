@@ -5,6 +5,9 @@ horizontalnav:
 - title: React
   path: /react
   node: react
+- title: Angular
+  path: /angular
+  node: angular
 - title: Guides
   path: /guides
   node: guides
@@ -67,6 +70,15 @@ react:
   section:
   - path: /javascript-developer/react/rrb/
     title: React Mini Boilerplate
+
+angular:
+- sectiontitle: Basic Angular
+  section:
+  - path: /javascript-developer/angular/
+    title: What is Angular
+  - path: /javascript-developer/angular/install/
+    title: Setup Angular
+
 
 
 
