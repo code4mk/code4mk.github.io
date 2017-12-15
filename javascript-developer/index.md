@@ -157,5 +157,14 @@ notoc: true
             <p>typescript is a types of JavaScript that compiles to plain JavaScript Any Browser , Any host .</p>
         </div>
     </div>
+    <div class="col-sm-12 col-md-12 col-lg-4 block">
+        <div class="component">
+            <div class="component-icon">
+                <a href="testing/"> <img src="../images/js-image/common.svg" alt="typescript"> </a>
+            </div>
+            <h3><a href="testing/">Testing</a></h3>
+            <p>JavaScript Unit Testing (TDD)</p>
+        </div>
+    </div>
     </div>
 </div>
