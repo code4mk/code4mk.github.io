@@ -8,6 +8,9 @@ horizontalnav:
 - title: Angular
   path: /angular
   node: angular
+- title: Jasmine
+  path: /jasmine
+  node: jasmine
 - title: Guides
   path: /guides
   node: guides
@@ -80,6 +83,18 @@ angular:
     title: Setup Angular
 
 
+
+jasmine:
+- sectiontitle: Jasmine BDD
+  section:
+  - path: /javascript-developer/testing/jasmine/
+    title: Jasmine History
+  - path: /javascript-developer/testing/jasmine/basic/
+    title: Basic
+  - path: /javascript-developer/testing/jasmine/expect/
+    title: Expect
+  - path: /javascript-developer/testing/jasmine/spy/
+    title: Spy
 
 
 guides:
