@@ -7,4 +7,4 @@ toc_max: 4
 
 ## pdf file
 
-* <a href="https://www.dropbox.com/home/code4mk/pdf?preview=testing-thesis.pdf" target="_blank">PDF here </a>
+* <a href="https://www.dropbox.com/s/0k40okkin78pbcr/testing-thesis.pdf?dl=0" target="_blank">PDF here </a>
