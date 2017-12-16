@@ -23,7 +23,7 @@ notoc: true
                     <a href="jasmine/"> <img src="../../images/js-image/jasmine.svg" alt="jasmine"> </a>
                 </div>
                 <h3 ><a href="jasmine/">Jasmine</a></h3>
-                <p>JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language</p>
+                <p>Jasmine is an open source testing framework for JavaScript.</p>
             </div>
         </div>
         <!-- <div class="col-sm-12 col-md-12 col-lg-4 block">
