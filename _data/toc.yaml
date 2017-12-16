@@ -8,6 +8,9 @@ horizontalnav:
 - title: Angular
   path: /angular
   node: angular
+- title: Karma
+  path: /karma
+  node: karma
 - title: Jasmine
   path: /jasmine
   node: jasmine
@@ -83,6 +86,15 @@ angular:
     title: Setup Angular
 
 
+karma:
+- sectiontitle: Karma Runner
+  section:
+  - path: /javascript-developer/testing/karma/
+    title: Karma History
+  - path: /javascript-developer/testing/karma/browser/
+    title: Browsers
+  - path: /javascript-developer/testing/karma/thesis/
+    title: testing thesis
 
 jasmine:
 - sectiontitle: Jasmine BDD
