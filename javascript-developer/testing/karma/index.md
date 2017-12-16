@@ -16,6 +16,16 @@ Karma is not a testing framework, nor an assertion library. Karma just launches 
 # karma cli
 npm install -g karma-cli
  ```
+
+## project
+
+```bash
+# Install Karma:
+$ npm install karma --save-dev
+
+# Install plugins that your project needs:
+$ npm install karma-jasmine karma-chrome-launcher jasmine-core --save-dev
+```
 ## karma configuration
 
 
