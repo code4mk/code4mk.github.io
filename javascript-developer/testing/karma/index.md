@@ -69,8 +69,8 @@ Config file generated at "/Users/code4mk/karma-testing/karma.conf.js".
 ## karma conf demo
 
 ```js
-// Karma configuration
-// Generated on Sat Dec 16 2017 14:10:55 GMT+0600 (Bangladesh Standard Time)
+/// Karma configuration
+// Generated on Sat Dec 16 2017 16:32:55 GMT+0600 (Bangladesh Standard Time)
 
 module.exports = function(config) {
   config.set({
@@ -86,6 +86,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
+      'test/**/*.js'
     ],
 
 
@@ -97,14 +98,13 @@ module.exports = function(config) {
     // preprocess matching files before serving them to the browser
     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-      'src/**/*.js': ['coverage']
     },
 
 
     // test results reporter to use
     // possible values: 'dots', 'progress'
     // available reporters: https://npmjs.org/browse/keyword/karma-reporter
-    reporters: ['progress', 'coverage'],
+    reporters: ['progress'],
 
 
     // web server port
@@ -126,7 +126,7 @@ module.exports = function(config) {
 
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
-    browsers: ['PhantomJS'],
+    browsers: ['Chrome', 'PhantomJS'],
 
 
     // Continuous Integration mode
@@ -135,14 +135,7 @@ module.exports = function(config) {
 
     // Concurrency level
     // how many browser should be started simultaneous
-    concurrency: Infinity,
-    coverageReporter: {
-      dir: './coverage',
-      reporters: [
-        { type: 'lcov', subdir: '.' },
-        { type: 'text-summary' }
-      ]
-    }
+    concurrency: Infinity
   })
 }
 ```
