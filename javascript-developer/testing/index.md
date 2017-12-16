@@ -14,7 +14,7 @@ notoc: true
                     <a href="karma/"> <img src="../../images/js-image/karma.svg" alt="karma"> </a>
                 </div>
                 <h3><a href="karma/">Karma</a></h3>
-                <p>ECMAScript 6 (ES6, often referred to as “Harmony”) is the upcoming sixth major release of the ECMAScript language specification.</p>
+                <p>Karma just launches an HTTP server, and generates the test runner .</p>
             </div>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-4 block">
