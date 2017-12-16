@@ -53,5 +53,5 @@ Do you want Karma to watch all the files and run the tests on change?
 Press tab to list possible options.
 > yes
 
-Config file generated at "/Users/vojta/Code/karma/my.conf.js".
+Config file generated at "/Users/code4mk/karma-testing/karma.conf.js".
 ```
