@@ -10,7 +10,7 @@ toc_max: 4
 * describe  (method)
 * it (method)
 * expect (expectation)
-* Spies (method)
+
 
 ## Describe
 'describe' is a `function or method ` . It has two parameters: a `string` and a `function` . The string is a name or title for a spec suite - usually what is being tested. The function is a block of code that implements the suite.
@@ -80,4 +80,7 @@ describe('Describe about your test', () => {
 })
 ```
 
-## Spies
+## cheatsheet
+
+* [cheatsheet devhint](https://devhints.io/jasmine)
+* [cheatsheet daveceddia](https://daveceddia.com/freebies/jasmine-2-cheat-sheet.html)
