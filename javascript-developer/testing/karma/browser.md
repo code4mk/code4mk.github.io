@@ -9,7 +9,7 @@ toc_max: 4
 
 * [A full list of karma browser](https://www.npmjs.com/browse/keyword/karma-launcher)
 
-*  Available browser launchers
+- [x]  Available browser launchers
 
 - [Chrome and Chrome Canary](https://www.npmjs.com/package/karma-chrome-launcher)
 - [Firefox](https://www.npmjs.com/package/karma-firefox-launcher)
