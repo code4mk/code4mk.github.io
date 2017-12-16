@@ -146,3 +146,10 @@ module.exports = function(config) {
   })
 }
 ```
+
+## Karma browser
+[see more](browser/)
+
+```bash
+http://localhost:9876/
+```
