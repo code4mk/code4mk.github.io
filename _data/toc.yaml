@@ -93,6 +93,8 @@ karma:
     title: Karma History
   - path: /javascript-developer/testing/karma/browser/
     title: Browsers
+  - path: /javascript-developer/testing/karma/packages/
+    title: packages
   - path: /javascript-developer/testing/karma/thesis/
     title: testing thesis
 
