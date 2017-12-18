@@ -28,6 +28,7 @@ toc_max: 4
 ## Basic Routing
 
 ```rb
+# config\routes.rb
 get 'user', to: 'users#show'
 
 get '/user/:id', to: 'users#show'
