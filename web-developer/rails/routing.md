@@ -33,3 +33,35 @@ get 'user', to: 'users#show'
 
 get '/user/:id', to: 'users#show'
 ```
+
+## resource (crud)
+
+* `crud` base routing
+
+
+```rb
+resources :photos
+```
+
+* crud routes for photos
+
+```bash
+Prefix      Verb   URI Pattern                Controller#Action
+photos      GET    /photos(.:format)          photos#index
+            POST   /photos(.:format)          photos#create
+new_photo   GET    /photos/new(.:format)      photos#new
+edit_photo  GET    /photos/:id/edit(.:format) photos#edit
+ photo      GET    /photos/:id(.:format)      photos#show
+            PATCH  /photos/:id(.:format)      photos#update
+            PUT    /photos/:id(.:format)      photos#update
+            DELETE /photos/:id(.:format)      photos#destroy
+```
+### multiple resources
+
+```rb
+resources :photos, :books, :videos
+# or
+resources :photos
+resources :books
+resources :videos
+```
