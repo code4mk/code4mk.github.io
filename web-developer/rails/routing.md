@@ -120,3 +120,4 @@ article             GET    /articles/:id(.:format)      admin/articles#show
                     PUT    /articles/:id(.:format)      admin/articles#update
                     DELETE /articles/:id(.:format)      admin/articles#destroy
 -------------------------------------------------------------------------------------
+```
