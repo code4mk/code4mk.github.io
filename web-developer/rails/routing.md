@@ -107,6 +107,7 @@ scope module: 'admin' do
 end
 ```
 
+
 ```bash
 ------------------------------------------------------------------------------------
 Prefix              Verb   URI Pattern                        Controller#Action
