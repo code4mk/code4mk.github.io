@@ -209,3 +209,5 @@ end
 <%= link_to 'Magazine details', @magazine %>
 <%= link_to 'Edit Ad', [:edit, @magazine, @ad] %>
 ```
+
+* [official rails routing](http://guides.rubyonrails.org/routing.html)
