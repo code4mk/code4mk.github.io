@@ -105,6 +105,8 @@ admin_article       GET    /admin/articles/:id(.:format)      admin/articles#sho
 scope module: 'admin' do
   resources :articles
 end
+# or
+resources :articles, module: 'admin'
 ```
 
 
@@ -121,4 +123,29 @@ article             GET    /articles/:id(.:format)      admin/articles#show
                     PUT    /articles/:id(.:format)      admin/articles#update
                     DELETE /articles/:id(.:format)      admin/articles#destroy
 -------------------------------------------------------------------------------------
+```
+
+* without `namespace`  directory
+
+```rb
+scope '/admin' do
+  resources :articles
+end
+# or
+resources :articles, path: '/admin/articles'
+```
+
+```bash 
+---------------------------------------------------------------------------
+Prefix        Verb   URI Pattern                        Controller#Action
+------        ----   -----------                        -----------------
+   articles   GET    /admin/articles(.:format)          articles#index
+              POST   /admin/articles(.:format)          articles#create
+new_article   GET    /admin/articles/new(.:format)      articles#new
+edit_article  GET    /admin/articles/:id/edit(.:format) articles#edit
+    article   GET    /admin/articles/:id(.:format)      articles#show
+              PATCH  /admin/articles/:id(.:format)      articles#update
+              PUT    /admin/articles/:id(.:format)      articles#update
+              DELETE /admin/articles/:id(.:format)      articles#destroy
+----------------------------------------------------------------------------
 ```
