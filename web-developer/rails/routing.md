@@ -25,3 +25,10 @@ toc_max: 4
              DELETE /users/:id(.:format)      users#destroy
  test_photos GET    /test/photos(.:format)    test#photos
  ```
+## Basic Routing
+
+```rb
+get 'user', to: 'users#show'
+
+get '/user/:id', to: 'users#show'
+```
