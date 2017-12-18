@@ -13,6 +13,8 @@ toc_max: 4
 
 ## routing demo structure
 
+* `rake routes`
+
 ```bash
 ----------------------------------------------------------------
       Prefix   Verb   URI Pattern               Controller#Action
@@ -72,4 +74,27 @@ resources :photos, :books, :videos
 resources :photos
 resources :books
 resources :videos
+```
+
+## namespace
+
+```rb
+namespace :admin do
+  resources :articles
+end
+```
+
+```bash
+------------------------------------------------------------------------------------
+Prefix              Verb   URI Pattern                        Controller#Action
+-------             ----   -----------                        ------------------
+admin_articles      GET    /admin/articles(.:format)          admin/articles#index
+                    POST   /admin/articles(.:format)          admin/articles#create
+new_admin_article   GET    /admin/articles/new(.:format)      admin/articles#new
+edit_admin_article  GET    /admin/articles/:id/edit(.:format) admin/articles#edit
+admin_article       GET    /admin/articles/:id(.:format)      admin/articles#show
+                    PATCH  /admin/articles/:id(.:format)      admin/articles#update
+                    PUT    /admin/articles/:id(.:format)      admin/articles#update
+                    DELETE /admin/articles/:id(.:format)      admin/articles#destroy
+-------------------------------------------------------------------------------------
 ```
