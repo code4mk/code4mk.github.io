@@ -153,3 +153,37 @@ edit_article  GET    /admin/articles/:id/edit(.:format) articles#edit
               DELETE /admin/articles/:id(.:format)      articles#destroy
 ----------------------------------------------------------------------------
 ```
+
+## concern
+
+`concern` is a reusable process for rails routing.
+
+```rb
+concern :commentable do
+  resources :comments
+end
+resources :messages, concerns: :commentable
+```
+
+```bash
+-----------------------------------------------------------------------------------------
+Prefix               Verb   URI Pattern                                 Controller#Action
+------               ----   -----------                                 -----------------
+message_comments     GET    /messages/:message_id/comments              comments#index
+                     POST   /messages/:message_id/comments              comments#create
+new_message_comment  GET    /messages/:message_id/comments/new          comments#new
+edit_message_comment GET    /messages/:message_id/comments/:id/edit     comments#edit
+     message_comment GET    /messages/:message_id/comments/:id          comments#show
+                     PATCH  /messages/:message_id/comments/:id          comments#update
+                     PUT    /messages/:message_id/comments/:id          comments#update
+                     DELETE /messages/:message_id/comments/:id          comments#destroy
+            messages GET    /messages                                   messages#index
+                     POST   /messages                                   messages#create
+         new_message GET    /messages/new                               messages#new
+        edit_message GET    /messages/:id/edit                          messages#edit
+             message GET    /messages/:id                               messages#show
+                     PATCH  /messages/:id                               messages#update
+                     PUT    /messages/:id                               messages#update
+                     DELETE /messages/:id                               messages#destroy
+----------------------------------------------------------------------------------------
+```
