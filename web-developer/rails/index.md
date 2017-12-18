@@ -11,7 +11,7 @@ toc_max: 4
 
 
 
-## rounting demo structure
+## routing demo structure
 
 ```bash
       Prefix Verb   URI Pattern               Controller#Action
@@ -25,3 +25,5 @@ toc_max: 4
              DELETE /users/:id(.:format)      users#destroy
  test_photos GET    /test/photos(.:format)    test#photos
  ```
+
+ ## Basic Routing 
