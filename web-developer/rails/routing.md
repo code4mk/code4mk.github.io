@@ -98,3 +98,25 @@ admin_article       GET    /admin/articles/:id(.:format)      admin/articles#sho
                     DELETE /admin/articles/:id(.:format)      admin/articles#destroy
 -------------------------------------------------------------------------------------
 ```
+
+* without `/admin` / `namespace`
+
+```rb
+scope module: 'admin' do
+  resources :articles
+end
+```
+
+```bash
+------------------------------------------------------------------------------------
+Prefix              Verb   URI Pattern                        Controller#Action
+-------             ----   -----------                        ------------------
+articles            GET    /articles(.:format)          admin/articles#index
+                    POST   /articles(.:format)          admin/articles#create
+new_article         GET    /articles/new(.:format)      admin/articles#new
+edit_article        GET    /articles/:id/edit(.:format) admin/articles#edit
+article             GET    /articles/:id(.:format)      admin/articles#show
+                    PATCH  /articles/:id(.:format)      admin/articles#update
+                    PUT    /articles/:id(.:format)      admin/articles#update
+                    DELETE /articles/:id(.:format)      admin/articles#destroy
+-------------------------------------------------------------------------------------
