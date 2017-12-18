@@ -34,11 +34,19 @@ toc_max: 4
 
 ```rb
 # config\routes.rb
-get 'user', to: 'users#show'
+get 'users', to: 'users#show'
 
-get 'user', to: :show, controller: 'users'
+get 'users', to: :show, controller: 'users'
 
-get '/user/:id', to: 'users#show'
+get '/users/:id', to: 'users#show'
+```
+
+### constraints
+
+```rb
+get 'users/:id', to: 'users#show', constraints: { id: /[A-Z]\d{5}/
+get 'users/:id', to: 'users#show', id: /[A-Z]\d{5}/
+get '/:id', to: 'articles#show', constraints: { id: /^\d/ }
 ```
 
 ## resource (crud)
