@@ -51,7 +51,7 @@ resources :photos
 # only index
 resources :photos, only: [:index]
 # except index
-resources :images, except: [:create, :index, :edit]
+resources :photos, except: [:create, :index, :edit]
 ```
 
 * crud routes for photos
