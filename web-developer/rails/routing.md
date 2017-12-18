@@ -37,8 +37,13 @@ toc_max: 4
 get 'users', to: 'users#show'
 
 get 'users', to: :show, controller: 'users'
-
+# params
 get '/users/:id', to: 'users#show'
+# redirect
+get '/stories', to: redirect('/articles')
+# root path '/'
+root to: 'pages#main'
+root 'pages#main'
 ```
 
 ### constraints
