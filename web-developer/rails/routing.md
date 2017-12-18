@@ -34,6 +34,8 @@ toc_max: 4
 # config\routes.rb
 get 'user', to: 'users#show'
 
+get 'user', to: :show, controller: 'users'
+
 get '/user/:id', to: 'users#show'
 ```
 
