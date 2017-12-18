@@ -187,3 +187,17 @@ edit_message_comment GET    /messages/:message_id/comments/:id/edit     comments
                      DELETE /messages/:id                               messages#destroy
 ----------------------------------------------------------------------------------------
 ```
+
+## link routes
+
+```bash
+resources :magazines do
+  resources :ads
+end
+
+<%= link_to 'Ad details', magazine_ad_path(@magazine, @ad) %>
+<%= link_to 'Ad details', url_for([@magazine, @ad]) %>
+<%= link_to 'Ad details', [@magazine, @ad] %>
+<%= link_to 'Magazine details', @magazine %>
+<%= link_to 'Edit Ad', [:edit, @magazine, @ad] %>
+```
