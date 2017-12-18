@@ -11,7 +11,7 @@ toc_max: 4
 
 
 
-## rounting demo
+## rounting demo structure
 
 ```bash
       Prefix Verb   URI Pattern               Controller#Action
