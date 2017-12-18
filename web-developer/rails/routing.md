@@ -14,7 +14,9 @@ toc_max: 4
 ## routing demo structure
 
 ```bash
+----------------------------------------------------------------
       Prefix Verb   URI Pattern               Controller#Action
+      ------ ----   -----------               ------------------
        users GET    /users(.:format)          users#index
              POST   /users(.:format)          users#create
     new_user GET    /users/new(.:format)      users#new
@@ -24,6 +26,7 @@ toc_max: 4
              PUT    /users/:id(.:format)      users#update
              DELETE /users/:id(.:format)      users#destroy
  test_photos GET    /test/photos(.:format)    test#photos
+ ---------------------------------------------------------------
  ```
 ## Basic Routing
 
