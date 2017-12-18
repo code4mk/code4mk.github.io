@@ -48,6 +48,10 @@ get '/user/:id', to: 'users#show'
 
 ```rb
 resources :photos
+# only index
+resources :photos, only: [:index]
+# except index
+resources :images, except: [:create, :index, :edit]
 ```
 
 * crud routes for photos
@@ -135,7 +139,7 @@ end
 resources :articles, path: '/admin/articles'
 ```
 
-```bash 
+```bash
 ---------------------------------------------------------------------------
 Prefix        Verb   URI Pattern                        Controller#Action
 ------        ----   -----------                        -----------------
