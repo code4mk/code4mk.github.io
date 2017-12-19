@@ -92,9 +92,9 @@ auto_discovery_link_tag|javascript_include_tag|stylesheet_link_tag|
 
 * [official link](http://guides.rubyonrails.org/layouts_and_rendering.html)
 
-### yeild
+### yield
 
-yeild is a inserted process.
+yield is a inserted process.
 
 ```rb
 <html>
