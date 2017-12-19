@@ -29,6 +29,32 @@ toc_max: 4
 <%= render "menu" %>
 ```
 
+## render
+
+```bash
+render :edit
+render action: :edit
+render "edit"
+render "edit.html.erb"
+render action: "edit"
+render action: "edit.html.erb"
+render "books/edit"
+render "books/edit.html.erb"
+render template: "books/edit"
+render template: "books/edit.html.erb"
+render "/path/to/rails/app/views/books/edit"
+render "/path/to/rails/app/views/books/edit.html.erb"
+render file: "/path/to/rails/app/views/books/edit"
+render file: "/path/to/rails/app/views/books/edit.html.erb"
+render inline: "<% products.each do |p| %><p><%= p.name %></p><% end %>"
+render plain: "OK"
+render html: "<strong>Not Found</strong>".html_safe
+render json: @product
+render xml: @product
+render js: "alert('Hello Rails');"
+render body: "raw"
+```
+
 
 ## Structuring Layouts
 
@@ -108,6 +134,7 @@ yield is a inserted process.
 ```
 
 #### content_for
+
 this is use for named yeild `:head`
 
 ```bash
