@@ -4,7 +4,7 @@ keywords: ruby, rails, ruby on rails
 title: Routing Rails
 toc_max: 4
 ---
-* resource controller
+## resource controller
 
 ```rb
 class ArticlesController < ApplicationController
