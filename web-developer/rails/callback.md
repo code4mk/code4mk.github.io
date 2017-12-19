@@ -1,6 +1,6 @@
 ---
 description: Callbacks Rails
-keywords: ruby, rails, ruby on rails
+keywords: ruby, rails, ruby on rails, callback, model
 title: Callbacks Rails
 toc_max: 4
 ---
