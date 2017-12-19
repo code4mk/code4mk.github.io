@@ -53,7 +53,11 @@ render json: @product
 render xml: @product
 render js: "alert('Hello Rails');"
 render body: "raw"
+render status: 500
+render status: :forbidden
 ```
+
+* [status code](https://code4mk.org/web-developer/rails/status-code)
 
 
 ## Structuring Layouts
