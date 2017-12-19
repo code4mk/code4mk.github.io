@@ -91,3 +91,27 @@ auto_discovery_link_tag|javascript_include_tag|stylesheet_link_tag|
 ```
 
 * [official link](http://guides.rubyonrails.org/layouts_and_rendering.html)
+
+### yeild
+
+yeild is a inserted process.
+
+```rb
+<html>
+  <head>
+  <%= yield :head %>
+  </head>
+  <body>
+  <%= yield %>
+  </body>
+</html>
+```
+
+#### content_for
+this is use for named yeild `:head`
+
+```bash
+<% content_for :head do %>
+  <title>This is a content for part</title>
+<% end %>
+```
