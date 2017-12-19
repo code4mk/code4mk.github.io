@@ -38,6 +38,13 @@ toc_max: 4
 |toggle!|update_attribute|update|update!|
 |valid?|.|.|.|
 
+### 4 Skipping Callbacks
+
+|callback |callback  |  callback |  callback |
+|---|---|---|---|
+|decrement|decrement_counter|delete|delete_all|
+|increment|increment_counter|toggle|touch|
+|update_column|update_columns|update_all|update_counters|
 
 
 * [Ofiicila link](http://guides.rubyonrails.org/active_record_callbacks.html)
