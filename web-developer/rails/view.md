@@ -78,14 +78,16 @@ auto_discovery_link_tag|javascript_include_tag|stylesheet_link_tag|
 <%= image_tag "home.gif", alt: "Go Home", id: "HomeImage", class: "nav_bar" %>
 ```
 
-### video_tag
+#### video_tag
 
 ```bash
 <video src="/videos/movie.ogg" />
 ```
 
-#### audio_tag 
+#### audio_tag
 
 ```bash
 <%= audio_tag "music/first_song.mp3" %>
 ```
+
+* [official link](http://guides.rubyonrails.org/layouts_and_rendering.html)
