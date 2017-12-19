@@ -20,6 +20,11 @@ rails g model Post title:string
 
 ```bash
 rails g controller Posts
+# 
+rails g scaffold Article title:string body:text
 ```
+* [official link](http://guides.rubyonrails.org/active_model_basics.html)
+
+
 * https://learn.co/lessons/rails-resource-and-scaffold-generator
 * http://guides.rubyonrails.org/active_record_basics.html
