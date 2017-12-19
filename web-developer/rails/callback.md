@@ -6,7 +6,7 @@ toc_max: 4
 ---
 
 ## Callbacks
-* 1
+### 1
 
 |callback |Creating  |  Updating |  Destroying |
 |---|---|---|---|
@@ -23,13 +23,13 @@ toc_max: 4
 |around_destroy|✘ | ✘| ✔  |
 |after_destroy|✘ | ✘| ✔  |
 
-* 2
+### 2
 
 |callback |callback  |  callback |  callback |
 |---|---|---|---|
 |after_initialize|after_find|after_touch|
 
-* 3 Running Callbacks
+### 3 Running Callbacks
 
 |callback |callback  |  callback |  callback |
 |---|---|---|---|
