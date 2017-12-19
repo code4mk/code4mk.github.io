@@ -14,6 +14,11 @@ class ArticlesController < ApplicationController
   # GET /articles.json
   def index
     @articles = Article.all
+
+    # render template
+    render (:action => 'hello')
+    render (:template => 'app/hello')
+    render('hello')
   end
 
   # GET /articles/1
@@ -82,3 +87,11 @@ class ArticlesController < ApplicationController
     end
 end
 ```
+
+*
+```rb
+params.permit(id: [])
+```
+
+
+* [official links](http://guides.rubyonrails.org/action_controller_overview.html)
