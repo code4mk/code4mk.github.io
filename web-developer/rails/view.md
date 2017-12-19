@@ -64,4 +64,28 @@ auto_discovery_link_tag|javascript_include_tag|stylesheet_link_tag|
 <%= stylesheet_link_tag "main", "photos/columns" %>
 # output
  app/assets/stylesheets/main.css and app/assets/stylesheets/photos/columns.css
+# direct cdn
+<%= stylesheet_link_tag "http://example.com/main.css" %>
+```
+
+#### image_tag
+
+```bash
+<%= image_tag "icons/delete.gif" %>
+<%= image_tag "icons/delete.gif", {height: 45} %>
+<%= image_tag "home.gif", alt: "Home" %>
+# full demo of image tag
+<%= image_tag "home.gif", alt: "Go Home", id: "HomeImage", class: "nav_bar" %>
+```
+
+### video_tag
+
+```bash
+<video src="/videos/movie.ogg" />
+```
+
+#### audio_tag 
+
+```bash
+<%= audio_tag "music/first_song.mp3" %>
 ```
