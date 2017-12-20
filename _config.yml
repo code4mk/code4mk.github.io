@@ -10,8 +10,22 @@ incremental: true
 permalink: pretty
 safe: false
 lsi: false
+title: code4mk organization
 url: https://code4mk.org
-
+author: code4mk
+description: code4mk is a tech open source organization . web development , web design , JavaScript develoer , ruby , rails , php , laravel , java , spring , vue , react , angular , jQuery , js , es6 , TypeScript ,  testing
+twitter:
+  username: code4mk
+logo: /images/code4mk-logo.png
+social:
+  name: code4mk.org
+  links:
+    - https://twitter.com/code4mk
+    - https://www.facebook.com/code4mk.org
+    - https://www.linkedin.com/in/code4mk
+    - https://github.com/code4mk
+facebook:
+ admins: code4mk
 # Component versions -- address like site.docker_ce_stable_version
 # You can't have - characters in these for non-YAML reasons
 
