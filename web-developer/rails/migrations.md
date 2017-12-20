@@ -10,6 +10,7 @@ toc_max: 4
 ```bash
 rails g migration CreateProducts name:string
 rails g migration AddPartNumberToProducts part_number:string
+rails g migration AddUserRefToProducts user:references
 ```
 
 * [official link](http://guides.rubyonrails.org/active_record_migrations.html)
