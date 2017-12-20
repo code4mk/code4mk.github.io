@@ -10,7 +10,7 @@ incremental: true
 permalink: pretty
 safe: false
 lsi: false
-url: http://code4mk.org
+url: https://code4mk.org
 
 # Component versions -- address like site.docker_ce_stable_version
 # You can't have - characters in these for non-YAML reasons
