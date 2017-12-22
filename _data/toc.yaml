@@ -138,9 +138,9 @@ rails:
     title: Routing
 - sectiontitle: Advanced Rails
   section:
-  - path: /web-developer/rails/status-code
+  - path: /web-developer/rails/status-code/
     title: Web Status code
-  - path: /web-developer/rails/autoloading
+  - path: /web-developer/rails/autoloading/
     title: Autoloading
 
 
