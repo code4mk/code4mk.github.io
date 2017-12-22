@@ -25,3 +25,16 @@ rails new myNewBlog
 cd myNewBlog
 rails server
 ```
+
+## Manual install
+
+If you want to manual install  , follow
+
+ * Install ruby > 2.2
+ * gem (default ruby)
+ * SQLite3 Database / mysql / etc.
+ * Rails install
+
+ ```bash
+ gem install rails
+ ```
