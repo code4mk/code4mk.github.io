@@ -14,6 +14,9 @@ horizontalnav:
 - title: Jasmine
   path: /jasmine
   node: jasmine
+- title: Rails
+  path: /rails
+  node: rails
 - title: Guides
   path: /guides
   node: guides
