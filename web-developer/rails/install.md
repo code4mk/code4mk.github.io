@@ -5,7 +5,7 @@ title: Install Rails
 toc_max: 4
 ---
 
-### Rails Installer
+## Rails Installer
 
 Rails Installer is awesome for Rails environment. [Rails Installer](http://railsinstaller.org/en) download form here.
 
@@ -17,7 +17,7 @@ sqlite3 --version
 rails --version
 ```
 
-### Rails new project
+## Rails new project
 
 ```bash
 rails new myNewBlog
