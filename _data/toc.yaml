@@ -126,8 +126,10 @@ rails:
     title: Controller
   - path: /web-developer/rails/migration/
     title: Migration
-  - path: /web-developer/rails/orm/
+  - path: /web-developer/rails/relation/
     title: Relationship / Associations
+  - path: /web-developer/rails/orm/
+    title: ORM
 
 
 guides:
