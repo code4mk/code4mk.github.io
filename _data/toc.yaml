@@ -121,7 +121,7 @@ rails:
 - sectiontitle: Basic Rails
   section:
   - path: /web-developer/rails/
-    title:  Rails Structure
+    title:  Skeleton of Rails
   - path: /web-developer/rails/model/
     title: Model
   - path: /web-developer/rails/callback/
