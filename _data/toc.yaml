@@ -116,7 +116,7 @@ jasmine:
 rails:
 - sectiontitle: Install Rails
   section:
-  - path: /web-developer/rails/install
+  - path: /web-developer/rails/install/
     title: Install rails
 - sectiontitle: Basic Rails
   section:
