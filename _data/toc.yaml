@@ -110,6 +110,22 @@ jasmine:
   - path: /javascript-developer/testing/jasmine/spy/
     title: Spy
 
+rails:
+- sectiontitle: Basic Rails
+  section:
+  - path: /web-developer/rails/
+    title: Install rails
+  - path: /web-developer/rails/model/
+    title: Model
+  - path: /web-developer/rails/view/
+    title: View
+  - path: /web-developer/rails/controller/
+    title: Controller
+  - path: /web-developer/rails/migration/
+    title: Migration
+  - path: /web-developer/rails/orm/
+    title: Relationship / Associations
+
 
 guides:
 - sectiontitle: Get Docker

@@ -7,13 +7,17 @@ toc_max: 4
 
 ## what is view  
 
+```bash
+rails generate scaffold article
+```
+
 
 ##  parts of views
 * template
 * partials
 * layouts
 
-~ extension is `.erb` embedded ruby
+~ extension is `.erb` that mean `embedded ruby`
 
 ## basic
 
