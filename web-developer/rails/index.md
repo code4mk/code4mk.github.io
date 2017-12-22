@@ -17,3 +17,5 @@ toc_max: 4
 
 * [book 1](http://intertwingly.net/projects/AWDwR4/checkdepot/section-15.2.html)
 * [book online](https://www.railstutorial.org/book/filling_in_the_layout#sec-partials)
+
+* http://www.pragtob.info/rails-beginner-cheatsheet/
