@@ -114,10 +114,14 @@ jasmine:
     title: Spy
 
 rails:
+- sectiontitle: Install Rails
+  section:
+  - path: /web-developer/rails/install
+    title: Install rails
 - sectiontitle: Basic Rails
   section:
   - path: /web-developer/rails/
-    title: Install rails
+    title:  Rails Structure
   - path: /web-developer/rails/model/
     title: Model
   - path: /web-developer/rails/callback/
