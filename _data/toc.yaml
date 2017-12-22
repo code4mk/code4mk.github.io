@@ -120,8 +120,12 @@ rails:
     title: Install rails
   - path: /web-developer/rails/model/
     title: Model
+  - path: /web-developer/rails/callback/
+    title: callback
   - path: /web-developer/rails/view/
     title: View
+  - path: /web-developer/rails/form/
+    title: form
   - path: /web-developer/rails/controller/
     title: Controller
   - path: /web-developer/rails/migration/
@@ -130,6 +134,14 @@ rails:
     title: Relationship / Associations
   - path: /web-developer/rails/orm/
     title: ORM
+  - path: /web-developer/rails/routing/
+    title: Routing
+- sectiontitle: Advanced Rails
+  section:
+  - path: /web-developer/rails/status-code
+    title: Web Status code
+  - path: /web-developer/rails/autoloading
+    title: Autoloading
 
 
 guides:
