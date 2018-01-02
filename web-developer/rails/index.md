@@ -40,3 +40,6 @@ toc_max: 4
 * [book online](https://www.railstutorial.org/book/filling_in_the_layout#sec-partials)
 
 * http://www.pragtob.info/rails-beginner-cheatsheet/
+* https://gist.github.com/mdang/95b4f54cadf12e7e0415
+* https://devhints.io/rails
+* https://hackpad.com/Ruby-on-Rails-Cheatsheet-OHbbKZoLNCY
