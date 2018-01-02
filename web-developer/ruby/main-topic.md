@@ -42,41 +42,41 @@ toc_max: 4
      * RUBY VARIABLE SCOPE INDICATORS
 
   *  OBJECT TYPES
-    * Objects
-    * Variables
-    * Variable scope indicators
-    * Integers
-    * Floats
-    * Strings
-    * Arrays
-    * Array methods
-    * Hashes
-    * Symbols
-    * Booleans
-    * Ranges
-    * Constants
+     * Objects
+     * Variables
+     * Variable scope indicators
+     * Integers
+     * Floats
+     * Strings
+     * Arrays
+     * Array methods
+     * Hashes
+     * Symbols
+     * Booleans
+     * Ranges
+     * Constants
 
   * CONTROL STRUCTURES
-        * Conditionals if, else, elsif
-        * Conditionals unless, case
-        * Loops
-        * Iterators
+     * Conditionals if, else, elsif
+     * Conditionals unless, case
+     * Loops
+     * Iterators
 
   * CODE BLOCKS
-        * What is a code block
-        * Find
-        * Merge
-        * Collect
-        * Sort
-        * Inject
+     * What is a code block
+     * Find
+     * Merge
+     * Collect
+     * Sort
+     * Inject
 
   * METHODS
-        * Defining and calling methods
-        * Variable scope in methods
-        * Arguments
-        * Argument default values
-        * Return value
-        * Operators are also methods
+     * Defining and calling methods
+     * Variable scope in methods
+     * Arguments
+     * Argument default values
+     * Return value
+     * Operators are also methods
 
   * CLASSES
     * Defining and using classes
