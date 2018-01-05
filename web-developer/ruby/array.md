@@ -5,6 +5,8 @@ title: Array Ruby
 toc_max: 4
 ---
 
+## Array
+
 ```ruby
 arr = [1, 2, 3, 4, 5, 6]
 arr.first #=> 1
