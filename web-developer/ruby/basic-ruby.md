@@ -38,3 +38,5 @@ name2 = 'mostafa'
 puts name.object_id
 puts name2.object_id
 ```
+
+* [source](https://ruby-doc.org/core-2.2.0/Symbol.html)
