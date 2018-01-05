@@ -12,3 +12,4 @@ require_dependency 'application_controller'
 * [official link](http://guides.rubyonrails.org/autoloading_and_reloading_constants.html)
 
 * http://www.rubydoc.info/github/rails/rails/ActionController%2FConditionalGet%3Aexpires_now
+* kamal 
