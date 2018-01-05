@@ -25,3 +25,16 @@ This is multi line comment with begin and end
 puts 'single qoute string'
 puts "Double qoute string"
 ```
+
+## symbol
+
+* `:` symbol keyword
+* fixed object id
+
+```ruby
+name = :'mostafa'
+name2 = 'mostafa'
+
+puts name.object_id
+puts name2.object_id
+```
