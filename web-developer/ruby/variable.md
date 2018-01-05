@@ -62,3 +62,5 @@ $globalVar = "This is global variable"
 puts name
 puts "he is #{AgeKamal} and #{age}"
 ```
+
+* [source](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
