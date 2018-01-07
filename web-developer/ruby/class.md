@@ -89,6 +89,14 @@ class Mammal < Animal
 end
 ```
 
+## Inheritance vs Modules
+
+| Inheritance  | Modules  |
+|---|---|
+|one class| multiple class|
+|"is-a" relationship| "has-a" relationship|
+
+
 ## source
 
 * [ruby doc](https://ruby-doc.org/core-2.2.0/Class.html)
