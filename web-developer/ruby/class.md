@@ -58,7 +58,17 @@ end
 
 
 
+## self
 
+```ruby
+class Integer
+  def more
+    return self + 1
+  end
+end
+6.more # -> 7
+```
 
 * [source](https://ruby-doc.org/core-2.2.0/Class.html)
 * [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Classes)
+* [wikibook 1](https://en.wikibooks.org/wiki/Ruby_Programming/Classes_and_objects)

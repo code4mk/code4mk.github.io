@@ -62,5 +62,12 @@ $globalVar = "This is global variable"
 puts name
 puts "he is #{AgeKamal} and #{age}"
 ```
+## input from user
 
-* [source](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
+```ruby
+name = gets
+name = gets.chomp
+```
+# source
+* [wiki book](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
+* [launchschool](https://launchschool.com/books/ruby/read/variables#whatisavariable)
