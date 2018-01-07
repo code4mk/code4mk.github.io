@@ -4,11 +4,11 @@ keywords: ruby
 title: Conditions ruby
 toc_max: 4
 ---
-# flow control
+## flow control
 
 `<, >, <=, >=, ==, !=, &&, ||`
 
-# if/else
+## if/else
 
 ```ruby
 puts "Put in a number"
@@ -23,7 +23,7 @@ else
 end
 ```
 
-# case
+## case
 case is basically switch case
 
 ```ruby
@@ -38,8 +38,8 @@ else
   puts "a is neither 5, nor 6"
 end
 ```
-# source
+## source
 
-* [launchschool](https://launchschool.com/books/ruby/read/flow_control#conditionals)
+* [launchschool](https://launchschool.com/books/ruby/read/flow_control##conditionals)
 * [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Control_Structures)
 * [ruby doc](https://ruby-doc.org/core-2.2.0/doc/syntax/control_expressions_rdoc.html)
