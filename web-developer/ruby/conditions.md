@@ -6,6 +6,8 @@ toc_max: 4
 ---
 ## flow control
 
+* operators
+
 `<, >, <=, >=, ==, !=, &&, ||`
 
 ## if/else

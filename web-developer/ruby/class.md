@@ -109,6 +109,8 @@ kitty = Mammal::Cat.new
 buddy.speak('Arf!')           # => "Arf!"
 kitty.say_name('kitty')       # => "kitty"
 ```
+* [module ruby doc](https://ruby-doc.org/core-2.2.0/Module.html)
+
 ## Inheritance vs Modules
 
 | Inheritance  | Modules  |
