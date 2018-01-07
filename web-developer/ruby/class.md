@@ -68,7 +68,30 @@ class Integer
 end
 6.more # -> 7
 ```
+## module
 
-* [source](https://ruby-doc.org/core-2.2.0/Class.html)
+* `module`, and `include` keywords
+
+```ruby
+module Swimmable
+  def swim
+    "I'm swimming!"
+  end
+end
+
+class Animal; end
+
+class Fish < Animal
+  include Swimmable         # mixing in Swimmable module
+end
+
+class Mammal < Animal
+end
+```
+
+## source
+
+* [ruby doc](https://ruby-doc.org/core-2.2.0/Class.html)
 * [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Classes)
 * [wikibook 1](https://en.wikibooks.org/wiki/Ruby_Programming/Classes_and_objects)
+* [launchschool oop ruby](https://launchschool.com/books/oo_ruby/read/inheritance#classinheritance)
