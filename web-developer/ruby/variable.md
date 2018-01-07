@@ -68,6 +68,6 @@ puts "he is #{AgeKamal} and #{age}"
 name = gets
 name = gets.chomp
 ```
-# source
+## source
 * [wiki book](https://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants)
 * [launchschool](https://launchschool.com/books/ruby/read/variables#whatisavariable)

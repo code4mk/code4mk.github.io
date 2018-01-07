@@ -18,7 +18,7 @@ end
 
 ```ruby
 def method_name
-  # method body goes here
+  ## method body goes here
 end
 ```
 * demo 2 / parameter
@@ -36,7 +36,7 @@ def method_name(msg, body)
 end
 ```
 
-# return
+## return
 
 ```ruby
 def add_three(number)
@@ -47,7 +47,7 @@ returned_value = add_three(4)
 puts returned_value
 ```
 
-# source
+## source
 
 * [ruby doc](https://ruby-doc.org/core-2.2.0/Method.html)
 * [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming/Writing_methods)

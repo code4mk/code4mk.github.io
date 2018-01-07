@@ -5,9 +5,9 @@ title: Main topics ruby
 toc_max: 4
 ---
 
-# Main Topics
+## Main Topics
 
-# source
+## source
 
 * official site : https://www.ruby-lang.org/en/
 * official github: https://github.com/ruby/ruby
@@ -18,7 +18,7 @@ toc_max: 4
 * https://github.com/nanotechz9l/ruby-101/blob/master/atvvk.rb
 * https://github.com/sintaxi/learn-ruby
 * https://github.com/JoshCheek/ruby-kickstart
-* https://launchschool.com/books/oo_ruby/read/the_object_model#whyobjectorientedprogramming
+* https://launchschool.com/books/oo_ruby/read/the_object_model##whyobjectorientedprogramming
 
 * Book:- https://launchschool.com/books/ruby/read/introduction
 * tutorial:- http://rubylearning.com
@@ -34,7 +34,7 @@ toc_max: 4
 
 
 
-# course list
+## course list
 
   * KEYWORDS
      * STRING ESCAPES
