@@ -14,6 +14,9 @@ horizontalnav:
 - title: Jasmine
   path: /jasmine
   node: jasmine
+- title: Ruby
+  path: /ruby
+  node: ruby
 - title: Rails
   path: /rails
   node: rails
@@ -113,6 +116,28 @@ jasmine:
   - path: /javascript-developer/testing/jasmine/spy/
     title: Spy
 
+ruby:
+- sectiontitle: Core
+  section:
+  - path: /web-developer/ruby/install/
+    title: Install ruby
+- sectiontitle: Basic
+  section:
+  - path: /web-developer/ruby/
+    title: Intro of ruby
+  - path: /web-developer/ruby/variable/
+    title: Variable
+  - path: /web-developer/ruby/array/
+    title: Array
+  - path: /web-developer/ruby/class/
+    title: Class & object
+  - path: /web-developer/ruby/method/
+    title: Method
+  - path: /web-developer/ruby/conditions/
+    title: Condition
+  - path: /web-developer/ruby/loop/
+    title: Loop
+
 rails:
 - sectiontitle: Install Rails
   section:
@@ -121,7 +146,7 @@ rails:
 - sectiontitle: Basic Rails
   section:
   - path: /web-developer/rails/
-    title:  Structure of a Rails 
+    title:  Structure of a Rails
   - path: /web-developer/rails/model/
     title: Model
   - path: /web-developer/rails/callback/
