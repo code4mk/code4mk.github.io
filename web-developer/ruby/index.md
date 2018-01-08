@@ -30,3 +30,4 @@ Ruby is a dynamic, reflective, object-oriented, general-purpose programming lang
 * [ruby lang](www.ruby-lang.org)
 * [ruby doc](http://ruby-doc.org/)
 * [github repo](https://github.com/ruby/ruby)
+* [ruby wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))
