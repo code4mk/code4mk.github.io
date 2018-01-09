@@ -1,7 +1,7 @@
 ---
-description: Intro sass
+description: Main topics
 keywords: css, sass, scss, ui, ux
-title: Intro sass
+title: Main topics
 toc_max: 4
 ---
 ## Variables
