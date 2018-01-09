@@ -129,6 +129,8 @@ css3:
   section:
   - path: /ui-ux/css3/
     title: Intro of css
+  - path: /ui-ux/css3/combinator/
+    title: Combinator
   - path: /ui-ux/css3/flex/
     title: Flex
   - path: /ui-ux/css3/animation/
