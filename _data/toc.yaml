@@ -38,6 +38,9 @@ horizontalnav:
 - title: Sass
   path: /sass/
   node: sass
+- title: Bem
+  path: /bem/
+  node: bem
 
 
 react:
@@ -130,6 +133,17 @@ sass:
     title: Functions
   - path: /ui-ux/sass/advanced/
     title: Advanced sass
+bem:
+- sectiontitle: Sass tips
+  section:
+  - path: /ui-ux/bem/
+    title: Intro of BEM
+  - path: /ui-ux/bem/block/
+    title: Block
+  - path: /ui-ux/bem/element/
+    title: Element
+  - path: /ui-ux/bem/modifier/
+    title: Modifier
 
 ruby:
 - sectiontitle: Core
