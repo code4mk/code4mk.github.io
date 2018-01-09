@@ -29,8 +29,8 @@ All list functions work for maps as well, treating them as lists of pairs.
 
 ## Awesome Function:
 
-* https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46
-* http://thesassway.com/advanced/pure-sass-functions
-* http://compass-style.org/index/functions/
-* https://www.sitepoint.com/sass-basics-function-directive/
-* https://devhints.io/sass
+* [https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46](https://gist.github.com/AllThingsSmitty/3bcc79da563df756be46)
+* [http://thesassway.com/advanced/pure-sass-functions](http://thesassway.com/advanced/pure-sass-functions)
+* [http://compass-style.org/index/functions/](http://compass-style.org/index/functions/)
+* [https://www.sitepoint.com/sass-basics-function-directive/](https://www.sitepoint.com/sass-basics-function-directive/)
+* [https://devhints.io/sass](https://devhints.io/sass)

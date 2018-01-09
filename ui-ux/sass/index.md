@@ -26,24 +26,24 @@ There are `two` syntaxes available for Sass. The first, known as SCSS (Sassy CSS
 The second and older syntax, known as the indented syntax (or sometimes just "Sass"), provides a more concise way of writing CSS. It uses indentation rather than brackets to indicate nesting of selectors, and newlines rather than semicolons to separate properties. Some people find this to be easier to read and quicker to write than SCSS. The indented syntax has all the same features, although some of them have slightly different syntax; this is described in the indented syntax reference. Files using this syntax have the `.sass` extension.
 
 ## Sass Master
-* https://www.sassmeister.com/
-* http://sass.js.org/
-* http://sass-lang.com/documentation/Sass/Script/Functions.html
-* http://sass-lang.com/documentation/file.SASS_REFERENCE.html
-* http://sass-lang.com/styleguide/
-* https://sass-guidelin.es/
-* http://sass-compatibility.github.io/
-* https://github.com/dropbox/css-style-guide
-* https://webdesign.tutsplus.com/categories/sass
-* https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
-* https://www.sitepoint.com/sass-reference
+* [https://www.sassmeister.com/](https://www.sassmeister.com/)
+* [http://sass.js.org/](http://sass.js.org/)
+* [http://sass-lang.com/documentation/Sass/Script/Functions.html](http://sass-lang.com/documentation/Sass/Script/Functions.html)
+* [http://sass-lang.com/documentation/file.SASS_REFERENCE.html](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
+* [http://sass-lang.com/styleguide/](http://sass-lang.com/styleguide/)
+* [https://sass-guidelin.es/](https://sass-guidelin.es/)
+* [http://sass-compatibility.github.io/](http://sass-compatibility.github.io/)
+* [https://github.com/dropbox/css-style-guide](https://github.com/dropbox/css-style-guide)
+* [https://webdesign.tutsplus.com/categories/sass](https://webdesign.tutsplus.com/categories/sass)
+* [https://en.wikipedia.org/wiki/Sass_(stylesheet_language)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+* [https://www.sitepoint.com/sass-reference](https://www.sitepoint.com/sass-reference)
 
 ## Boilerplate
 
-* https://github.com/HugoGiraudel/sass-boilerplate
+* [https://github.com/HugoGiraudel/sass-boilerplate](https://github.com/HugoGiraudel/sass-boilerplate)
 *
 
 ## Sass Cheatsheet
-* https://sass-cheatsheet.brunoscopelliti.com/
-* http://ricostacruz.com/cheatsheets/sass.html
-* https://www.cheatography.com/mist-graphx/cheat-sheets/sass-script/
+* [https://sass-cheatsheet.brunoscopelliti.com/](https://sass-cheatsheet.brunoscopelliti.com/)
+* [http://ricostacruz.com/cheatsheets/sass.html](http://ricostacruz.com/cheatsheets/sass.html)
+* [https://www.cheatography.com/mist-graphx/cheat-sheets/sass-script/](https://www.cheatography.com/mist-graphx/cheat-sheets/sass-script/)
