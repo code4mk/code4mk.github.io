@@ -121,6 +121,10 @@ ruby:
   section:
   - path: /web-developer/ruby/install/
     title: Install ruby
+  - path: /web-developer/ruby/gem/
+    title: Gem ruby
+  - path: /web-developer/ruby/bundler/
+    title: Bunldler ruby
 - sectiontitle: Basic
   section:
   - path: /web-developer/ruby/
