@@ -128,13 +128,13 @@ jasmine:
 css3
 - sectiontitle: Sass tips
   section:
-  - path: /ui-ux/css/
+  - path: /ui-ux/css3/
     title: Intro of css
-  - path: /ui-ux/sass/flex/
+  - path: /ui-ux/sass3/flex/
     title: Flex
-  - path: /ui-ux/css/animation/
+  - path: /ui-ux/css3/animation/
     title: Animation
-  - path: /ui-ux/css/transition/
+  - path: /ui-ux/css3/transition/
     title: Transition
 
 sass:
