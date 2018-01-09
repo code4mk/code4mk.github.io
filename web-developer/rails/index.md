@@ -43,3 +43,5 @@ toc_max: 4
 * https://gist.github.com/mdang/95b4f54cadf12e7e0415
 * https://devhints.io/rails
 * https://hackpad.com/Ruby-on-Rails-Cheatsheet-OHbbKZoLNCY
+
+* https://gorails.com
