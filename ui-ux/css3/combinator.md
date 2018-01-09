@@ -15,3 +15,7 @@ toc_max: 4
 `<` or `space`
 
 <iframe width="100%" height="300" src="//jsfiddle.net/code4mk/sjtcr5n0/embedded/css,html,result/dark/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+## descendant combinator
+
+<iframe width="100%" height="300" src="//jsfiddle.net/code4mk/3q92cnty/embedded/html,css,result/dark/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>
