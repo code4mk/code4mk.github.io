@@ -1,7 +1,7 @@
 ---
-description: Intro sass
+description: Intro of sass
 keywords: css, sass, scss, ui, ux
-title: Intro sass
+title: Intro of sass
 toc_max: 4
 ---
 
