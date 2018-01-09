@@ -35,6 +35,9 @@ horizontalnav:
 - title: Samples
   path: /samples/
   node: samples
+- title: Sass
+  path: /sass/
+  node: sass
 
 
 react:
@@ -115,6 +118,18 @@ jasmine:
     title: Expect
   - path: /javascript-developer/testing/jasmine/spy/
     title: Spy
+
+sass:
+- sectiontitle: Sass tips
+  section:
+  - path: /ui-ux/sass/
+    title: Intro of sass
+  - path: /ui-ux/sass/topic/
+    title: Topic of sass
+  - path: /ui-ux/sass/functions/
+    title: Functions
+  - path: /ui-ux/sass/advanced/
+    title: Advanced sass
 
 ruby:
 - sectiontitle: Core
