@@ -135,9 +135,6 @@ css:
     title: Animation
   - path: /ui-ux/css/transition
     title: transition
-
-
-
 sass:
 - sectiontitle: Sass tips
   section:
