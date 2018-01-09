@@ -133,8 +133,8 @@ css3:
     title: Flex
   - path: /ui-ux/css3/animation/
     title: Animation
-  - path: /ui-ux/css3/transition
-    title: transition/
+  - path: /ui-ux/css3/transition/
+    title: transition
 sass:
 - sectiontitle: Sass tips
   section:
