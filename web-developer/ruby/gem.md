@@ -14,11 +14,11 @@ toc_max: 4
 gem install drip
 ```
 
-# gem list
+## gem list
 
 your project gem lists
 
-# gem uninstall
+## gem uninstall
 
 ```bash
 gem uninstall drip
