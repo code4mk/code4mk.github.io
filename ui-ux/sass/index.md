@@ -1,6 +1,6 @@
 ---
 description: Intro sass
-keywords: react, react.js, js
+keywords: css, sass, scss, ui, ux
 title: Intro sass
 toc_max: 4
 ---

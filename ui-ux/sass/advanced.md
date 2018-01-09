@@ -1,6 +1,6 @@
 ---
 description: Advanced sass
-keywords: react, react.js, js
+keywords: css, sass, scss, ui, ux
 title: Advanced sass
 toc_max: 4
 ---
