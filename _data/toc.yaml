@@ -35,9 +35,9 @@ horizontalnav:
 - title: Samples
   path: /samples/
   node: samples
-- title: Css
-  path: /css/
-  node: css
+- title: Css3
+  path: /css3/
+  node: css3
 - title: Sass
   path: /sass/
   node: sass
@@ -124,17 +124,17 @@ jasmine:
     title: Expect
   - path: /javascript-developer/testing/jasmine/spy/
     title: Spy
-css:
+css3:
 - sectiontitle: css tips
   section:
-  - path: /ui-ux/css/
+  - path: /ui-ux/css3/
     title: Intro of css
-  - path: /ui-ux/css/flex/
+  - path: /ui-ux/css3/flex/
     title: Flex
-  - path: /ui-ux/css/animation/
+  - path: /ui-ux/css3/animation/
     title: Animation
-  - path: /ui-ux/css/transition
-    title: transition
+  - path: /ui-ux/css3/transition
+    title: transition/
 sass:
 - sectiontitle: Sass tips
   section:
