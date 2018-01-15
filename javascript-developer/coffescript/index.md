@@ -203,3 +203,8 @@ connection(
 |a ** b|Math.pow(a, b)|
 |a // b|Math.floor(a / b)|
 |a %% b|(a % b + b) % b|
+
+## Resource
+
+* [official site](http://coffeescript.org)
+* [online compiler](http://js2.coffee/)
