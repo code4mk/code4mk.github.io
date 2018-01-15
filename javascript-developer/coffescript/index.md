@@ -8,8 +8,7 @@ toc_max: 4
 # variable
 
 ```coffee
-nam
-e = 'kamal'
+name = 'kamal'
 ```
 
 ## string
