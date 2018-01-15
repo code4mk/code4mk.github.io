@@ -106,7 +106,7 @@ angular:
 coffescript:
 - sectiontitle: CoffeScript
   section:
-  - path: /javascript-developer/coffescript/index/
+  - path: /javascript-developer/coffescript/
     title: Lets start coffeescript
 
 karma:
