@@ -8,9 +8,9 @@ horizontalnav:
 - title: Angular
   path: /angular
   node: angular
-- title: Coffee
-  path: /coffee
-  node: coffee
+- title: CoffeScript
+  path: /coffescript
+  node: coffescript
 - title: Karma
   path: /karma
   node: karma
@@ -103,10 +103,10 @@ angular:
   - path: /javascript-developer/angular/install/
     title: Setup Angular
 
-coffee:
+coffescript:
 - sectiontitle: CoffeScript
   section:
-  - path: /javascript-developer/coffescript/
+  - path: /javascript-developer/coffescript/index/
     title: Lets start coffeescript
 
 karma:
