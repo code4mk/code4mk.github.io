@@ -1,7 +1,7 @@
 ---
-description: coffeescript is Fun
+description: coffeeScript is Fun with code4mk
 keywords: coffeescript, js
-title: coffeescript is Fun
+title: coffeeScript is Fun with code4mk
 toc_max: 4
 ---
 
@@ -12,7 +12,7 @@ nam
 e = 'kamal'
 ```
 
-# string
+## string
 
 ```coffee
  name = 'Mostafa kamal'
@@ -26,7 +26,7 @@ html = """
        </strong>
        """
 ```
-# interpolation
+## interpolation
 
 `#{yo}`
 
@@ -36,7 +36,7 @@ html = """
  users = 'users name is #{name} and age is #{age}'
 ```
 
-# functions
+## functions
 
 `->` this is functions keywords.
 
@@ -44,7 +44,7 @@ html = """
 myfuntion = (x) -> //something
 ```
 
-# objects & array
+## objects & array
 
 ```coffee
 lists = ['kamal', 'jamal', 5 , 'karim']
@@ -68,7 +68,7 @@ users =
     salary:  1000
 ```
 
-# scoping
+## scoping
 
 ```coffee
 salary = 50000
@@ -78,7 +78,7 @@ users = ->
   payment = salary + 100
 
 ```
-# conditions
+##  conditions
 
 ```coffee
 if conditon
@@ -95,7 +95,7 @@ else
  if conditionKamal then kamal else notKamal
 ```
 
-# Loop
+## Loop
 
 ```coffee
 items = ['toast', 'cheese', 'wine']
@@ -113,7 +113,7 @@ if price == 500
   sell() until supply > demand
 ```
 
-# switch / case
+## switch / case
 
 ```coffee
 switch day
@@ -131,7 +131,7 @@ switch day
 
 ```
 
-# Arrow function
+## Arrow function
 
 ```coffee
 Account = (customer, cart) ->
@@ -142,7 +142,7 @@ Account = (customer, cart) ->
    @customer.purchase @cart
 ```
 
-# class
+## class
 
 ```coffee
 class Animal
@@ -168,7 +168,7 @@ sam.move()
 tom.move()
 ```
 
-# Modules
+## Modules
 
 * es6
 
@@ -178,7 +178,7 @@ export * from 'underscore'
 
 ```
 
-# try / catch
+## try / catch
 
 ```coffee
 connection(
@@ -189,7 +189,7 @@ connection(
 )
 ```
 
-# operators
+## operators
 
 |  coffee |  JS |
 |---|---|
