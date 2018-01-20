@@ -23,7 +23,7 @@ toc_max: 4
 * <a href="https://www.periscopedata.com/blog/better-sql-schema" target="_blank">Schema design tips</a>
 
 ## designer
-* <a href="https://sqldbm.com/" target="_blank">sqldbm/a>
+* <a href="https://sqldbm.com/" target="_blank">sqldbm</a>
 * <a href="https://www.quora.com/What-is-the-best-free-DB-schema-design-tool" target="_blank">quora  tips</a>
 * <a href="https://agontuk.github.io/schema-designer/" target="_blank">Schema-designer</a>
 
