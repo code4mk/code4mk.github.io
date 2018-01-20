@@ -108,3 +108,52 @@ select col_1,col_2 from table_name
   like '%sql';
   /* not like '%a' */
 ```
+
+## join
+`join` keywords use for combining two or more tables.
+* join (inner)
+* left join
+* right join
+* full join
+
+### inner join
+
+* ignore data which left(joining table) any column is empty.
+
+```sql
+select table_1_or_2.any_coulmn,.... from table_1
+  inner join table_2 on table_1.col_name = table_2.col_name;
+```
+* hints
+
+```bash
+suppose,
+ left = table_1
+ right = table_2
+```
+### left join
+
+* If left(joining table) any column is empty that time also shown data with null value.
+
+```sql
+select table_1_or_2.any_coulmn,.... from table_1
+  left join table_2 on table_1.col_name = table_2.col_name;
+```
+### Right join
+
+* If Right table has any  empty column  that time also shown data with null value.
+
+```sql
+select table_1_or_2.any_coulmn,.... from table_1
+  right join table_2 on table_1.col_name = table_2.col_name;
+```
+
+### Full join
+
+* Full join = left join + right join
+* Return all records although left or right table's column has empty value .
+
+```sql
+select table_1_or_2.any_coulmn,.... from table_1
+  full outer join table_2 on table_1.col_name = table_2.col_name;
+```
