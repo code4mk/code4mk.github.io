@@ -3460,7 +3460,7 @@ db:
   section:
   - path: /web-developer/database/dbms/
     title: Intro of DBMS
-  - path: /web-developer/database/dbms/resouce/
+  - path: /web-developer/database/dbms/resource/
     title: DBMS Resource
 - sectiontitle: sql
   section:
