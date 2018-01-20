@@ -47,6 +47,9 @@ horizontalnav:
 - title: Bem
   path: /bem/
   node: bem
+- title: DB
+  path: /db/
+  node: db
 
 
 react:
@@ -3451,3 +3454,17 @@ manuals:
       title: Docker Swarm API
     - path: /release-notes/docker-swarm/
       title: Docker Swarm release notes
+
+db:
+- sectiontitle: DBMS
+  section:
+  - path: /Web-developer/database/dbms/
+    title: Intro of DBMS
+  - path: /Web-developer/database/dbms/resouce/
+    title: DBMS Resource
+- sectiontitle: sql
+  section:
+  - path: /Web-developer/database/sql/
+    title: Intro of sql
+  - path: /Web-developer/database/sql/fundamental/
+    title: SQL tips
