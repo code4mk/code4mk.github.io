@@ -3458,13 +3458,13 @@ manuals:
 db:
 - sectiontitle: DBMS
   section:
-  - path: /Web-developer/database/dbms/
+  - path: /web-developer/database/dbms/index/
     title: Intro of DBMS
-  - path: /Web-developer/database/dbms/resouce/
+  - path: /web-developer/database/dbms/resouce/
     title: DBMS Resource
 - sectiontitle: sql
   section:
-  - path: /Web-developer/database/sql/
+  - path: /web-developer/database/sql/index/
     title: Intro of sql
-  - path: /Web-developer/database/sql/fundamental/
+  - path: /web-developer/database/sql/fundamental/
     title: SQL tips
