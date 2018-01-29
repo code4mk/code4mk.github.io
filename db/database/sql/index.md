@@ -89,3 +89,8 @@ delete from table_name
 * [http://www.sqltutorial.org/sql-cheat-sheet/](http://www.sqltutorial.org/sql-cheat-sheet/)
 * [wiki book pdf](https://upload.wikimedia.org/wikipedia/commons/6/6d/Structured_Query_Language.pdf)
 * [wikibook](https://en.wikibooks.org/wiki/Structured_Query_Language)
+
+## gui
+
+* [https://dbeaver.jkiss.org/](https://dbeaver.jkiss.org/)
+* [mysql](https://medium.com/bestoflist/20-best-mysql-gui-tools-2017-e1abe055475e)

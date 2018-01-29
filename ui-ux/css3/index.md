@@ -103,3 +103,7 @@ Pseudo-class selectors are attached to usual selectors and start with a colon `:
 
 ## validation
 * [https://csstree.github.io/docs/validator.html](https://csstree.github.io/docs/validator.html)
+
+## cheatsheet
+
+* [https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)

@@ -9,7 +9,7 @@ toc_max: 4
 
 Database Management SYstem.
 * table = entity
-* column = attributes
+* column = attributes / fields
 
 ## Main Theme of DBMS
 
