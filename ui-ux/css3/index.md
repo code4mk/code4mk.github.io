@@ -107,3 +107,10 @@ Pseudo-class selectors are attached to usual selectors and start with a colon `:
 ## cheatsheet
 
 * [https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
+
+* [http://www.elizabethcastro.com/html/extras/cssref.html](http://www.elizabethcastro.com/html/extras/cssref.html)
+* [https://cssauthor.com/html-and-css-cheat-sheets/](https://cssauthor.com/html-and-css-cheat-sheets/)
+
+
+* [http://htmlcheatsheet.com/css/](http://htmlcheatsheet.com/css/)
+* [https://adam-marsden.co.uk/css-cheat-sheet](https://adam-marsden.co.uk/css-cheat-sheet)
