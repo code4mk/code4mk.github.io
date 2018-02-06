@@ -9,9 +9,9 @@ toc_max: 4
 
 Grid is new feature for ui/ux developer .
 
-## grid-template-column (width)
+## grid-template-column
 
-grid-template-column is like `width`
+grid-template-column is describe `column numbers with width`
 
 * value -  (200px, 1fr)
 * percentage - (30%)
@@ -91,7 +91,8 @@ grid-template-column is like `width`
 | Justify       | row axis  or horizonal  |
 | align | column axis or vertical |
 
-##align-items
+
+## align-items
 
 *  `items` position on `vertical or cross axis`
 
