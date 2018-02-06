@@ -1,6 +1,6 @@
 ---
 description: Grid
-keywords: css, ui, ux
+keywords: css, ui, ux, grid
 title: Grid
 toc_max: 4
 ---
