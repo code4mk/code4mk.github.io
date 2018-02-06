@@ -45,3 +45,9 @@ transform-origin:50% 50%; /* center (default)*/
 transform-origin: 10px 0; /* 10 px right offset*/
 transform-origin: left bottom; /*bottom left*/
 ```
+
+## resource
+* [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [css tricks](https://css-tricks.com/almanac/properties/t/transform/)
+* [https://robots.thoughtbot.com/transitions-and-transforms](https://robots.thoughtbot.com/transitions-and-transforms)
+* [cssreference](https://cssreference.io/transitions/)

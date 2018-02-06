@@ -105,3 +105,8 @@ The `@keyframes` rule specifies the animation code.
   100% { opacity: 1; }
 }
 ```
+
+## resource
+
+* [https://css-tricks.com/almanac/properties/a/animation/](https://css-tricks.com/almanac/properties/a/animation/)
+* [https://robots.thoughtbot.com/css-animation-for-beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
