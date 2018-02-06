@@ -112,11 +112,11 @@ grid-template-column is describe `column numbers with width`
 
 ## align-self
 
-* vertical postion of indivisual items.
+* vertical position of individual items.
 
 ## justify-self
 
-horizonal postion of indivisual items.
+* horizontal position of individual items.
 
 ## grid-auto-columns
 
