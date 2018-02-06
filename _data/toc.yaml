@@ -152,6 +152,8 @@ css3:
     title: Animation
   - path: /ui-ux/css3/transition/
     title: transition
+  - path: /ui-ux/css3/media/
+    title: breakpoints
 sass:
 - sectiontitle: Sass tips
   section:
