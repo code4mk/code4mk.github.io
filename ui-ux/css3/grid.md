@@ -84,6 +84,10 @@ grid-template-column is describe `column numbers with width`
 }
 ```
 
+## grid-gap
+
+* grid-gap = grid-column-gap + grid-row-gap
+
 ## justify-items
 
 | Header One     | Header Two     |
