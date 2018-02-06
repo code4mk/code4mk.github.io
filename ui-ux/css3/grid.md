@@ -138,6 +138,10 @@ horizonal postion of indivisual items.
 }
 ```
 
+### span
+
+ `span 3` means total width `3 times` `grid-template` .
+
 ## grid-row
 
 * `grid-row` = `grid-row-start` + `grid-row-end`
@@ -145,6 +149,9 @@ horizonal postion of indivisual items.
 ## grid-auto-flow
 
 * grid-auto-flow describes which direction grid -  x axis or y axis .
+
+
+
 
 ## resource
 
