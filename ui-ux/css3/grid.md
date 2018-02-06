@@ -108,18 +108,31 @@ grid-template-column is describe `column numbers with width`
 
 ## align-self
 
+* vertical postion of indivisual items.
 
 ## justify-self
 
+horizonal postion of indivisual items.
 
 ## grid-auto-columns
 
+* `grid-auto-columns` as like `grid-template-cloumns` but it is for undefined (implicitly) columns.
 
 ## grid-auto-rows
+
+* `grid-auto-rows` as like `grid-template-rows` but it is for undefined (implicitly) columns.
 
 ## grid-column
 
 * `grid-column` = `grid-column-start` + `grid-column-end`
+
+```css
+.test{
+  display: grid;
+  grid-column: 1/4
+  /* start from 1 and end to 4*/
+}
+```
 
 ## grid-row
 
@@ -127,8 +140,11 @@ grid-template-column is describe `column numbers with width`
 
 ## grid-auto-flow
 
+* grid-auto-flow describes which direction grid -  x axis or y axis .
 
 ## resource
+
+* [cssreference](https://cssreference.io/css-grid/)
 
 * [https://github.com/valentinogagliardi/awesome-css-grid](https://github.com/valentinogagliardi/awesome-css-grid)
 * [https://alialaa.github.io/css-grid-cheat-sheet/](https://alialaa.github.io/css-grid-cheat-sheet/)
