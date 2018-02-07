@@ -1,7 +1,7 @@
 ---
-description: sample class
+description: sample css
 keywords: css, ui, ux
-title: Pseudo class
+title: sample css
 toc_max: 4
 ---
 
