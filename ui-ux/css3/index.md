@@ -77,6 +77,7 @@ Pseudo-class selectors are attached to usual selectors and start with a colon `:
 ## CSS BASIC
 
 * [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [https://www.w3schools.com/css/](https://www.w3schools.com/css/)
 * [https://hellolaravel/mk/developer/css](https://hellolaravel/mk/developer/css)
 * [http://marksheet.io/](http://marksheet.io/)
