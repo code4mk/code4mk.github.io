@@ -6,12 +6,20 @@ toc_max: 4
 ---
 ## jQuery History
 
+jquery is a javascript library . write less do more .
+
+
 
 ## Who maintain jQuery
 
 
 ## main theme
 
+### syntax
+
+```js
+$(selector).action();
+```
 
 
 ## resource
@@ -24,3 +32,10 @@ toc_max: 4
 * [guide github](https://github.com/voorhoede/jquery-style-guide)
 * [pattern github](https://github.com/jquery-boilerplate/jquery-patterns)
 * [jquery rain](http://www.jqueryrain.com/)
+
+## cheatsheet
+
+* [oscarotero](https://oscarotero.com/jquery/)
+* [websitesetup](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf)
+* [over api](http://overapi.com/jquery)
+* [cheatography](https://www.cheatography.com/luigi0555/cheat-sheets/jquery/)
