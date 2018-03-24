@@ -1,6 +1,6 @@
 ---
 description: chmod permission
-keywords: linux, os
+keywords: linux, os, cli
 title: chmod permission
 toc_max: 4
 ---
