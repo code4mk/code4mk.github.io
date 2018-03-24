@@ -81,7 +81,7 @@ chmod 764 desired_file
 
 ## resources
 
-* [thegeekstuff](https://www.thegeekstuff.com/2010/06/chmod-command-examples/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+TheGeekStuff+(The+Geek+Stuff  )
+* [thegeekstuff](https://goo.gl/9AQEYW)
 
 * [linuxnix](https://www.linuxnix.com/chmod-command-explained-linuxunix/)
 * [wiki](https://en.wikipedia.org/wiki/Chmod)
