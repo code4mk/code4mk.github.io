@@ -117,3 +117,24 @@ rm -rf file1
 ```
 
 ## search
+
+### find
+
+
+### locate
+
+locate is faster , database system.
+
+* install locate
+
+```bash
+sudo apt-get update
+sudo apt-get install mlocate
+sudo updatedb
+```
+
+* `locate [options] name(s)`
+
+```bash
+locate desired_file
+```
