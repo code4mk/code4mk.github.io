@@ -85,9 +85,35 @@ cp file1 /home/john/file1
 
 mv [options] source target
 
-```bash 
+```bash
 mv file3 dir1/file3
 ```
 ## rmdir
 
+remove empty directories .
+
+* `rmdir [option] directory_names`
+
+```bash
+rmdir dir1 dir2
+# parents
+rmdir -p dir1/dir/dir
+```
+
 ## rm
+
+remove commands use for delete files and directory.
+
+* `rm [options] [-r directories] filenames`
+
+```bash
+rm file1
+#recursively
+rm -r file1
+#force
+rm -f file1
+#recursively force
+rm -rf file1
+```
+
+## search
