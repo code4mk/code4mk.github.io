@@ -257,4 +257,10 @@ linux:
 - sectiontitle: Basic
   section:
   - path: /linux4you/
-    title: Intro of DBMS
+    title: Intro of Linux
+  - path: /linux4you/distro/
+    title: Distro.
+  - path: /linux4you/basic-command/
+    title: Basic commands
+  - path: /linux4you/chmod/
+    title: permissions
