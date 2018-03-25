@@ -7,6 +7,7 @@ toc_max: 4
 
 
 ```tree
+        /
        ├── bin
        ├── boot
        ├── dev
@@ -16,7 +17,7 @@ toc_max: 4
        ├── media
        ├── mnt
        ├── opt
- / ├──├── proc
+       ├── proc
        ├── root
        ├── sbin
        ├── srv
