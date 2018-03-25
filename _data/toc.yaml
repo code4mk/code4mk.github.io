@@ -260,6 +260,8 @@ linux:
     title: Intro of Linux
   - path: /linux4you/distro/
     title: Distro.
+  - path: /linux4you/directory/
+    title: directory
   - path: /linux4you/basic-command/
     title: Basic commands
   - path: /linux4you/chmod/
