@@ -17,6 +17,41 @@ toc_max: 4
 
 `apt = advanced packaging tool` . it is most favourite packaging tool.
 
+  ~ two tools
+
+* 1.  `apt-get` = install, uninstall,update,upgrade
+* 2. `apt-cache` = finding new package
+
+
+* inatsll
+
+```bash
+sudo apt-get update
+sudo apt-get install package_name, package_name
+sudo apt-get install vim
+```
+
+* remove
+
+```bash
+# store conf.
+  sudo apt-get remove package_name
+# all delete for-ever
+  sudo apt-get purge package_name
+# unuseable package remove
+sudo apt-get autoremove
+```
+
+* upgrade
+
+```bash
+sudo apt-get update
+sudo apt-get upgrade <package_name>
+sudo apt-get upgrade
+```
+
+
+
 
 ### apt-get vs apt
 
