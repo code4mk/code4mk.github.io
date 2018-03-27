@@ -266,3 +266,5 @@ linux:
     title: Basic commands
   - path: /linux4you/chmod/
     title: permissions
+  - path: /linux4you/package/
+    title: package
