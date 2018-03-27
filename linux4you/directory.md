@@ -25,9 +25,13 @@ toc_max: 4
        ├── sys
        ├── temp
        ├── usr
-       │   ├── data1.bin
-       │   ├── data2.sql
-       │   └── data3.inf
+       │   ├── bin
+       │   ├── include
+       │   ├── lib
+       │   ├── local
+       │   ├── sbin
+       │   ├── share
+       │   └── src
        └── var
 ```
 
