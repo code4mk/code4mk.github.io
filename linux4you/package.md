@@ -17,7 +17,7 @@ toc_max: 4
 
 `apt = advanced packaging tool` . it is most favourite packaging tool.
 
-  ~ two tools
+  ~ `two tools`
 
 | name    | activity    |
 | :------------- | :------------- |
