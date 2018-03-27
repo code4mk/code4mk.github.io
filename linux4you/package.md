@@ -18,9 +18,10 @@ toc_max: 4
 `apt = advanced packaging tool` . it is most favourite packaging tool.
 
   ~ two tools
-
-* 1.  `apt-get` = install, uninstall,update,upgrade
-* 2. `apt-cache` = finding new package
+| name    | activity    |
+| :------------- | :------------- |
+|  `apt-get` | install, uninstall,update,upgrade|
+|`apt-cache` | finding new package|
 
 
 * inatsll
@@ -55,7 +56,7 @@ sudo apt-get upgrade
 
 ### apt-get vs apt
 
-| Header One     | Header Two     |
+| apt-get    | apt     |
 | :------------- | :------------- |
 |apt-get update	|apt update|
 |apt-get dist-upgrade	|apt full-upgrade|
