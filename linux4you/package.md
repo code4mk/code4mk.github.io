@@ -18,6 +18,7 @@ toc_max: 4
 `apt = advanced packaging tool` . it is most favourite packaging tool.
 
   ~ two tools
+
 | name    | activity    |
 | :------------- | :------------- |
 |  `apt-get` | install, uninstall,update,upgrade|
