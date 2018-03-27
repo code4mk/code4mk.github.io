@@ -69,7 +69,16 @@ sudo apt-get upgrade
 
 ### yum
 
-`yum - yellow dog updater/modified`
+`yum - yellow dog updater/modified` . yum is used Red Hat Enterprise Linux.
+
+
+* [tecmint](https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/)
+
+## dpkg
+
+`dpkg = debian package (.dev)`
+
+* [tecmint](https://www.tecmint.com/dpkg-command-examples/)
 
 
 ## resource
