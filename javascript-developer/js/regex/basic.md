@@ -78,7 +78,7 @@ output :
 //kam*l is the developer of code4mk organization.
 ```
 
-> kam<font style='color:green'>*l</font> is the developer of code4mk organization.
+> kam<font style='color:green'>l</font> is the developer of code4mk organization.
 
 * [basic 5](https://regexr.com/3nnt5)
 
