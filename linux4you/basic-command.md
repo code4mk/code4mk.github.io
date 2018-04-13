@@ -138,3 +138,16 @@ sudo updatedb
 ```bash
 locate desired_file
 ```
+
+## users
+
+* `who <option>`
+
+```bash
+# currently log in user
+who
+#log in user
+whoami
+```
+
+every user has unique user id (uid) that is greather than 1000.

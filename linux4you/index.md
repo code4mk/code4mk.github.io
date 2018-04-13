@@ -28,3 +28,7 @@ Most favourite os is linux. Maximum people have a `Android` phone. Android is a 
 `kernel` is `gluee` between `hardware` and `applications`. Linux new kernel knock the door after `2-3 months`.
 
 `beacuse together we are ready`
+
+## resource
+
+* [tldp](https://www.tldp.org/LDP/intro-linux/html/chap_01.html)
