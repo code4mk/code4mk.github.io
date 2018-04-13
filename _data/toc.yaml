@@ -126,6 +126,8 @@ karma:
     title: packages
   - path: /javascript-developer/testing/karma/thesis/
     title: testing thesis
+  -path: /javascript-developer/js/regex/basic/
+   title: regex
 
 jasmine:
 - sectiontitle: Jasmine BDD

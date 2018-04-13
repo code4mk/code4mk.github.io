@@ -1,4 +1,9 @@
-
+---
+description: Basic Regex
+keywords: regex, js
+title: Basic Regex
+toc_max: 4
+---
 
 
 
