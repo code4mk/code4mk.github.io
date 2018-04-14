@@ -12,7 +12,7 @@ const user = {
   age: 21
 }
 ```
-* Array type objects
+#### Array type objects
 
 ```js
 const users = [
@@ -35,6 +35,12 @@ const users = [
 * [mdn basic obj](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 ### Function
+
+```js
+function functionName(){
+  ............
+}
+```
 
 ### Boolean
 
