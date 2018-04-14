@@ -28,8 +28,11 @@ var collect = require(collect.js)
 
 ## resource
 
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
-* https://github.com/loverajoel/jstips
-* https://github.com/wesbos/JavaScript30
-* https://github.com/airbnb/javascript
-* https://javascript.info/
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [https://github.com/loverajoel/jstips](https://github.com/loverajoel/jstips)
+* [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+* [https://javascript.info/](https://javascript.info/)
+* [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+* [https://devdocs.io/javascript/classes](https://devdocs.io/javascript/classes)
