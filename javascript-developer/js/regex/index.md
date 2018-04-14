@@ -1,4 +1,9 @@
-.mk
+---
+description:  Regex
+keywords: regex, js
+title: Regex
+toc_max: 4
+---
 
 
 ## regex tips

@@ -53,7 +53,23 @@ horizontalnav:
 - title: Linux
   path: /linux/
   node: linux
+- title: JS
+  path: /js/
+  node: js
 
+
+
+js:
+- sectiontitle: regex
+  section:
+  - path: /javascript-developer/js/regex/
+    title: What is regex
+  - path: /javascript-developer/js/regex/basic/
+    title: Basic
+  - path: /javascript-developer/js/regex/group-set/
+    title: group-set
+  - path: /javascript-developer/js/regex/resource/
+    title: resource
 
 react:
 - sectiontitle: Basic React
