@@ -36,3 +36,7 @@ var collect = require(collect.js)
 * [https://javascript.info/](https://javascript.info/)
 * [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [https://devdocs.io/javascript/classes](https://devdocs.io/javascript/classes)
+
+## video
+
+* [net ninja dom](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)

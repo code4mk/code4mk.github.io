@@ -22,3 +22,8 @@ toc_max: 4
 ## online test
 
 * [https://regexr.com/](https://regexr.com/)
+
+## video
+
+* [net ninja](https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
+* [code course](https://www.youtube.com/watch?v=GVZOJ1rEnUg&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w)
