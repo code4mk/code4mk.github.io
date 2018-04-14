@@ -68,6 +68,8 @@ js:
     title: Basic
   - path: /javascript-developer/js/regex/group-set/
     title: group-set
+  - path: /javascript-developer/js/regex/lookahead/
+    title: lookahead
   - path: /javascript-developer/js/regex/resource/
     title: resource
 
