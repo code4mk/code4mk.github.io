@@ -1,0 +1,68 @@
+
+## DOM
+
+The `document object model` (dom) is a programming `interface` of `HTML/XML` document. DOM access by `document` or `window`
+
+* [MDN dom](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+* [w3 dom](https://www.w3.org/DOM/)
+* [whatwg dom](https://dom.spec.whatwg.org/)
+
+## Document
+
+### basic method
+
+* `document`
+* `documnet.all`
+* `document.body`
+* `document.characterSet`
+* `document.charset`
+* `document.compatMode`
+* `document.contentType`
+* `document.docType`
+* `document.domain`
+* `document.documentURI`
+* `document.documentElement`
+* `document.forms`
+* `document.head`
+* `document.implementation`
+* `document.images`
+* `document.scripts`
+* `document.title`
+* `document.URL`
+
+### create method
+
+ * `document.createComment('comment')`
+ * `document.createDocumentFragment()`
+ * `document.createElement('div')`
+ * `documment.createTextNode('your text')`
+
+### get methods
+
+* `document.getElementByID('idName')`
+* `document.getElementsByTagName('p')`
+* `document.getElementsByClassName('className')`
+* `document.querySelector('selector/id/class')`
+
+~ [mdn document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+
+## element
+
+* `---.attributes`
+* `---.classList`
+* `---.className`
+* `---.clientHeight`
+* `---.clientLeft`
+* `---.clientTop`
+* `---.clientWidth`
+* `---.id`
+* `---.innerHTML`
+* `---.localName`
+* `---.namespaceURI`
+* `---.outterHTML`
+* `---.prefix`
+* `---.tagName`
+* `---.appendChild()`
+* `---.remove()`
+
+~ [mdn element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
