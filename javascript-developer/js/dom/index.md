@@ -82,6 +82,8 @@ when `get` `class , id or selector` that time `document is  element`.
 * `--.parentNode`
 * `---.firstChild`
 * `---.lastChild`
+* `---.firstElementChild` (skiping white space)
+* `---.lastElementChild` (skiping white space)
 * `---.isConnected`
 * `--.prevoiusSibling`
 * `--.nextSibling`
