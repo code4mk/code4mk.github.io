@@ -89,3 +89,15 @@ when `get` `class , id or selector` that time `document is  element`.
 * `---.contains`
 
 ~ [node mdn](https://developer.mozilla.org/en-US/docs/Web/API/Node)
+
+## window
+
+* `window.innerHeight`
+* `window.innerWidth`
+* `window.open()`
+* `window.self`
+* `window.alert`
+* `window.document`
+* `window.location`
+
+~ [window mdn](https://developer.mozilla.org/en-US/docs/Web/API/Window)
