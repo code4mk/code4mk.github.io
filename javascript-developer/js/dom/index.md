@@ -82,13 +82,13 @@ when `get` `class , id or selector` that time `document is  element`.
 * `--.parentNode`
 * `---.firstChild`
 * `---.lastChild`
-* `---.firstElementChild` (skiping white space)
-* `---.lastElementChild` (skiping white space)
+* `---.firstElementChild` (`skiping white space`)
+* `---.lastElementChild` (`skiping white space`)
 * `---.isConnected`
 * `--.prevoiusSibling`
 * `--.nextSibling`
-* `--.previousElementSibling` (skiping white space)
-* `--.nextElementSibling` (skiping white space)
+* `--.previousElementSibling` (`skiping white space`)
+* `--.nextElementSibling` (`skiping white space`)
 * `--.textContent`
 * `--.nodeName`
 * `---.nodeType`
