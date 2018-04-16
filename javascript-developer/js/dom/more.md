@@ -1,8 +1,4 @@
-### attributes
 
-```js
-document.body.attributes
-```
 
 ### classList
 
