@@ -90,6 +90,11 @@ when `get` `class , id or selector` that time `document is  element`.
 
 ~ [node mdn](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 
+## event
+
+* `---.currentTarget`
+* `---.preventDefault`
+
 ## window
 
 * `window.innerHeight`
