@@ -79,7 +79,7 @@ when `get` `class , id or selector` that time `document is  element`.
 
 * `--.childNodes`
 * `--.childNodes[i]`
-* `--.parentNodes`
+* `--.parentNode`
 * `---.firstChild`
 * `---.lastChild`
 * `---.isConnected`
