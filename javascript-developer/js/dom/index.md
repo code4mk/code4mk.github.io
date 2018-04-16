@@ -48,6 +48,8 @@ The `document object model` (dom) is a programming `interface` of `HTML/XML` doc
 
 ## element
 
+when `get` `class , id or selector` that time `document is  element`.
+
 * `---.attributes`
 * `---.classList`
 * `---.className`
@@ -66,3 +68,24 @@ The `document object model` (dom) is a programming `interface` of `HTML/XML` doc
 * `---.remove()`
 
 ~ [mdn element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
+
+## Node
+
+* `--.childNodes`
+* `--.childNodes[i]`
+* `--.parentNodes`
+* `---.firstChild`
+* `---.lastChild`
+* `---.isConnected`
+* `--.prevoiusSibling`
+* `--.nextSibling`
+* `--.textContent`
+* `--.nodeName`
+* `---.nodeType`
+* `---.nodeValue`
+* `---.cloneNode`
+* `--.hasChildSibling`
+* `---.inserBefore`
+* `---.contains`
+
+~ [node mdn](https://developer.mozilla.org/en-US/docs/Web/API/Node)
