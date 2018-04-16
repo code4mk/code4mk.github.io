@@ -62,9 +62,9 @@ horizontalnav:
 js:
 - sectiontitle: DOM
   section:
-  - path: javascript-developer/js/dom/
+  - path: /javascript-developer/js/dom/
     title: Basic DOM
-  - path: javascript-developer/js/dom/resource/
+  - path: /javascript-developer/js/dom/resource/
     title: resource
 - sectiontitle: regex
   section:
