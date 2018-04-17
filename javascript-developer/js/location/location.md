@@ -1,4 +1,9 @@
-
+---
+description: window location
+keywords: location, js
+title: window location
+toc_max: 4
+---
 
 ## location
 

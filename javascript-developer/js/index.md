@@ -1,4 +1,8 @@
 
+## jasvascript
+
+it is scripting language which alive  the html. it's first name was liveScript . that time java was more popular so named JavaScript. Now no relation with java . javascript - echmaScript age.
+
 
 ## Operators
 
