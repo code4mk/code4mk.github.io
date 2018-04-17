@@ -68,7 +68,7 @@ js:
     title: resource
 - sectiontitle: Location
   section:
-  - path: /javascript-developer/js/location/location/
+  - path: /javascript-developer/js/location/
     title: Location
 - sectiontitle: regex
   section:
