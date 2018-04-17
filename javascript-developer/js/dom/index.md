@@ -49,6 +49,7 @@ The `document object model` (dom) is a programming `interface` of `HTML/XML` doc
 * `document.getElementsByTagName('p')`
 * `document.getElementsByClassName('className')`
 * `document.querySelector('selector/id/class')`
+* `document.querySelectorAll('selector/id/class')`
 
 ~ [mdn document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 

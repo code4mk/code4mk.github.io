@@ -39,6 +39,8 @@ document.body.clientLeft
 ---.innerHTML = 'me'
 ```
 
+## date / time
 
+* [mdn](https://developer.mozilla.org/en-US/docs/Web/API/HTMLTimeElement/dateTime)
 
 ---
