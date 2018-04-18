@@ -73,6 +73,8 @@ when `get` `class , id or selector` that time `document is  element`.
 * `---.tagName`
 * `---.appendChild()`
 * `---.remove()`
+* `---.style.---`
+* `---.style.cssText`
 
 ~ [mdn element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 
