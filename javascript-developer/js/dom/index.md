@@ -98,6 +98,8 @@ when `get` `class , id or selector` that time `document is  element`.
 * `--.hasChildSibling`
 * `---.inserBefore`
 * `---.contains`
+* `---.removeChild`
+* `---.replaceChild`
 
 ~ [node mdn](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 
