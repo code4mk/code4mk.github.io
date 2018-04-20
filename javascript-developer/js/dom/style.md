@@ -1,3 +1,9 @@
+---
+description: style
+keywords: dom, js
+title: style
+toc_max: 4
+---
 
 ## .style
 
