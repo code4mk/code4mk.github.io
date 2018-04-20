@@ -66,6 +66,8 @@ js:
     title: Basic DOM
   - path: /javascript-developer/js/dom/element/
     title: Element
+  - path: /javascript-developer/js/dom/style/
+    title: Style
   - path: /javascript-developer/js/dom/resource/
     title: resource
 - sectiontitle: Location
