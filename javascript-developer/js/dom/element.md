@@ -21,7 +21,6 @@ doc.classList.add('class-add');
 doc.classList.remove('class-remove');
 doc.classList.toggle('toggle_class');
 doc.classList.replace('old_class','new_class');
-
 ```
 
 ### className
