@@ -72,11 +72,13 @@ var newChild = document.createElement('div')
 ### cssText
 
 ```JS
-var test = document.getElementById('profile');
+
+var doc = document.getElementById('profile');
+
 var mestyle = `
  color: red;
  border: 2px solid red;
  box-sizing: border-box;
 `
-test.style.cssText = mestyle;
+doc.style.cssText = mestyle;
 ```
