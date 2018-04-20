@@ -60,3 +60,23 @@ var innerMe = `
   doc.innerHTML = innerMe;
   console.log(doc);
 ```
+
+### style
+
+```js
+var doc = document.getElementById('bio');
+var newChild = document.createElement('div')
+ newChild.style.color = 'red';
+```
+
+### cssText
+
+```JS
+var test = document.getElementById('profile');
+var mestyle = `
+ color: red;
+ border: 2px solid red;
+ box-sizing: border-box;
+`
+ test.style.cssText = mestyle;
+```
