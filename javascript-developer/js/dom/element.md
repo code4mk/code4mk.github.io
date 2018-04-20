@@ -21,7 +21,7 @@ doc.classList.replace('old_class','new_class');
 
 ```
 
-### classList
+### className
 
 ```js
 var doc = document.getElementById('main');
@@ -46,4 +46,17 @@ var newChild = document.createElement('div')
 var doc = document.getElementById('bio');
 var newChild = document.createElement('div')
 doc.appendChild(newChild);
+```
+
+### innerHTML
+
+```js
+var doc = document.getElementById('bio');
+var innerMe = `
+  <p> welcome here</p>
+  <h1> this is another </h1>
+  <a href="https://code4mk.org">code4mk</a>
+  `
+  doc.innerHTML = innerMe;
+  console.log(doc);
 ```
