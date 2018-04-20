@@ -71,8 +71,7 @@ var newChild = document.createElement('div')
 
 ### cssText
 
-```JS
-
+```js
 var doc = document.getElementById('profile');
 
 var mestyle = `
