@@ -78,5 +78,5 @@ var mestyle = `
  border: 2px solid red;
  box-sizing: border-box;
 `
- test.style.cssText = mestyle;
+test.style.cssText = mestyle;
 ```
