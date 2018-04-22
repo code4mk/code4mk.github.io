@@ -95,9 +95,19 @@ console.log(doc1);
 
 ### nodeName
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].nodeName;
+console.log(doc1);
+```
 
 ### nodeType
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].nodeType;
+console.log(doc1);
+```
 
 ### cloneNode
 
@@ -113,9 +123,24 @@ console.log(doc2);
 
 ### nodeValue
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].nodeValue;
+console.log(doc1);
+```
 
 ### insertBefore
 
+```js
+var docParent = document.getElementById('bio').parentNode
+var doc = document.getElementById('bio')
+var newNode = document.createElement("div");
+newNode.id = 'before-node';
+newNode.textContent = 'kamal is here ok before bio';
+newNode.style.color = 'red';
+docParent.insertBefore(newNode, doc);
+console.log(document);
+```
 
 ### remove Child
 
