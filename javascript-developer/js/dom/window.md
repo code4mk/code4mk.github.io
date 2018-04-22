@@ -5,7 +5,9 @@ title: window
 toc_max: 4
 ---
 
-## window
+## window open 
+
+* `var window = window.open(url, windowName, [windowFeatures]);`
 
 ```js
 window.open('url');
