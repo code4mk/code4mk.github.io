@@ -74,6 +74,8 @@ js:
     title: Event
   - path: /javascript-developer/js/dom/htmlelement/
     title: Html Element
+  - path: /javascript-developer/js/dom/window/
+    title: window
   - path: /javascript-developer/js/dom/resource/
     title: resource
 - sectiontitle: Location
