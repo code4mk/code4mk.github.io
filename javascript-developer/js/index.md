@@ -40,6 +40,7 @@ var collect = require(collect.js)
 * [https://javascript.info/](https://javascript.info/)
 * [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [https://devdocs.io/javascript/classes](https://devdocs.io/javascript/classes)
+* [devdocs](http://devdocs.io/javascript/)
 
 ## video
 
