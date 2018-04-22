@@ -22,18 +22,44 @@ console.log(doc1);
 ```
 ### firstChild
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].firstChild;
+console.log(doc1);
+```
 
 ### lastChild
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].LastChild;
+console.log(doc1);
+
+```
 
 ### firstElementChild
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].firstElementChild;
+console.log(doc1);
+```
 
 ### LastElementChild
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].LastElementChild;
+console.log(doc1);
+```
 
 ### isConnected
 
+```js
+var doc = document.getElementById('main');
+var doc1 = doc.childNodes[1].isConnected;
+console.log(doc1);
+```
 
 ### previousSibling
 
