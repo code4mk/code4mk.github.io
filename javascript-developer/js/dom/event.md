@@ -1,3 +1,9 @@
+---
+description: Event
+keywords: dom, js
+title: event
+toc_max: 4
+---
 
 ## addEventListener
 
