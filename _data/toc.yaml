@@ -70,6 +70,8 @@ js:
     title: Node
   - path: /javascript-developer/js/dom/style/
     title: Style
+  - path: /javascript-developer/js/dom/event/
+    title: Event
   - path: /javascript-developer/js/dom/htmlelement/
     title: Html Element
   - path: /javascript-developer/js/dom/resource/
