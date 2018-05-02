@@ -49,7 +49,6 @@ var collect = require(collect.js)
 * [devdocs](http://devdocs.io/javascript/)
 * [sabe](https://sabe.io/classes/javascript)
 * [mbeaudru](https://github.com/mbeaudru/modern-js-cheatsheet)
-
 ## video
 
 * [net ninja dom](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
