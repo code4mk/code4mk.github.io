@@ -60,10 +60,12 @@ horizontalnav:
 
 
 js:
-- sectiontitle: Advanced
+- sectiontitle: Asynchronous 
   section:
+  - path: /javascript-developer/js/advanced/async/callback/
+    title: Callback
   - path: /javascript-developer/js/advanced/async/promises/
-    title: Basic DOM
+    title: Promise
 - sectiontitle: DOM
   section:
   - path: /javascript-developer/js/dom/
