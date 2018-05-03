@@ -24,7 +24,7 @@ console.log('three para');
 // three para
 ```
 
-## asynchronous
+### asynchronous
 
 * don't excute in sequence.
 * don't wait for excute
@@ -40,7 +40,7 @@ console.log('three');
 // don't wait for one excute
 ```
 
-### async function
+## async function
 
 ```js
 let users = async () => {
@@ -49,7 +49,7 @@ let users = async () => {
 users().then(t => console.log(t));
 ```
 
-## await
+### await
 
 * await wait until promise settle.
 * await use only inside async function;
@@ -77,12 +77,12 @@ users = async() => {
 users().then(t => console.log(t));
 ```
 
-### error
+## error
 
 * try...catch
 * then...catch (promise)
 
-## try -> catch
+### try -> catch
 
 ```js
 users = async() => {
@@ -97,7 +97,7 @@ users = async() => {
 users().then(t => console.log(t));
 ```
 
-## then -> catch
+### then -> catch
 
 ```js
 users = async() => {
@@ -108,7 +108,7 @@ users = async() => {
 users().then(t => console.log(t)).catch(t=> console.log(t));
 ```
 
-### resource
+## resource
 
 * [https://javascript.info/async-await](https://javascript.info/async-await)
 * [https://rowanmanning.com/posts/javascript-for-beginners-async/](https://rowanmanning.com/posts/javascript-for-beginners-async/)
