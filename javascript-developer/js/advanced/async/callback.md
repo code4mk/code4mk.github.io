@@ -1,6 +1,9 @@
-
-
-## callback
+---
+description: callback
+keywords: js
+title: callback
+toc_max: 4
+---
 
  Callbacks are a way to make sure certain code doesn’t execute until other code has already finished execution.
 
