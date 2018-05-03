@@ -149,8 +149,7 @@ Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
 
 ### resources
 
-* [https://rowanmanning.com/posts/javascript-for-beginners-async/](https://rowanmanning.com/posts/javascript-for-beginners-async/)
-* [https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript)
+
 * [https://scotch.io/tutorials/javascript-promises-for-dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
 * [https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 * [https://www.sitepoint.com/overview-javascript-promises/](https://www.sitepoint.com/overview-javascript-promises/)

@@ -5,13 +5,14 @@ title: async function
 toc_max: 4
 ---
 
-`async` is short form of asynchronous. async behavioour is opposite of sync. `Promise` more comfort with `async`.
+`async` is short form of asynchronous. async behavior is opposite of sync. `Promise` more comfort with `async`.
 
 ### synchronous  vs asynchronous
 
 ## synchronous
 
-* excute  step by step gradually.
+* execute  step by step in sequence.
+* each statement wait for previous statement executing.
 
 ```js
 console.log('one para');
@@ -25,7 +26,7 @@ console.log('three para');
 
 ## asynchronous
 
-* don't excute step by step gradually.
+* don't excute in sequence.
 * don't wait for excute
 
 ```js
@@ -106,3 +107,8 @@ users = async() => {
 }
 users().then(t => console.log(t)).catch(t=> console.log(t));
 ```
+### resource
+
+* [https://javascript.info/async-await](https://javascript.info/async-await)
+* [https://rowanmanning.com/posts/javascript-for-beginners-async/](https://rowanmanning.com/posts/javascript-for-beginners-async/)
+* [https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript](https://www.pluralsight.com/guides/introduction-to-asynchronous-javascript)
