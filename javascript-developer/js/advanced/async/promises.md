@@ -33,7 +33,7 @@ promise.then(connectedStatus).catch(connectedStatus);
 ## chaining promise
 
 ```js
-let promise = new Promise((resolve,reject)=>{
+let promise = new Promise((resolve,reject) => {
   let status = true;
   if(status){
     let result = 'database is connected';
@@ -45,7 +45,7 @@ let promise = new Promise((resolve,reject)=>{
 
 connectedStatus = (result) => {
   console.log(result);
-  return new Promise((resolve,reject)=> {
+  return new Promise((resolve,reject) => {
     let status = false;
     if(status){
       resolve('data is fetching now');
@@ -80,7 +80,7 @@ let out = (result) => {
     console.log(`index ${index} is = ${t}`);
   })
 }
-console.log('this is bottom text,  right? aync issue')
+console.log('this is bottom text,  right? aync issue');
 Promise.all([promise1, promise2, promise3]).then(result => {out(result)}).catch(out);
 ```
 
@@ -102,7 +102,7 @@ let promise3 = new Promise((resolve,reject) => {
 let out = (result) => {
   console.log(result);
 }
-console.log('this is bottom text,  right? aync issue')
+console.log('this is bottom text,  right? aync issue');
 Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
 ```
 
