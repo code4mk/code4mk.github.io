@@ -14,5 +14,7 @@
 * https://github.com/mattdesl/promise-cookbook
 * https://devhints.io/promise
 * https://www.akshatsharma.com/posts/javascript%20promise%20cheat-sheet/index.html
+
+* https://javascript.info/async
 # package
 * [caolan](https://github.com/caolan/async)
