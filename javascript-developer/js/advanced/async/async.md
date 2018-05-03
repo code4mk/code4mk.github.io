@@ -7,9 +7,9 @@ toc_max: 4
 
 `async` is short form of asynchronous. async behavior is opposite of sync. `Promise` more comfort with `async`.
 
-### synchronous  vs asynchronous
+## synchronous  vs asynchronous
 
-## synchronous
+### synchronous
 
 * execute  step by step in sequence.
 * each statement wait for previous statement executing.
