@@ -60,6 +60,10 @@ horizontalnav:
 
 
 js:
+- sectiontitle: Advanced
+  section:
+  - path: /javascript-developer/js/advanced/async/promises/
+    title: Basic DOM
 - sectiontitle: DOM
   section:
   - path: /javascript-developer/js/dom/
