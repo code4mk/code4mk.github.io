@@ -77,12 +77,12 @@ users = async() => {
 users().then(t => console.log(t));
 ```
 
-## error
+### error
 
 * try...catch
 * then...catch (promise)
 
-# try -> catch
+## try -> catch
 
 ```js
 users = async() => {
@@ -97,7 +97,7 @@ users = async() => {
 users().then(t => console.log(t));
 ```
 
-# then -> catch
+## then -> catch
 
 ```js
 users = async() => {
@@ -107,6 +107,7 @@ users = async() => {
 }
 users().then(t => console.log(t)).catch(t=> console.log(t));
 ```
+
 ### resource
 
 * [https://javascript.info/async-await](https://javascript.info/async-await)
