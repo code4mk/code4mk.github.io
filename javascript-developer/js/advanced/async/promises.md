@@ -119,6 +119,7 @@ Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
 // output:
 // promise two
 ```
+* test -2
 
 ```js
 let promise1 = new Promise((resolve,reject) => {
