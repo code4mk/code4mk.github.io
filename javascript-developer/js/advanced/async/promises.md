@@ -62,12 +62,15 @@ promise.then(connectedStatus).then(fetchMe).catch(fetchMe);
 
 ## promise.all
 
-* `wait for all function until resolve`
+* `wait for all promises until resolve`
+* `if any reject that time error return`
 * `return an array`
 
 ```js
 let promise1 = new Promise((resolve,reject) => {
-  resolve('promise one');
+  setTimeout(() => {
+    resolve('promise one');
+  },5000)
 });
 let promise2 = new Promise((resolve,reject) => {
   resolve('promise two rejected');
@@ -80,18 +83,25 @@ let out = (result) => {
     console.log(`index ${index} is = ${t}`);
   })
 }
-console.log('this is bottom text,  right? aync issue');
+console.log('this is bottom text,  right? aync issue')
 Promise.all([promise1, promise2, promise3]).then(result => {out(result)}).catch(out);
+// output:
+// index 0 is = promise one
+// index 1 is = promise two rejected
+// index 2 is = promise three
 ```
 
 ## promise.race
 
-* `wait for first function until resolve`
-* `return only first function value`
+* `wait for one promise(less delay) until resolve`
+* `return promise which delay is short`
+
 
 ```js
 let promise1 = new Promise((resolve,reject) => {
-  resolve('promise one');
+  setTimeout(() => {
+    resolve('promise one');
+  },5000)
 });
 let promise2 = new Promise((resolve,reject) => {
   resolve('promise two');
@@ -102,8 +112,36 @@ let promise3 = new Promise((resolve,reject) => {
 let out = (result) => {
   console.log(result);
 }
-console.log('this is bottom text,  right? aync issue');
+console.log('this is bottom text,  right? aync issue')
 Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
+// output:
+// promise two
+```
+
+```js
+let promise1 = new Promise((resolve,reject) => {
+  setTimeout(() => {
+    resolve('promise one');
+  },5000)
+});
+let promise2 = new Promise((resolve,reject) => {
+  setTimeout(() => {
+    resolve('promise two');
+  },2000)
+});
+let promise3 = new Promise((resolve,reject) => {
+  setTimeout(() => {
+    resolve('promise three');
+  },1000)
+});
+let out = (result) => {
+  console.log(result);
+}
+console.log('this is bottom text,  right? aync issue')
+Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
+
+// output :
+// promise three
 ```
 
 ### resources
