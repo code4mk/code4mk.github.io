@@ -85,6 +85,7 @@ let out = (result) => {
 }
 console.log('this is bottom text,  right? aync issue')
 Promise.all([promise1, promise2, promise3]).then(result => {out(result)}).catch(out);
+
 // output:
 // index 0 is = promise one
 // index 1 is = promise two rejected
@@ -114,6 +115,7 @@ let out = (result) => {
 }
 console.log('this is bottom text,  right? aync issue')
 Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
+
 // output:
 // promise two
 ```
