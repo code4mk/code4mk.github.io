@@ -5,11 +5,15 @@ title: Promises javascript
 toc_max: 4
 ---
 
-### promises has 3 elements
+`promise` is `alternative` of `callback` . Promise is Asynchronous.
 
-* pending
-* resolve
-* reject
+### promise has 3 states
+
+* `pending`
+* `resolve` (fullfill / success)
+* `reject` (not fullfill / error)
+
+## create promise
 
 ```js
 let promise = new Promise((resolve,reject)=>{
@@ -26,6 +30,8 @@ connectedStatus = (result) => {
 promise.then(connectedStatus).catch(connectedStatus);
 ```
 
+## chaining promise
+
 ```js
 let promise = new Promise((resolve,reject)=>{
   let status = true;
@@ -36,9 +42,9 @@ let promise = new Promise((resolve,reject)=>{
     reject('failed , something missing / error');
   }
 });
+
 connectedStatus = (result) => {
   console.log(result);
-
   return new Promise((resolve,reject)=> {
     let status = false;
     if(status){
@@ -54,6 +60,51 @@ fetchMe = (result) => {
 promise.then(connectedStatus).then(fetchMe).catch(fetchMe);
 ```
 
+## promise.all
+
+* `wait for all function until resolve`
+* `return an array`
+
+```js
+let promise1 = new Promise((resolve,reject) => {
+  resolve('promise one');
+});
+let promise2 = new Promise((resolve,reject) => {
+  resolve('promise two rejected');
+});
+let promise3 = new Promise((resolve,reject) => {
+  resolve('promise three');
+});
+let out = (result) => {
+  result.forEach((t,index) =>{
+    console.log(`index ${index} is = ${t}`);
+  })
+}
+console.log('this is bottom text,  right? aync issue')
+Promise.all([promise1, promise2, promise3]).then(result => {out(result)}).catch(out);
+```
+
+## promise.race
+
+* `wait for first function until resolve`
+* `return only first function value`
+
+```js
+let promise1 = new Promise((resolve,reject) => {
+  resolve('promise one');
+});
+let promise2 = new Promise((resolve,reject) => {
+  resolve('promise two');
+});
+let promise3 = new Promise((resolve,reject) => {
+  resolve('promise three');
+});
+let out = (result) => {
+  console.log(result);
+}
+console.log('this is bottom text,  right? aync issue')
+Promise.race([promise1, promise2, promise3]).then(result => {out(result)});
+```
 
 ### resources
 
