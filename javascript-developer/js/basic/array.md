@@ -1,4 +1,9 @@
-
+---
+description: array
+keywords: js
+title: array
+toc_max: 4
+---
 
 ## Array
 

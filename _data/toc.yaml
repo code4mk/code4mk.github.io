@@ -70,6 +70,8 @@ js:
     title: condition
   - path: /javascript-developer/js/basic/loop/
     title: loop
+  - path: /javascript-developer/js/basic/array/
+    title: array
 - sectiontitle: Asynchronous
   section:
   - path: /javascript-developer/js/advanced/async/callback/
