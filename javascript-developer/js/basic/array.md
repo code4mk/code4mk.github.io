@@ -7,8 +7,17 @@ toc_max: 4
 
 ## Array
 
+array store collections of values.
+
 Array represent by `[]`
 
+```js
+let users  = ['kamal','jamal','maruf']
+```
+
+```js
+let users = new Array('kamal','jamal','maruf');
+```
 
 | name | name     |name     |name     |name     |
 | :------------- | :------------- |:------------- |:------------- |:------------- |
