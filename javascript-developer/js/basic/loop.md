@@ -77,6 +77,15 @@ for (let num = 1; num < 10; num++) {
 // output: 1,2,3,4,5,6,7,8,9
 ```
 
+```js
+let nums = [];
+for (let i = 0 ; i < 10 ; i++) {
+  nums.push(i);
+}
+nums.forEach(t => console.log(t));
+//  1,2,3,4,5,6,7,8,9
+```
+
 ### break
 
 * loop stop (if fullfill condition)
