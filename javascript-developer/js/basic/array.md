@@ -208,4 +208,31 @@ console.log(users);
 // ["jamal", "kamal", "karim", "maruf", "sadia"]
 ```
 
+## splice
+
+* increase element / constant element
+* set element a desired position
+* `splice(position,howManyDelete,value)`
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+let result = users.splice(1,0,'hasibur');
+console.log(users);
+// ["kamal", "hasibur", "maruf", "jamal", "sadia", "karim"]
+```
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+let result = users.splice(1,0,'hasibur');
+console.log(users);
+// ["kamal", "hasibur", "jamal", "sadia", "karim"]
+```
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+let result = users.splice(1,2,'hasibur','masud');
+console.log(users);
+// ["kamal", "hasibur", "masud", "sadia", "karim"]
+```
+
 * [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
