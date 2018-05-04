@@ -33,10 +33,10 @@ Array.isArray([1,2,3]);
 ```js
 let users = ['kamal','jamal','maruf','sadia','karim'];
 console.log(users.every(t => t != ''));
-// output: true
+//  true
 let users = ['kamal','jamal','maruf','sadia','karim'];
 console.log(users.every(t => t == ''));
-// output: false
+//  false
 ```
 
 ## fill
@@ -48,7 +48,7 @@ console.log(users.every(t => t == ''));
 let users = ['kamal','jamal','maruf','sadia','karim'];
 let afterFill = users.fill('rahim',1,4);
 console.log(afterFill)
-// output: kamal,rahim,rahim,rahim,karim
+//  kamal,rahim,rahim,rahim,karim
 ```
 
 ## filter
@@ -59,7 +59,7 @@ console.log(afterFill)
 let users = ['kamal','jamal','maruf','sadia','karim'];
 let afterFilter = users.filter(t => t.match('k'));
 console.log(afterFilter)
-// output: kamal,karim
+//  kamal,karim
 ```
 
 ## find
@@ -76,7 +76,7 @@ console.log(afterFind)
 let users = ['kamal','jamal','maruf','sadia','karim'];
 let afterFindIndex = users.findIndex(t => t.match('karim'));
 console.log(afterFindIndex)
-// output: 4;
+//  4;
 ```
 ## forEach
 
@@ -85,7 +85,8 @@ let users = ['kamal','jamal','maruf','sadia','karim'];
 users.forEach(t => {
   console.log(t)
 });
-// output : kamal,jamal,maruf,sadia,karim
+
+//  kamal,jamal,maruf,sadia,karim
 ```
 ## includes
 
@@ -97,7 +98,7 @@ users.forEach(t => {
 let users = ['kamal','jamal','maruf','sadia','karim'];
 let afterInclusers = users.includes('jamal',1);
 console.log(afterInclusers);
-// output: true
+//  true
 ```
 
 ## indexOf
@@ -108,11 +109,11 @@ console.log(afterInclusers);
 let users = ['kamal','jamal','maruf','sadia','karim','jamal'];
 let result = users.indexOf('jamal');
 console.log(result);
-// output: 1
+//  1
 let users = ['kamal','jamal','maruf','sadia','karim','jamal'];
 let result = users.indexOf('jamal',3);
 console.log(result);
-// output: 5
+//  5
 ```
 ## join
 
@@ -120,7 +121,7 @@ console.log(result);
 let users = ['kamal','jamal','maruf','sadia','karim','jamal'];
 let result = users.join('-');
 console.log(result);
-// output: kamal-jamal-maruf-sadia-karim-jamal
+//  kamal-jamal-maruf-sadia-karim-jamal
 ```
 
 ## keys
