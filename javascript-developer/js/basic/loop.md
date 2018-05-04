@@ -164,3 +164,6 @@ users.forEach ((name,index) => {
 * [mdn while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 * [mdn do while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while)
 * [mdn for](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+* [mdn for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+* [mdn for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+* [mdn forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
