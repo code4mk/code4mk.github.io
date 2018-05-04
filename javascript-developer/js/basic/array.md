@@ -156,4 +156,56 @@ let users = ['kamal','maruf','jamal','sadia','karim'];
 console.log(users);
  //["kamal", "maruf", "jamal", "sadia", "karim", "Human"]
 ```
+
+## reverse
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+ users.reverse()
+console.log(users);
+// ["karim", "sadia", "jamal", "maruf", "kamal"]
+```
+
+## shift
+
+* delete 1st element
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+ users.shift()
+console.log(users);
+// [ "maruf", "jamal", "sadia", "karim"]
+```
+
+## slice
+
+* `slice(begin,end)`
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+let result = users.slice(1,4);
+console.log(result);
+// ["maruf", "jamal", "sadia"]
+```
+
+## some
+
+* any element fullfill the constion return turn
+
+```js
+let users = ['kamal','maruf','jamal','','sadia','karim', ''];
+let result = users.some(t => t == '');
+console.log(result);
+// true
+```
+
+## sort
+
+```js
+let users = ['kamal','maruf','jamal','sadia','karim'];
+let result = users.sort()
+console.log(users);
+// ["jamal", "kamal", "karim", "maruf", "sadia"]
+```
+
 * [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
