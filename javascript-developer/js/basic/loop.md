@@ -14,7 +14,7 @@ toc_max: 4
 * for ... in
 * for ... of
 
-### while
+## while
 
 ```js
 while(yourCondition) {
@@ -31,7 +31,7 @@ while (num < 10) {
 }
 ```
 
-### do while
+## do while
 
 ```js
 do () {
