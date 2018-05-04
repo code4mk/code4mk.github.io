@@ -53,3 +53,5 @@
 /blog/docker-data-science/,https://www.dataquest.io/blog/docker-data-science/
 /questions/19335444/how-to-assign-a-port-mapping-to-an-existing-docker-container,http://stackoverflow.com/questions/19335444/how-to-assign-a-port-mapping-to-an-existing-docker-container
 /engine/examples/mongodb/,/samples/library/mongo/
+
+/javascript-developer/js,javascript-developer/js/basic/variable/
