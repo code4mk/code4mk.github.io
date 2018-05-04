@@ -17,4 +17,4 @@
 * https://babeljs.io/repl/
 * https://kangax.github.io/compat-table/es6/  *****
 
-welcome dear . ho ware you
+welcome dear . stay with us . ok done...

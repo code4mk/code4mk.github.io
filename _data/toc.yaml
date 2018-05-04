@@ -60,6 +60,14 @@ horizontalnav:
 
 
 js:
+- sectiontitle: Basic JS
+  section:
+  - path: /javascript-developer/js/basic/variable/
+    title: variable
+  - path: /javascript-developer/js/basic/operator/
+    title: operator
+  - path: /javascript-developer/js/basic/condition/
+    title: condition
 - sectiontitle: Asynchronous
   section:
   - path: /javascript-developer/js/advanced/async/callback/
