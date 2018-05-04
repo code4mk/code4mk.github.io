@@ -68,6 +68,8 @@ js:
     title: operator
   - path: /javascript-developer/js/basic/condition/
     title: condition
+  - path: /javascript-developer/js/basic/loop/
+    title: loop
 - sectiontitle: Asynchronous
   section:
   - path: /javascript-developer/js/advanced/async/callback/
