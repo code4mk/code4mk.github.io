@@ -11,9 +11,9 @@ notoc: true
         <div class="col-sm-12 col-md-12 col-lg-4 block">
             <div class="component">
                 <div class="component-icon">
-                    <a href="js/"> <img src="../images/js-image/javascript.svg" alt="js"> </a>
+                    <a href="/javascript-developer/js/basic/"> <img src="../images/js-image/javascript.svg" alt="js"> </a>
                 </div>
-                <h3 ><a href="js/">JavaScript</a></h3>
+                <h3 ><a href="/javascript-developer/js/basic/">JavaScript</a></h3>
                 <p>JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language</p>
             </div>
         </div>
