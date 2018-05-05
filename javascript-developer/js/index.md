@@ -38,17 +38,5 @@ var collect = require(collect.js)
 
 ## resource
 
-* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [https://github.com/loverajoel/jstips](https://github.com/loverajoel/jstips)
-* [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
-* [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-* [https://javascript.info/](https://javascript.info/)
-* [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-* [https://devdocs.io/javascript/classes](https://devdocs.io/javascript/classes)
-* [devdocs](http://devdocs.io/javascript/)
-* [sabe](https://sabe.io/classes/javascript)
-* [mbeaudru](https://github.com/mbeaudru/modern-js-cheatsheet)
-## video
 
-* [net ninja dom](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
+## video

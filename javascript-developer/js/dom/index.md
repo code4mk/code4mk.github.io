@@ -121,3 +121,5 @@ when `get` `class , id or selector` that time `document is  element`.
 * `window.location`
 
 ~ [window mdn](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
+*  [net ninja dom](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
