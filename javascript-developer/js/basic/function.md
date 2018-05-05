@@ -19,6 +19,7 @@ toc_max: 4
 * parentheses  (parameter)
 * curly brackets (`{}`) . where stay statement
   * return
+  
 #### ex-1
 ```js
 function functionName (par1,par2) {
