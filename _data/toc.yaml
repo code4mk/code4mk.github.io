@@ -62,6 +62,8 @@ horizontalnav:
 js:
 - sectiontitle: Basic JS
   section:
+  - path: /javascript-developer/js/basic/
+    title: js biodata
   - path: /javascript-developer/js/basic/variable/
     title: variable
   - path: /javascript-developer/js/basic/operator/
