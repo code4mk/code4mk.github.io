@@ -117,6 +117,11 @@ js:
     title: lookahead
   - path: /javascript-developer/js/regex/resource/
     title: resource
+- sectiontitle: Resources
+  section:
+  - path: /javascript-developer/js/basic/resources/
+    title: resources
+
 
 react:
 - sectiontitle: Basic React
