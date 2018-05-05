@@ -19,13 +19,15 @@ toc_max: 4
 * parentheses  (parameter)
 * curly brackets (`{}`) . where stay statement
   * return
-  
+* calling function
+
 #### ex-1
 ```js
 function functionName (par1,par2) {
   return par1 + par2;
 }
-console.log(functionName(3,2));
+let result = functionName(3,2);
+console.log(result);
 // 5
 ```
 
@@ -52,3 +54,8 @@ let result =  functionName(3,2);
 console.log(result);
 // 5
 ```
+
+## references
+
+* [mdn guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+* [mdn ref](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
