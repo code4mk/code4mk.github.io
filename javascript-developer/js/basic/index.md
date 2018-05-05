@@ -5,4 +5,25 @@ title: JavaScript biodata
 toc_max: 4
 ---
 
-kamal
+### comments
+
+* single line comment
+
+```js
+// this is single line comment
+```
+
+* multi-line comment
+
+```js
+/* this is
+   multi-line comment */
+```
+
+### string
+
+* `string` represent by double quote `''`
+
+```js
+var name = 'kamal';
+```

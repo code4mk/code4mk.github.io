@@ -7,7 +7,7 @@ toc_max: 4
 
 ## Array
 
-array store collections of values.
+array store collections of values. array is actually a object.
 
 Array represent by `[]`
 
