@@ -7,13 +7,13 @@ toc_max: 4
 
 ### comments
 
-* single line comment
+* single line comment `//`
 
 ```js
 // this is single line comment
 ```
 
-* multi-line comment
+* multi-line comment `/*...*/`
 
 ```js
 /* this is
