@@ -18,6 +18,7 @@ toc_max: 4
 * [devdocs](http://devdocs.io/javascript/)
 * [sabe](https://sabe.io/classes/javascript)
 * [mbeaudru](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [w3](https://www.w3schools.com/js/js_scope.asp)
 
 ### cheatsheet
 

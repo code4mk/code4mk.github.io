@@ -5,13 +5,15 @@ title: variable
 toc_max: 4
 ---
 
+variable is a container where storing data .
+
 ### naming
 
 Limiation
 
 * only letters,digits,symbols,`$`,`_`
 * first character must not be a digit.
-* case sensative
+* case sensitive
 * camel case (optionalMatter)
 
 
