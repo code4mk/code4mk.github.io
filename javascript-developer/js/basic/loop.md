@@ -4,6 +4,9 @@ keywords: js,operator
 title: loop
 toc_max: 4
 ---
+## what is loop
+
+loop is a reapeting process in same block (excute over and over in same block)
 
 ## loop type
 

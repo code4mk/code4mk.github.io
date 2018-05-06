@@ -21,6 +21,25 @@ toc_max: 4
 |`a--`|post decrement|
 |`=`|assign|
 
+### order operator
+
+```bash
+exponents and roots
+multiplication and division
+addition and subtraction
+```
+
+*  United States - PEMDAS  
+  * (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction)
+* canada - BEDMAS
+  *  Brackets, Exponents, Division/Multiplication, Addition/Subtraction.
+* uk - BODMAS
+  * Brackets, Order, Division/Multiplication, Addition/Subtraction.
+
+
+~ [resource wiki](https://en.wikipedia.org/wiki/Order_of_operations)
+~ [resource microsoft](https://docs.microsoft.com/en-us/scripting/javascript/operator-subtractprecedence-javascript)
+
 ## Assignment operators
 
 | symbols   | description    |

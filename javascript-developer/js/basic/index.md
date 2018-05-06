@@ -5,6 +5,42 @@ title: JavaScript biodata
 toc_max: 4
 ---
 
+## adding javascript
+
+ * external
+
+```js
+<!DOCTYPE html>
+  <html>
+      <head>
+          <title>code4mk.org</title>
+      </head>
+      <body>
+          <!-- external javascript here -->
+          <script src="code4mk.js"></script>
+      </body>
+  </html>
+```
+
+* internal
+
+```js
+<!DOCTYPE html>
+  <html>
+      <head>
+          <title>code4mk.org</title>
+      </head>
+      <body>
+          <!-- external javascript here -->
+          <script type="text/javascript">
+            console.log('This is internal JS');
+          </script>
+
+      </body>
+  </html>
+
+```
+
 ### comments
 
  ~ `comments use for explaining the code`

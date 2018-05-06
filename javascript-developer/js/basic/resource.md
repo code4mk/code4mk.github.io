@@ -9,6 +9,7 @@ toc_max: 4
 
 * [mdn JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [mdn JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [mdn guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 * [jstips github](https://github.com/loverajoel/jstips)
 * [JavaScript30 wesbos github](https://github.com/wesbos/JavaScript30)
 * [airbnb github](https://github.com/airbnb/javascript)
@@ -19,7 +20,7 @@ toc_max: 4
 * [sabe](https://sabe.io/classes/javascript)
 * [mbeaudru](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [w3](https://www.w3schools.com/js/js_scope.asp)
-
+* [microsoft](https://docs.microsoft.com/en-us/scripting/javascript/javascript-language-reference)
 ### cheatsheet
 
 * [firstsiteguide](https://firstsiteguide.com/javascript-cheat-sheet/)
