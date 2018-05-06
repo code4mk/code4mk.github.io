@@ -74,6 +74,8 @@ js:
     title: loop
   - path: /javascript-developer/js/basic/array/
     title: array
+  - path: /javascript-developer/js/basic/string/
+    title: string
   - path: /javascript-developer/js/basic/function/
     title: function
 - sectiontitle: Asynchronous

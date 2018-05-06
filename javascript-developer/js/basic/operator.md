@@ -5,6 +5,7 @@ title: operator
 toc_max: 4
 ---
 
+operators are symbols which use for different operations or tasks on data.
 
 ## arithmatic operators
 

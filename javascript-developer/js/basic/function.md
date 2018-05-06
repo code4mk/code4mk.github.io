@@ -15,7 +15,7 @@ toc_max: 4
 ### function element
 
 * function name
-* function keyword
+* `function` keyword
 * parentheses  (parameter)
 * curly brackets (`{}`) . where stay statement
   * return
