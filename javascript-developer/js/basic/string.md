@@ -7,7 +7,7 @@ toc_max: 4
 ## string
 
 * string is stored text type data
-* string represent by one quote `' '` or double qoute `" "` and es6 back tick    ` ```
+* string represent by one quote `' '` or double qoute `" "` and es6 back tick   ``
 
 ```js
 let user = 'kamal';
