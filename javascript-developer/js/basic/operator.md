@@ -30,7 +30,7 @@ addition and subtraction
 ```
 
 *  United States - PEMDAS  
-  * (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction).
+  * Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
 * canada - BEDMAS
   *  Brackets, Exponents, Division/Multiplication, Addition/Subtraction.
 * uk - BODMAS
