@@ -48,7 +48,7 @@ console.log(`${user} is a ${position}`);
 |repeat|replace|search|slice|
 |small|spilt|startsWith|strike|
 |sub|substr|substring|sup|
-|toLocalLowerCase|toLocalUpperCase|toUpperCase|toUppercase|
+|toLocaleLowerCase|toLocaleUpperCase|toUpperCase|toUppercase|
 |toSource|toString|trim(L,R)|valueOF|
 
 ### length
