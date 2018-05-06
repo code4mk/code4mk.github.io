@@ -48,7 +48,7 @@ console.log(`${user} is a ${position}`);
 |repeat|replace|search|slice|
 |small|spilt|startsWith|strike|
 |sub|substr|substring|sup|
-|toLocalLoweCae|toLocalUppercase|tolowercase|toUppercase|
+|toLocalLowerCae|toLocalUpperCase|toUpperCase|toUppercase|
 |toSource|toString|trim(L,R)|valueOF|
 
 ### length
@@ -114,8 +114,8 @@ console.log(result);
 ### padEnd
 
 ```js
-let price = 'kamal';
-let result = price.padEnd(10,'a');
+let name = 'kamal';
+let result = name.padEnd(10,'a');
 console.log(result);
 // kamalaaaaa
 ```
@@ -123,12 +123,78 @@ console.log(result);
 ### padStart
 
 ```js
-let price = 'kamal';
-let result = price.padStart(10,'a');
+let name = 'kamal';
+let result = name.padStart(10,'a');
 console.log(result);
 // aaaaakamal
 ```
 
+### repeat
+
+```js
+let name = 'kamal';
+let result = name.repeat(2);
+console.log(result);
+```
+
+### search
+
+* found = positive integer (0 =>)
+* not found = negative integer (-1....)
+
+```js
+let name = 'kamal is a code artist';
+let result = name.search('code');
+console.log(result);
+// 11
+```
+
+### slice
+
+```js
+let name = 'kamal is a code artist';
+let result = name.slice(13);
+console.log(result);
+// kamal is a co
+```
+
+### substr
+
+```js
+let name = 'kamal is a code artist';
+let result = name.substr(0,13);
+console.log(result);
+// kamal is a co
+```
+
+### substring
+
+* same as substr
+
+```js
+let name = 'kamal is a code artist';
+let result = name.substring(0,13);
+console.log(result);
+// kamal is a co
+```
+
+### toUpperCase
+
+```js
+let name = 'kamal is a code artist';
+let result = name.toUpperCase();
+console.log(result);
+// KAMAL IS A CODE ARTIST
+```
+
+### toLowerCase
+
+```js
+let name = 'KAMAL IS A CODE ARTIST';
+let result = name.toLowerCase();
+console.log(result);
+// kamal is a code artist
+```
 
 ## resource
 
