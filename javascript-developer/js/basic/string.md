@@ -51,6 +51,85 @@ console.log(`${user} is a ${position}`);
 |toLocalLoweCae|toLocalUppercase|tolowercase|toUppercase|
 |toSource|toString|trim(L,R)|valueOF|
 
+### length
+
+```js
+let users = 'kamal is a code artist';
+let len = users.length;
+console.log(len);
+// 23
+```
+
+### charAt
+
+```js
+let users = 'kamal is a code artist';
+let result = users.charAt(1);
+console.log(result);
+// a
+```
+
+### charCodeAt
+
+```js
+let users = 'kamal is a code artist';
+let result = users.charPointAt(1);
+console.log(result);
+// 97
+```
+
+### charPointAt
+
+* same as charCodeAt
+* non negative integer
+
+### concat
+
+```js
+let users = 'kamal is a code artist';
+let result = users.concat(' and web developer.');
+console.log(result);
+// kamal is a code artist and web developer
+```
+
+### includes
+
+```js
+let users = 'kamal is a code artist';
+let result = users.includes('kamal',0);
+console.log(result);
+// true
+```
+
+### endsWith
+
+
+```js
+let users = 'kamal is a code artist';
+let result = users.endsWith('artist',22);
+console.log(result);
+// true
+```
+
+### padEnd
+
+```js
+let price = 'kamal';
+let result = price.padEnd(10,'a');
+console.log(result);
+// kamalaaaaa
+```
+
+### padStart
+
+```js
+let price = 'kamal';
+let result = price.padStart(10,'a');
+console.log(result);
+// aaaaakamal
+```
+
+
 ## resource
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
