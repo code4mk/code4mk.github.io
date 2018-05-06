@@ -6,8 +6,8 @@ toc_max: 4
 ---
 ## string
 
-* string hold text data
-* string represent by one quote `' '` or double qoute `" "`
+* string is stored text type data
+* string represent by one quote `' '` or double qoute `" "` and es6 back tick    ` ```
 
 ```js
 let user = 'kamal';
@@ -54,3 +54,4 @@ console.log(`${user} is a ${position}`);
 ## resource
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
+* [js info](https://javascript.info/string)
