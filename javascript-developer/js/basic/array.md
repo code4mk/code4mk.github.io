@@ -9,14 +9,18 @@ toc_max: 4
 
 Array store a collections of values in a single variable . Array is actually a object.
 
-Array represent by `[]`
+Array represent by square brackets `[]`
 
 ```js
 let users  = ['kamal','jamal','maruf']
+console.log(users[1]);
+// jamal
 ```
 
 ```js
 let users = new Array('kamal','jamal','maruf');
+console.log(users[0]);
+// kamal
 ```
 
 | name | name     |name     |name     |name     |
