@@ -46,7 +46,7 @@ console.log(`${user} is a ${position}`);
 |italics|lastIndexOf|link|localCompare|
 |match|normalize|padEnd|padStart|
 |repeat|replace|search|slice|
-|small|spilt|startsWith|strike|
+|small|split|startsWith|strike|
 |sub|substr|substring|sup|
 |toLocaleLowerCase|toLocaleUpperCase|toUpperCase|toUppercase|
 |toSource|toString|trim(L,R)|valueOF|
@@ -135,6 +135,16 @@ console.log(result);
 let name = 'kamal';
 let result = name.repeat(2);
 console.log(result);
+// kamalkamal
+```
+
+### replace
+
+```js
+let name = 'kamal is a code artist';
+let result = name.replace('kamal','code4mk');
+console.log(result);
+// code4mk is a code artist
 ```
 
 ### search
@@ -176,6 +186,15 @@ let name = 'kamal is a code artist';
 let result = name.substring(0,13);
 console.log(result);
 // kamal is a co
+```
+
+### split
+
+```js
+let name = 'blog.facebook.com';
+let result = name.split('.',2);
+console.log(result);
+// ["blog", "facebook"]
 ```
 
 ### toUpperCase
