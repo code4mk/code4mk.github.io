@@ -78,6 +78,10 @@ js:
     title: string
   - path: /javascript-developer/js/basic/function/
     title: function
+  - path: /javascript-developer/js/basic/math/
+    title: Math
+  - path: /javascript-developer/js/basic/number/
+    title: Number
 - sectiontitle: Asynchronous
   section:
   - path: /javascript-developer/js/advanced/async/callback/
