@@ -83,3 +83,10 @@ document.location.search
 
 * [https://developer.mozilla.org/en-US/docs/Web/API/Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
 * [https://developer.mozilla.org/en-US/docs/Web/API/URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
+
+## package
+
+* [websanova](https://github.com/websanova/js-url)
+* [medialize](https://github.com/medialize/URI.js/)
+* [jillix](https://github.com/jillix/url.js/)
+* [sindresorhus](https://github.com/sindresorhus/query-string)
