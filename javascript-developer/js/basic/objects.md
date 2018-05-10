@@ -277,3 +277,4 @@ console.log(result);
 * [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 * [mdn basic obj](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 * [js info](https://javascript.info/object-basics)
+* [sabe](https://sabe.io/classes/javascript/objects)
