@@ -78,6 +78,8 @@ js:
     title: string
   - path: /javascript-developer/js/basic/function/
     title: function
+  - path: /javascript-developer/js/basic/objects/
+    title: Objects
   - path: /javascript-developer/js/basic/math/
     title: Math
   - path: /javascript-developer/js/basic/number/

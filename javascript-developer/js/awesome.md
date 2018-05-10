@@ -4,7 +4,7 @@
 
 ### Object
 
-* `objects` is a collections of data . objects represts by `{ ... }` or array objects `[{},{}]`
+* `object` is a collections of data . objects represts by `{ ... }` or array objects `[{},{}]`
 
 ```js
 const user = {
