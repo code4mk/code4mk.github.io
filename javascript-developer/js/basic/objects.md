@@ -235,3 +235,26 @@ let mk = Object.create(users);
 console.log(Object.getPrototypeOf(mk) === users);
 // true
 ```
+
+### is
+
+```js
+let result = Object.is('kamal', 'kamal')
+console.log(result)
+//  true
+```
+
+
+### keys
+
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: `567`
+}
+let result = Object.keys(users);
+console.log(result);
+// ["name", "age", "phone"]
+```
