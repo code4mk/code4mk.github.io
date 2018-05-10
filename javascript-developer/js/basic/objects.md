@@ -117,6 +117,8 @@ console.log(admin);
 // {name: "kamal", age: 21, phone: "0172"}
 ```
 
+
+
 ### entries
 
 * return `key` and `value` array .
@@ -141,4 +143,69 @@ result.forEach (([key,value]) => {
 // name is kamal
 // age is 21
 // phone is 0172
+```
+
+### freeze
+
+* freeze method make objects constant , can't add or delete objects properties.
+
+~ output same
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: '0172'
+}
+let result = Object.freeze(users);
+users['position'] = 'coder';
+delete users['name'];
+console.log(users);
+// {name: "kamal", age: 21, phone: "0172"}
+```
+
+~ strict mode
+
+```js
+'use strict';
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: '0172'
+}
+let result = Object.freeze(users);
+users['position'] = 'coder';
+delete users['name'];
+console.log(users);
+// Cannot add property position, object is not extensible
+```
+
+### getOwnPropertyDescriptor
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: `567`
+}
+
+let result = Object.getOwnPropertyDescriptor(users,name);
+console.log(result.value)
+// kamal
+```
+
+### getOwnPropertyDescriptors
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: `567`
+}
+
+let result = Object.getOwnPropertyDescriptors(users);
+console.log(result.name.value);
+console.log(result.age.value);
+// kamal
+// 21
 ```
