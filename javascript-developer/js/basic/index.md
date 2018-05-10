@@ -5,6 +5,10 @@ title: JavaScript biodata
 toc_max: 4
 ---
 
+## jasvascript
+
+Jasvascript is scripting language which alive  the html. it's first name was liveScript . that time java was more popular so named JavaScript. Now no relation with java . javascript - echmaScript age with Node.js
+
 ## adding javascript
 
  * external
