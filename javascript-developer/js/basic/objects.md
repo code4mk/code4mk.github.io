@@ -5,7 +5,7 @@ title: Objects
 toc_max: 4
 ---
 
-* `objects` is a collections of data . objects represent by `{ ... }` or array objects `[{},{}]` . objects is `name value` psir base.
+* `objects` is a collections of data . objects represent by `{ ... }` or array objects `[{},{}]` . objects is `name value` pair base.
 
 
 ## create objects
@@ -100,3 +100,45 @@ console.log(users['salary rate']);
 |Object.getPrototypeOf()|Object.is()|Object.isExtensible()|
 |Object.isFrozen()|Object.isSealed()|Object.keys()|
 |Object.preventExtensions()|Object.seal()|Object.setPrototypeOf()|
+
+### assign
+
+* `copy` / `clone`
+* `target ... source`
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: '0172'
+}
+let admin = Object.assign({},users);
+console.log(admin);
+// {name: "kamal", age: 21, phone: "0172"}
+```
+
+### entries
+
+* return `key` and `value` array .
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: '0172'
+}
+let result = Object.entries(users);
+console.log(result);
+result.forEach (([key,value]) => {
+  console.log(`${key} is ${value}`);
+})
+
+// 0: ["name", "kamal"]
+//1:["age", 21]
+// 2: ["phone", "0172"]
+
+
+// name is kamal
+// age is 21
+// phone is 0172
+```
