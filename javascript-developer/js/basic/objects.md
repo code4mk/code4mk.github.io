@@ -258,3 +258,22 @@ let result = Object.keys(users);
 console.log(result);
 // ["name", "age", "phone"]
 ```
+
+### values
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: `567`
+}
+let result = Object.values(users);
+console.log(result);
+// ["kamal", 21, "567"]
+```
+
+### resource
+
+* [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+* [mdn basic obj](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [js info](https://javascript.info/object-basics)
