@@ -209,3 +209,29 @@ console.log(result.age.value);
 // kamal
 // 21
 ```
+
+### getOwnPropertyNames
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: `567`
+}
+let result = Object.getOwnPropertyNames(users);
+console.log(result);
+// ["name", "age", "phone"]
+```
+
+### getPrototypeOf
+
+```js
+let users = {
+  name: 'kamal',
+  age: 21,
+  phone: `567`
+}
+let mk = Object.create(users);
+console.log(Object.getPrototypeOf(mk) === users);
+// true
+```
