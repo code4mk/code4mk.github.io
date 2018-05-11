@@ -140,6 +140,8 @@ es6:
   section:
   - path: /javascript-developer/es/
     title: es6
+  - path: /javascript-developer/es/interpolation/
+    title: string interpolation
   - path: /javascript-developer/es/map-set-get/
     title: map
   - path: /javascript-developer/es/set/
