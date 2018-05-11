@@ -140,6 +140,8 @@ es6:
   section:
   - path: /javascript-developer/es/
     title: es6
+  - path: /javascript-developer/es/map/
+    title: map
   - path: /javascript-developer/es/resource/
     title: resources
 
