@@ -8,19 +8,19 @@ toc_max:  4
 ## entries & add
 
 ```js
-  'use strict';
-    let users = new Set();
-    users.add({
-      name: 'kamal',
-      age: 21
-    });
-    users.add({
-      name: 'jamal',
-      age: 23
-    })
-    for(let [user] of users.entries()){
-      console.log((user.name));
-    }
+'use strict';
+let users = new Set();
+users.add({
+  name: 'kamal',
+  age: 21
+});
+users.add({
+  name: 'jamal',
+  age: 23
+})
+for(let [user] of users.entries()){
+  console.log((user.name));
+}
 ```
 
 ## forEach
