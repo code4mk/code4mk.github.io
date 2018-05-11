@@ -1,3 +1,11 @@
+---
+description: resources
+keywords: es,es6,js
+title: resources
+toc_max:  4
+---
+
+
 # ES-6 tips
 ---
 * https://github.com/ericdouglas/ES6-Learning
@@ -16,5 +24,3 @@
 * https://repl.it/languages/babel
 * https://babeljs.io/repl/
 * https://kangax.github.io/compat-table/es6/  *****
-
-welcome dear . stay with us . ok done...

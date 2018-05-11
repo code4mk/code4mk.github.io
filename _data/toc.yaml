@@ -56,6 +56,9 @@ horizontalnav:
 - title: JS
   path: /js/
   node: js
+- title:  Es6
+  path: /es6/
+  node: es6
 
 
 
@@ -130,6 +133,14 @@ js:
 - sectiontitle: Resources
   section:
   - path: /javascript-developer/js/basic/resource/
+    title: resources
+
+es6:
+- sectiontitle: es6
+  section:
+  - path: /javascript-developer/es/
+    title: es6
+  - path: /javascript-developer/es/resource/
     title: resources
 
 
