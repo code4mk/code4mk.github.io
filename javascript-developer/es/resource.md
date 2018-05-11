@@ -13,6 +13,7 @@ toc_max:  4
 * https://github.com/DrkSephy/es6-cheatsheet
 * http://es6-features.org
 * https://github.com/sgaurav/understanding-es6
+* https://github.com/wesbos/es6.io
 * https://github.com/addyosmani/es6-tools `awesome`
 * http://babeljs.io/learn-es2015/#introduction `es2015`
 * https://devhints.io/es6

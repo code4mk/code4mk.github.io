@@ -47,6 +47,18 @@ console.log(users.phone.office);
 // 121
 ```
 
+```js
+let users = [
+  {name: 'kamal', age: 21},
+  {name: 'jamal', age: 23},
+  {name: 'maruf', age: 6}
+]
+users.forEach((user) => {
+  console.log(user.name);
+})
+// kamal , jamal , maruf
+```
+
 ## multiword property
 
 ### set
