@@ -42,6 +42,19 @@ Map is collection of data as key value pairs.
     // kamal
 ```
 
+```js
+let users = new Map([
+  ['name','kamal'],
+  ['age',21],
+  ['phone',{
+    home: 999,
+    office: 121
+  }]
+])
+console.log(users.get('phone').office);
+// 121
+```
+
 ## has
 
 ```js
