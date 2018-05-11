@@ -20,9 +20,9 @@ notoc: true
         <div class="col-sm-12 col-md-12 col-lg-4 block">
             <div class="component">
                 <div class="component-icon">
-                    <a href="es6/"> <img src="../images/js-image/es6.svg" alt="es6"> </a>
+                    <a href="es/"> <img src="../images/js-image/es6.svg" alt="es6"> </a>
                 </div>
-                <h3><a href="es6/">ES6</a></h3>
+                <h3><a href="es/">ES6</a></h3>
                 <p>ECMAScript 6 (ES6, often referred to as “Harmony”) is the upcoming sixth major release of the ECMAScript language specification.</p>
             </div>
         </div>
