@@ -59,6 +59,20 @@ users.forEach((user) => {
 // kamal , jamal , maruf
 ```
 
+```js
+let users = [
+  {name: 'kamal', age: 21 ,post: 'marketer'},
+  {name: 'jamal', age: 23, post: 'civil'},
+  {name: 'maruf', age: 6, post: 'ceo'}
+]
+ for (let {name,post} of users) {
+  console.log(`${name} is posted as ${post}`);
+}
+// kamal isposted as marketer
+// jamal is posted as civil
+// maruf is posted as ceo
+```
+
 ## multiword property
 
 ### set
