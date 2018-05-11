@@ -1,4 +1,9 @@
-
+---
+description: Map
+keywords: es,es6,js
+title: map
+toc_max:  4
+---
 
 Map is collection of data as key value pairs.
 
