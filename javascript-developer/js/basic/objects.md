@@ -58,6 +58,7 @@ users.forEach((user) => {
 })
 // kamal , jamal , maruf
 ```
+* es6 loop
 
 ```js
 let users = [
