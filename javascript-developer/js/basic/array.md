@@ -37,7 +37,21 @@ console.log(users[0]);
 
 ```js
 Array.isArray([1,2,3]);
+// true
 ```
+
+## concat
+
+```js
+let num = [2,4,5];
+let con1 = [6,7,8];
+let con2 = [9,10];
+
+let resultConcat = num.concat(con1,con2);
+console.log(resultConcat);
+// [ 2, 4, 5, 6, 7, 8, 9, 10 ]
+```
+
 ## every()
 
 * check all elements

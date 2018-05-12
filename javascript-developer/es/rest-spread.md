@@ -21,13 +21,38 @@ users('kamal');
 
 ```js
 result = (x,...num) => {
-  let restNum = num
+  let restNum = num // [2,4,6]
   let total = 0;
   restNum.forEach(number=> {
     total+=number
   })
   console.log(`total is ${total}`)
 }
-result(1,2,4,6)
+result(5,2,4,6)
 // total is 12
+```
+
+## spread
+
+```js
+let spreadNum = [5,6,7];
+
+result = (x,...num) => {
+  let restNum = num
+  let total = 0;
+  restNum.forEach(me=>{
+    total+=me
+  })
+  console.log(`total is ${total}`)
+}
+
+result(1,...spreadNum)
+// 18
+```
+
+```js
+let nums = [1,2,3];
+let spreadNum = [...nums,4,5,6]
+
+console.log(spreadNum);
 ```
