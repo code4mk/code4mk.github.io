@@ -1,5 +1,9 @@
-
-
+---
+description: default, rest & spread
+keywords: es,es6,js
+title: default, rest & spread
+toc_max:  4
+---
 
 ## default
 
