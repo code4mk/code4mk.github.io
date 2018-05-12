@@ -59,3 +59,19 @@ let result =  functionName(3,2);
 console.log(result);
 // 5
 ```
+
+## lexical this
+
+```js
+let users = [
+  {name: 'kamal', age: 21},
+  {name: 'jamal', age: 23},
+  {name: 'maruf', age: 7},
+  {name: 'sadia', age: 4},
+  {name: 'karim', age: 65},
+]
+
+this.users.forEach(function(user){
+  console.log(user.name);
+})
+```
