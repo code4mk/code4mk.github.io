@@ -48,3 +48,14 @@ users.forEach((user) => {
 // sadia
 // karim
 ```
+
+* another example
+
+```js
+functionName =  (var1,var2) => {
+  return var1 + var2;
+}
+let result =  functionName(3,2);
+console.log(result);
+// 5
+```
