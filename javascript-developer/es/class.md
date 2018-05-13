@@ -88,3 +88,33 @@ d.posting();
 // kamal is 21 years old
 // kamal is a coder
 ```
+
+## super method
+
+```js
+class User {
+  constructor(name,age,post) {
+    this.name = name;
+    this.age = age;
+    this.post = 'post'
+  }
+
+  employee() {
+    console.log((`${this.name} is ${this.age} years old`));
+  }
+}
+
+class Admin extends User {
+  constructor(name,age,post){
+    super(name,age,post);
+  }
+  posting(){
+    super.employee();
+    console.log(`${this.name} is a ${this.post}`);
+  }
+}
+let d = new Admin('mostafa',21,'coder');
+d.posting();
+// kamal is 21 years old
+// kamal is a coder
+```
