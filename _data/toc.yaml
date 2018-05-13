@@ -158,6 +158,8 @@ es6:
     title: class
   - path: /javascript-developer/es/getter-setter/
     title: getter & setter
+  - path: /javascript-developer/es/properies-short/
+    title: properties shorthand
   - path: /javascript-developer/es/resource/
     title: resources
 
