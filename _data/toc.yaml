@@ -162,6 +162,8 @@ es6:
     title: modules
   - path: /javascript-developer/es/properties-short/
     title: properties shorthand
+  - path: /javascript-developer/es/generator/
+    title: generator
   - path: /javascript-developer/es/resource/
     title: resources
 

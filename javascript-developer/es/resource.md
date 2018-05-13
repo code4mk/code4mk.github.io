@@ -18,7 +18,7 @@ toc_max:  4
 * [http://babeljs.io/learn-es2015/#introduction](http://babeljs.io/learn-es2015/#introduction) `es2015`
 * [https://devhints.io/es6](https://devhints.io/es6)
 
-# book 
+# book
 
 * [understandinges6](https://leanpub.com/understandinges6/read#leanpub-auto-sets-in-ecmascript-6)
 
@@ -30,3 +30,9 @@ toc_max:  4
 * [https://repl.it/languages/babel](https://repl.it/languages/babel)
 * [https://babeljs.io/repl/](https://babeljs.io/repl/)
 * [https://kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/)  *****
+
+# video
+
+* [Ryan](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+* [Traversy ](https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+* [Net Ninja](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
