@@ -38,8 +38,8 @@ class User {
   get name() {
     return `${this.firstName} ${this.lastName}`
   }
-  set name(name) {
-    let split = name.split(' ');
+  set name(value) {
+    let split = value.split(' ');
     this.firstName = split[0];
     this.lastName = split[1];
   }
@@ -54,5 +54,3 @@ console.log(user.name);
 // code4mk tester
 // Mostafa Kamal
 ```
-
-* https://javascriptplayground.com/es5-getters-setters/
