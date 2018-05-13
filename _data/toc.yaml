@@ -154,6 +154,8 @@ es6:
     title: map
   - path: /javascript-developer/es/set/
     title: set
+  - path: /javascript-developer/es/class/
+    title: class
   - path: /javascript-developer/es/resource/
     title: resources
 
