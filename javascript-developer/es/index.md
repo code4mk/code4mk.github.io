@@ -12,4 +12,5 @@ This Ecma Standard defines the ECMAScript 2017 Language. It is the eighth editio
 * `oop` flavor with es6 (JavaScript)
 * es6 (6 version)
 * [history](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
+* [es6](https://www.ecma-international.org/ecma-262/6.0/)
 * [es 7](http://ecma-international.org/ecma-262/7.0/)
