@@ -1,7 +1,7 @@
 ---
-description: ES6
+description: Play with ES6
 keywords: es,es6,js
-title: ES6
+title: Play with ES6
 toc_max:  4
 ---
 
