@@ -23,6 +23,7 @@ let user = {
 
 user.fullName = 'Maruf Fakir';
 console.log(`firstName is ${user.firstName}`);
+//  firstName is Maruf
 ```
 
 
