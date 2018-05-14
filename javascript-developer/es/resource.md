@@ -18,6 +18,8 @@ toc_max:  4
 * [http://babeljs.io/learn-es2015/#introduction](http://babeljs.io/learn-es2015/#introduction) `es2015`
 * [https://devhints.io/es6](https://devhints.io/es6)
 
+* [albertomontalesi](https://albertomontalesi.github.io/courses/es6)
+
 # book
 
 * [understandinges6](https://leanpub.com/understandinges6/read#leanpub-auto-sets-in-ecmascript-6)
