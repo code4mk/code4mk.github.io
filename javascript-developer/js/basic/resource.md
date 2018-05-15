@@ -13,6 +13,7 @@ toc_max: 4
 * [jstips github](https://github.com/loverajoel/jstips)
 * [JavaScript30 wesbos github](https://github.com/wesbos/JavaScript30)
 * [airbnb github](https://github.com/airbnb/javascript)
+* [standard](https://github.com/standard/standard)
 * [javascript.info/](https://javascript.info/)
 * [awesome-javascript github](https://github.com/sorrycc/awesome-javascript)
 * [devdoc class](https://devdocs.io/javascript/classes)
