@@ -280,19 +280,7 @@ uname
 id -u
 whoami
 ```
-## and && comannd
 
-```bash
-uname && id -u
-```
-
-## or || comannd
-
-```bash
-unamed || id -u
-# unamed is wrong command
-# uname is actual command
-```
 
 # function
 
