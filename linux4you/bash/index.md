@@ -64,11 +64,11 @@ echo ${name:="kamal"}
 # string
 
 ```bash
-status="Mostafa Kamal   is    a     code artisat"
+status="Mostafa Kamal   is    a     code artist"
 echo $status
-# Mostafa Kamal is a code artisat
+# Mostafa Kamal is a code artist
 echo "$status"
-# Mostafa Kamal   is    a     code artisat
+# Mostafa Kamal   is    a     code artist
 ```
 
 
