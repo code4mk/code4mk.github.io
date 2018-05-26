@@ -383,3 +383,11 @@ linux:
     title: permissions
   - path: /linux4you/package/
     title: package
+- sectiontitle: Bash scripts
+  section:
+  - path: /linux4you/bash/
+    title: bash scripting
+  - path: /linux4you/bash/file/
+    title: file.
+  - path: /linux4you/bash/resources/
+    title: resources.
