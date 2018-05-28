@@ -59,6 +59,12 @@ echo ${name:="kamal"}
 # kamal
 ```
 
+# read
+
+```bash
+read -p "submit your name: " name
+echo $name
+```
 
 
 # string

@@ -23,7 +23,7 @@ toc_max: 4
 * [tldp](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 * [cybercity](https://bash.cyberciti.biz/guide/Main_Page)
 
-
+* [ss64](https://ss64.com/bash/printf.html)
 # editor
 
 * [http://rextester.com/l/bash_online_compiler](http://rextester.com/l/bash_online_compiler)
