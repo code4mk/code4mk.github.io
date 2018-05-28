@@ -151,7 +151,7 @@ echo ${users[@]}
 
 # condition
 
-* single squre bracket `[condition]` or double squre bracket `[[condtion]]`
+* single square bracket `[condition]` or double square bracket `[[condtion]]`
 * ubuntu system basicaly not support `[[ not support ]]`
   * access `[[ double]]` command `sudo bash myfile.sh`
   * On Ubuntu systems, `/bin/sh` is `dash`, not `bash`, and `dash` does `not support` the `double bracket`

@@ -60,5 +60,3 @@ puts name2.object_id
 
 
 * [ruby doc](http://ruby-doc.org/)
-
-* [ruby wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))
