@@ -49,15 +49,7 @@ puts name2.object_id
 
 ## resource
 
-* [online compiler repl](https://repl.it/languages/ruby)
-* [awesome github](https://github.com/markets/awesome-ruby)
-* [Ruby learning](http://rubylearning.com)
-* [wikibook ruby](https://en.wikibooks.org/wiki/Ruby_Programming)
-* [ launchschool ruby](https://launchschool.com/books/ruby/read/introduction)
-* [try ruby]( http://tryruby.org/levels/1/challenges/0)
-* [watir cheatsheet](https://github.com/watir/watir_meta/wiki/Cheat-Sheet-for-Ruby)
-* [ruby cheatsheet](http://www.pragtob.info/rails-beginner-cheatsheet/)
-* [cheat-sheets org](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
+
 * [gem package maneger](https://rubygems.org/)
 * [core:-2.4.2](http://ruby-doc.org/core-2.4.2/)
 * [stdlib-2.4.2](http://ruby-doc.org/stdlib-2.4.2/)
@@ -66,7 +58,7 @@ puts name2.object_id
 
 ## official
 
-* [ruby lang](www.ruby-lang.org)
+
 * [ruby doc](http://ruby-doc.org/)
-* [github repo](https://github.com/ruby/ruby)
+
 * [ruby wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))

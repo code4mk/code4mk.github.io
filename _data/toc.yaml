@@ -320,6 +320,8 @@ ruby:
     title: Condition
   - path: /web-developer/ruby/loop/
     title: Loop
+  - path: /web-developer/ruby/resources/
+    title: resources
 
 rails:
 - sectiontitle: Install Rails
