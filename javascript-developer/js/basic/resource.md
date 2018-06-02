@@ -23,6 +23,7 @@ toc_max: 4
 * [w3](https://www.w3schools.com/js/js_scope.asp)
 * [microsoft](https://docs.microsoft.com/en-us/scripting/javascript/javascript-language-reference)
 * [digitalocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
+* [wikibook](https://en.wikibooks.org/wiki/JavaScript)
 
 ### cheatsheet
 
