@@ -397,7 +397,7 @@ linux:
   - path: /linux4you/bash/resources/
     title: resources.
 
-Django:
+django:
 - sectiontitle: Basic
   section:
   - path: /web-developer/django/
