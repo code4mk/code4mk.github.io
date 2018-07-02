@@ -6,3 +6,8 @@
 # editor
 
 * https://repl.it/languages/python3
+
+# book
+
+* [python books](https://github.com/TechBookHunter/Free-Python-Books)
+* [python guide](http://docs.python-guide.org/en/latest/writing/style/)
