@@ -400,7 +400,7 @@ linux:
 django:
 - sectiontitle: Basic
   section:
-  - path: /web-developer/django/
+  - path: /web-developer/django/index/
     title: intro
   section:
   - path: /web-developer/django/references/
