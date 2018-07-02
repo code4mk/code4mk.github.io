@@ -1,4 +1,9 @@
-
+---
+description: Model django
+keywords: django, python
+title: Model django
+toc_max: 4
+---
 
 * `django.db.models.Model`
 * `database fields`

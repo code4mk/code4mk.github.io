@@ -404,3 +404,7 @@ django:
     title: intro
   - path: /web-developer/django/references/
     title: references
+- sectiontitle: Model
+  section:
+  - path: /web-developer/django/model-layer/
+    title: model
