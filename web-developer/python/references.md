@@ -1,3 +1,11 @@
+---
+description: references
+keywords:  python
+title: references
+toc_max: 4
+---
+
+
 * [https://en.wikibooks.org/wiki/Python_Programming](https://en.wikibooks.org/wiki/Python_Programming)
 * [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
 * [https://www.learnpython.org/](https://www.learnpython.org/)
