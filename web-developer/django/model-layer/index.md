@@ -5,6 +5,8 @@ title: Model django
 toc_max: 4
 ---
 
+[model and database official](https://docs.djangoproject.com/en/2.0/topics/db/)
+
 * `django.db.models.Model`
 * `database fields`
 * `auto generates with api`

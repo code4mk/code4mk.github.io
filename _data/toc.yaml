@@ -60,6 +60,12 @@ horizontalnav:
   path: /es6/
   node: es6
 
+
+
+- title:  Python
+  path: /python/
+  node: python
+
 - title:  Django
   path: /django/
   node: django
@@ -396,6 +402,17 @@ linux:
     title: file.
   - path: /linux4you/bash/resources/
     title: resources.
+
+
+
+
+python:
+- sectiontitle: Basic
+  section:
+  - path: /web-developer/python/
+    title: intro
+  - path: /web-developer/python/references/
+    title: references
 
 django:
 - sectiontitle: Basic
