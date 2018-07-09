@@ -1,7 +1,7 @@
 ---
-description: play with  python
+description: Play with python
 keywords: python
-title: play with python
+title: Play with python
 toc_max: 4
 ---
 

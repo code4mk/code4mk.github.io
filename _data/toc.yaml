@@ -402,10 +402,6 @@ linux:
     title: file.
   - path: /linux4you/bash/resources/
     title: resources.
-
-
-
-
 python:
 - sectiontitle: Basic
   section:
