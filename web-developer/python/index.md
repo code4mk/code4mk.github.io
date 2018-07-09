@@ -13,16 +13,6 @@ Python is a high level language. Python created by Guido van Rossum (1991).
 
 # fields
 
-## options
-
-### null
-### blank
-### default
-### unique
-### verbose_name
-### primary_key
-### help_text
-### choices
 
 # download
 
