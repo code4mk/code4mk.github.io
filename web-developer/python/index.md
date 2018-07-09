@@ -11,7 +11,6 @@ Python is a high level language. Python created by Guido van Rossum (1991).
 # why use python
 
 
-# fields
 
 
 # download
