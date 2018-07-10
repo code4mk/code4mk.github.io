@@ -409,6 +409,8 @@ python:
     title: intro
   - path: /web-developer/python/operator/
     title: operator
+  - path: /web-developer/python/lists/
+    title: lists
   - path: /web-developer/python/condition/
     title: condition
   - path: /web-developer/python/loop/
