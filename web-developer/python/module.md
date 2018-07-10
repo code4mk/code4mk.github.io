@@ -1,5 +1,11 @@
+---
+description: modules
+keywords: python
+title: modules
+toc_max: 4
+---
 
-# import
+## import
 
 * `import <module name>`
 
