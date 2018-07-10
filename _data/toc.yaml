@@ -407,7 +407,7 @@ python:
   section:
   - path: /web-developer/python/
     title: intro
-  - path: /web-developer/python/operator
+  - path: /web-developer/python/operator/
     title: operator
   - path: /web-developer/python/condition/
     title: condition
