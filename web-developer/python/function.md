@@ -17,7 +17,7 @@ user()
 ### parameter
 
 ```py
-def user(name,age,status="dev"):
+def user(name,age):
   print(name +  "'s age is "+ str(age) )
 user("mostafa",21)
 # mostafa's age is 21
@@ -44,6 +44,21 @@ user("mostafa",21,"01751----","hire@hire.com")
 # 01751----
 # hire@hire.com
 ```
+
+## keyword argument
+
+* `**kw`
+
+* `*arg` is positional argument
+* `**kw` is keyword argument
+
+```py
+def foo(*positional, **keywords):
+    print "Positional:", positional
+    print "Keywords:", keywords
+foo("kamal","jamal");
+```
+
 
 ## call function
 
