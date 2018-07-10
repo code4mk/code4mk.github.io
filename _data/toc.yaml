@@ -411,6 +411,8 @@ python:
     title: operator
   - path: /web-developer/python/lists/
     title: lists
+  - path: /web-developer/python/taple/
+    title: taple
   - path: /web-developer/python/condition/
     title: condition
   - path: /web-developer/python/loop/
