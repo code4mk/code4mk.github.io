@@ -422,7 +422,9 @@ python:
   - path: /web-developer/python/basic/
     title: basic
   - path: /web-developer/python/function/
-    title: funcction
+    title: function
+  - path: /web-developer/python/class/
+    title: class
   - path: /web-developer/python/references/
     title: references
 

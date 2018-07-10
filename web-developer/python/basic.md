@@ -1,4 +1,9 @@
-
+---
+description: Basic
+keywords: python
+title: Basic
+toc_max: 4
+---
 
 ## input
 
