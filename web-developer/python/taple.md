@@ -1,6 +1,7 @@
 # tapple
 
 * `()`
+* most same as `lists`
 * `unchangeable` / `immutable`
 
 ```py
