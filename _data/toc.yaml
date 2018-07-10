@@ -425,6 +425,8 @@ python:
     title: function
   - path: /web-developer/python/class/
     title: class
+  - path: /web-developer/python/module/
+    title: module
   - path: /web-developer/python/references/
     title: references
 
