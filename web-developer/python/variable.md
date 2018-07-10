@@ -1,7 +1,9 @@
 ```py
 name = "kamal"
 age = 21
-print(name, age)
+status = False
+print(name, age, status)
+# kamal 21 False
 ```
 
 ## private variable
