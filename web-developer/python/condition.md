@@ -31,7 +31,7 @@ else:
 # User name is kamal
 ```
 
-# and
+## and
 ```py
 username = "kamal"
 password = "ka23"
@@ -43,7 +43,7 @@ else:
 # password or username is wrong
 ```
 
-# or
+## or
 
 ```py
 username = "kamal"
