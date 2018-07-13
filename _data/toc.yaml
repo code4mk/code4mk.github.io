@@ -423,6 +423,10 @@ python:
     title: basic
   - path: /web-developer/python/function/
     title: function
+  - path: /web-developer/python/decorator/
+    title: decorator
+  - path: /web-developer/python/lambda/
+    title: lambda
   - path: /web-developer/python/class/
     title: class
   - path: /web-developer/python/module/
