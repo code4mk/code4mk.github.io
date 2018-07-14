@@ -71,6 +71,10 @@ end
 puts "Done!"
 ```
 
+## range
+
+* `1..5` [1,2,3,4,5]
+
 ## source
 
 * [launchschool](https://launchschool.com/books/ruby/read/loops_iterators#simpleloop)

@@ -321,14 +321,16 @@ ruby:
     title: Variable
   - path: /web-developer/ruby/array/
     title: Array
-  - path: /web-developer/ruby/class/
-    title: Class & object
-  - path: /web-developer/ruby/method/
-    title: Method
+  - path: /web-developer/ruby/operator/
+    title: operator
   - path: /web-developer/ruby/conditions/
     title: Condition
   - path: /web-developer/ruby/loop/
     title: Loop
+  - path: /web-developer/ruby/method/
+    title: Method
+  - path: /web-developer/ruby/class/
+    title: Class & object
   - path: /web-developer/ruby/resources/
     title: resources
 

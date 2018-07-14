@@ -10,7 +10,21 @@ toc_max: 4
 
 `<, >, <=, >=, ==, !=, &&, ||`
 
-## if/else
+
+## if
+
+```ruby
+if 5==5
+  puts('number is 5')
+else
+  puts('number is not 5')
+end
+# number is 5
+```
+
+## elsif
+
+* else if short elsif
 
 ```ruby
 puts "Put in a number"
@@ -26,6 +40,7 @@ end
 ```
 
 ## case
+
 case is basically switch case
 
 ```ruby

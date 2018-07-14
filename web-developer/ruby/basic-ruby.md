@@ -39,4 +39,11 @@ puts name.object_id
 puts name2.object_id
 ```
 
+## boolean
+
+* true
+* false
+
+~ `0 and 1 is not boolean`
+
 * [source](https://ruby-doc.org/core-2.2.0/Symbol.html)
