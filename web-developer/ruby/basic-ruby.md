@@ -46,4 +46,20 @@ puts name2.object_id
 
 ~ `0 and 1 is not boolean`
 
+## upcase
+
+```rb
+name = "mostafa"
+puts name.upcase()
+# MOSTAFA
+```
+
+## downcase
+
+```rb
+name = "Mostafa"
+puts name.downcase()
+# mostafa
+```
+
 * [source](https://ruby-doc.org/core-2.2.0/Symbol.html)
