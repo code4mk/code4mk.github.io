@@ -321,6 +321,8 @@ ruby:
     title: Variable
   - path: /web-developer/ruby/array/
     title: Array
+  - path: /web-developer/ruby/hashes/
+    title: Hashes
   - path: /web-developer/ruby/operator/
     title: operator
   - path: /web-developer/ruby/conditions/

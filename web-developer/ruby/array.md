@@ -24,13 +24,56 @@ arr.push(5) #=> [1, 2, 3, 4, 5]
 arr << 6    #=> [1, 2, 3, 4, 5, 6]
 ```
 
-# looping array
+## looping array
 
 ```ruby
 arr = [1, 2, 3, 4, 5]
 arr.each { |a| print a -= 10, " " }
 # prints: -9 -8 -7 -6 -5
 #=> [1, 2, 3, 4, 5]
+```
+
+## combining
+
+```rb
+users = [1, 2, 3, 4]
+admins = [5, 6, 7]
+
+members = users + admins
+
+puts members
+# 1 2 3 4 5 6 7
+```
+
+## subtracting
+
+```rb
+users = [1,2,3,4]
+admins = [1,3]
+memebrs = users - admins
+puts members
+# 2,4
+```
+## boolean
+
+### and
+
+```rb
+users = [1,2,3,4]
+admins = [1,3,5]
+memebrs = users & admins
+puts members
+# 1,3
+```
+
+### or
+
+```rb
+users = [1,2,3,4]
+admins = [1,3,5]
+memebrs = users | admins
+puts members
+# 1 2 3 4 5
 ```
 
 * [source](https://ruby-doc.org/core-2.2.0/Array.html)

@@ -14,7 +14,7 @@ toc_max: 4
 ## if
 
 ```ruby
-if 5==5
+if 5 == 5
   puts('number is 5')
 else
   puts('number is not 5')
