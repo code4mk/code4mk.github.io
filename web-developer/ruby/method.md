@@ -36,6 +36,30 @@ def method_name(msg, body)
 end
 ```
 
+## default parameter
+
+```ruby
+def add_three(number,age=21)
+  return number + age
+end
+
+returned_value = add_three(4)
+puts returned_value
+# 25
+```
+
+## rest parameter
+
+```ruby
+def add_three(number,*num)
+  return  num
+end
+
+returned_value = add_three(4,5,5)
+puts returned_value
+# 5 5
+```
+
 ## return
 
 ```ruby

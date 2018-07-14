@@ -44,6 +44,29 @@ yo.method_3
 
 ```
 
+## set & get
+
+```rb
+class User
+  def initialize(name)
+    @name = name
+  end
+  def set=(name)
+    @name = name
+  end
+  def get
+     puts @name
+  end
+end
+
+p = User.new("mk")
+p.set=("kamal")
+
+p.get
+
+# kamal
+```
+
 ## Inheritence
 
 ```ruby
