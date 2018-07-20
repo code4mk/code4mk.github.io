@@ -71,6 +71,10 @@ horizontalnav:
   node: django
 
 
+- title:  Extra
+  path: /extra/
+  node: extra
+
 js:
 - sectiontitle: Basic JS
   section:
@@ -449,3 +453,11 @@ django:
   section:
   - path: /web-developer/django/model-layer/
     title: model
+
+extra:
+- sectiontitle: auth
+  section:
+  - path: /web-developer/javascript-developer/jwt/
+    title: jwt & status
+  - path: /web-developer/javascript-developer/oauth2/
+    title: references
