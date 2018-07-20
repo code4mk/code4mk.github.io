@@ -455,9 +455,11 @@ django:
     title: model
 
 extra:
-- sectiontitle: auth
+- sectiontitle: extra
   section:
   - path: /javascript-developer/extra/jwt/
     title: jwt & status
   - path: /javascript-developer/extra/oauth2/
-    title: references
+    title: oauth
+  - path: /javascript-developer/extra/keycode/
+    title: key code
