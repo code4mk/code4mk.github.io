@@ -457,7 +457,7 @@ django:
 extra:
 - sectiontitle: auth
   section:
-  - path: /web-developer/javascript-developer/jwt/
+  - path: /web-developer/javascript-developer/extra/jwt/
     title: jwt & status
-  - path: /web-developer/javascript-developer/oauth2/
+  - path: /web-developer/javascript-developer/extra/oauth2/
     title: references
