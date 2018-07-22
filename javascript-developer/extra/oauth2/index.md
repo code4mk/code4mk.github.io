@@ -15,6 +15,7 @@ toc_max: 4
 * [bubblecode](http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/)
 * [digitalocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
+* [passport video series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x)
 
 ## site
 
