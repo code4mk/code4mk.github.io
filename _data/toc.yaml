@@ -463,5 +463,7 @@ extra:
     title: oauth
   - path: /javascript-developer/extra/keycode/
     title: key code
+  - path: /javascript-developer/extra/webpack/
+    title: webpack
   - path: /javascript-developer/extra/htaccess/
     title: htaccess
