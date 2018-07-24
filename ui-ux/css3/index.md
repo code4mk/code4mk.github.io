@@ -115,3 +115,5 @@ Pseudo-class selectors are attached to usual selectors and start with a colon `:
 
 * [http://htmlcheatsheet.com/css/](http://htmlcheatsheet.com/css/)
 * [https://adam-marsden.co.uk/css-cheat-sheet](https://adam-marsden.co.uk/css-cheat-sheet)
+
+* [http://designingforperformance.com/](http://designingforperformance.com/)
