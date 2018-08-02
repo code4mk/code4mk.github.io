@@ -29,9 +29,9 @@ notoc: true
         <div class="col-sm-12 col-md-12 col-lg-4 block">
             <div class="component">
                 <div class="component-icon">
-                    <a href="jquery/"> <img src="../images/js-image/jquery.svg" alt="jquery"> </a>
+                    <a href="jquery/index"> <img src="../images/js-image/jquery.svg" alt="jquery"> </a>
                 </div>
-                <h3><a href="jquery/">JQuery</a></h3>
+                <h3><a href="jquery/index">JQuery</a></h3>
                 <p>jQuery is a fast, small, and feature-rich JavaScript library.</p>
             </div>
         </div>
