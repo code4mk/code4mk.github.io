@@ -1,41 +1,62 @@
 ---
-description: Jquery Tips
+description: Basic jquery
 keywords: react, mobx
-title: Jquery Tips
+title: Basic jquery
 toc_max: 4
 ---
-## jQuery History
 
-jquery is a javascript library . write less do more .
+## ready
 
+jquery library loading after ready . jquery has 4 types ready function .
 
-
-## Who maintain jQuery
-
-
-## main theme
-
-### syntax
+* 1
 
 ```js
-$(selector).action();
+$(document).ready(function() {
+   // jQuery code goes here
+});
 ```
 
+* 2
 
-## resource
+```js
+$(function(){
+  // jQuery code goes here
+})(jQuery);
 
-* [w3school](https://www.w3schools.com/jquery/default.asp)
-* [jquery](https://learn.jquery.com/)
-* [jquery api](http://api.jquery.com/)
-* [sololearn](https://www.sololearn.com/Course/jQuery/)
-* [awesome](https://github.com/petk/awesome-jquery)
-* [guide github](https://github.com/voorhoede/jquery-style-guide)
-* [pattern github](https://github.com/jquery-boilerplate/jquery-patterns)
-* [jquery rain](http://www.jqueryrain.com/)
+```
 
-## cheatsheet
+* 3
 
-* [oscarotero](https://oscarotero.com/jquery/)
-* [websitesetup](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf)
-* [over api](http://overapi.com/jquery)
-* [cheatography](https://www.cheatography.com/luigi0555/cheat-sheets/jquery/)
+```js
+$(function(){
+  // jQuery code goes here
+});
+```
+
+* 4
+
+```js
+$(window).load(function(){
+  // jQuery code goes here
+});
+```
+
+## jquery main theme
+
+* `selector`
+* `action`
+
+## selector
+
+selector start with `$` . `$(selector)`
+
+ ~selector
+
+* html element
+* class
+* id
+
+<img src="https://api.sololearn.com/DownloadFile?id=3119" alt="selector">
+
+img credit : sololearn

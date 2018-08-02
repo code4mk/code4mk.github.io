@@ -24,6 +24,8 @@ toc_max: 4
 * [cybercity](https://bash.cyberciti.biz/guide/Main_Page)
 
 * [ss64](https://ss64.com/bash/printf.html)
+
+* [gnu bash](https://www.gnu.org/software/bash/manual/bashref.html#Bash-Startup-Files)
 # editor
 
 * [http://rextester.com/l/bash_online_compiler](http://rextester.com/l/bash_online_compiler)

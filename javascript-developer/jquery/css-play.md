@@ -1,6 +1,6 @@
 ---
 description: css manipulation jquery
-keywords: react, mobx
+keywords: js, jquery
 title: css manipulation jquery
 toc_max: 4
 ---

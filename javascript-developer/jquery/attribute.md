@@ -1,6 +1,6 @@
 ---
 description: Attribute jquery
-keywords: react, mobx
+keywords: js, jquery
 title: Attribute jquery
 toc_max: 4
 ---

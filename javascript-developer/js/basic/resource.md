@@ -30,3 +30,15 @@ toc_max: 4
 * [firstsiteguide](https://firstsiteguide.com/javascript-cheat-sheet/)
 * [overapi](http://overapi.com/javascript)
 * [codementor](https://www.codementor.io/johnnyb/javascript-cheatsheet-fb54lz08k)
+
+## live-server
+
+* [live-server](https://github.com/tapio/live-server)
+* [free deploy surge.sh](https://surge.sh)
+
+## trending
+
+* [https://www.javascripting.com/](https://www.javascripting.com/)
+* [https://risingstars.js.org/2017/en/](https://risingstars.js.org/2017/en/)
+* [https://bestofjs.org](https://bestofjs.org)
+* [js.org](https://github.com/js-org/js.org/blob/master/cnames_active.js)

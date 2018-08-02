@@ -250,7 +250,7 @@ console.log(users);
 
 ```js
 let users = ['kamal','maruf','jamal','sadia','karim'];
-let result = users.splice(1,0,'hasibur');
+let result = users.splice(1,1,'hasibur');
 console.log(users);
 // ["kamal", "hasibur", "jamal", "sadia", "karim"]
 ```
