@@ -5,6 +5,9 @@ horizontalnav:
 - title: React
   path: /react
   node: react
+- title: Jquery
+  path: /jquery
+  node: jquery
 - title: Angular
   path: /angular
   node: angular
@@ -228,6 +231,22 @@ react:
   section:
   - path: /javascript-developer/react/rrb/
     title: React Mini Boilerplate
+
+jquery:
+- sectiontitle: Basic JQuery
+  section:
+  - path: /javascript-developer/jquery/
+    title: basic
+  - path: /javascript-developer/jquery/attribute/
+    title: attributes
+  - path: /javascript-developer/jquery/dom/
+    title: dom
+  - path: /javascript-developer/jquery/event/
+    title: event
+  - path: /javascript-developer/jquery/css-play/
+    title: css
+  - path: /javascript-developer/jquery/resources/
+    title: resources
 
 angular:
 - sectiontitle: Basic Angular
