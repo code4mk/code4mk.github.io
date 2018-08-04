@@ -36,6 +36,50 @@ This is echmascript 5 feature .
 var collect = require(collect.js)
 ```
 
+## call and apply
+
+```js
+// Call() takes comma-separated arguments, ex:
+.call(scope, arg1, arg2, arg3)
+// and apply() takes an array of arguments, ex:
+.apply(scope, [arg1, arg2, arg3])
+```
+
+### call
+
+```js
+let name = (...t) => {
+  console.log(t);
+}
+name.call(name, "kamal","jamal");
+// [kamal,jamal]
+```
+
+### apply
+
+```js
+let name = (...t) => {
+  console.log(t);
+}
+name.apply(name, ["kamal","jamal"]);
+// [kamal,jamal]
+```
+
+## bind
+
+```js
+
+
+let name = (t,me,...other) => {
+  console.log(`${t} ${me}`);
+  console.log(other);
+}
+
+let bName = name.bind(name,"I am", "jamal");
+bName("kamal","maruf","sadia")
+// I am jamal
+// [ 'kamal', 'maruf', 'sadia' ]
+```
 ## resource
 
 
