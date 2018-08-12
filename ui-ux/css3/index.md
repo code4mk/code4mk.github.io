@@ -22,6 +22,7 @@ CSS is a 3-part process:
 <iframe width="100%" height="300" src="//jsfiddle.net/mostafa6765/99cmtuqz/embedded/css,html,result/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ## Selector
+<img src="./img/css-selector.png" alt="css-selector">
 ## elements
 
 ```css
