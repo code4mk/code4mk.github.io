@@ -25,7 +25,7 @@ grid-template-column is describe `column numbers with width`
 * fit-content
 
 ```css
-.test{
+.grid-parent{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
@@ -43,7 +43,7 @@ grid-template-column is describe `column numbers with width`
 * fit-content
 
 ```css
-.test{
+.grid-parent{
   display: grid;
   grid-template-rows: 1fr 1fr;
 }
@@ -54,13 +54,13 @@ grid-template-column is describe `column numbers with width`
 * `grid-template-areas ` <- `grid-area`
 
 ```css
-.test{
+.grid-family{
   display: grid;
   grid-template-areas: "selector selector"
-                       "selector selector"
-                       "selector selector";
+                       "ads blog"
+                       "content content";
 }
-.test > hero {
+.grid-family > .grid-child {
   grid-area: selector;
 }
 ```
@@ -73,7 +73,7 @@ grid-template-column is describe `column numbers with width`
 `grid-column-gap` is `vertically gap`
 
 ```css
-.test{
+.grid-family{
   grid-column-gap: 10px;
 }
 ```
@@ -83,7 +83,7 @@ grid-template-column is describe `column numbers with width`
 `grid-row-gap` is `horizontally gap`
 
 ```css
-.test{
+.grid-family{
   grid-row-gap: 10px;
 }
 ```
@@ -108,11 +108,13 @@ grid-template-column is describe `column numbers with width`
 ## justify-content
 
 * `content` position on `horizontal or main axis `
+* need extra width (exist < 100%)
 
 
 ## align-content
 
 *  `content` position on `vertical or cross axis`
+* need extra height (exist < 100% (original))
 
 ## align-self
 
@@ -135,8 +137,7 @@ grid-template-column is describe `column numbers with width`
 * `grid-column` = `grid-column-start` + `grid-column-end`
 
 ```css
-.test{
-  display: grid;
+.grid-family .grid-child{
   grid-column: 1/4
   /* start from 1 and end to 4*/
 }
