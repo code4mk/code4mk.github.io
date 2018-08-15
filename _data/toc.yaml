@@ -294,6 +294,8 @@ css3:
     title: Combinator
   - path: /ui-ux/css3/units/
     title: Units
+  - path: /ui-ux/css3/properties/
+    title: Properties
   - path: /ui-ux/css3/flex/
     title: Flex
   - path: /ui-ux/css3/grid/
