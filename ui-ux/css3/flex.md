@@ -16,6 +16,9 @@ toc_max: 4
   display: flex;
 }
 ```
+## flex properties
+
+![flex img](https://raw.githubusercontent.com/code4mk/code4mk.github.io/master/ui-ux/css3/img/css-flex-properties.png)
 
 ## flex
 
