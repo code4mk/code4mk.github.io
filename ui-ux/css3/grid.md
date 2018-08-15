@@ -13,6 +13,8 @@ Grid is new feature for ui/ux developer .
 
 ![css grid](../../img/css-grid-properties.png)
 
+![](https://raw.githubusercontent.com/0devco/docs/master/.devco-images/logo-transparent.png)
+
 ## grid-template-column
 
 grid-template-column is describe `column numbers with width`
