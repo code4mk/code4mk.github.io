@@ -11,9 +11,8 @@ Grid is new feature for ui/ux developer .
 
 ## grid properties
 
-![css grid](../../img/css-grid-properties.png)
 
-![](https://raw.githubusercontent.com/0devco/docs/master/.devco-images/logo-transparent.png)
+![](https://raw.githubusercontent.com/code4mk/code4mk.github.io/master/ui-ux/css3/img/css-grid-properties.png)
 
 ## grid-template-column
 
