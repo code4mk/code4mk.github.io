@@ -9,6 +9,10 @@ toc_max: 4
 
 Grid is new feature for ui/ux developer .
 
+## grid properties
+
+<img src="./img/css-grid-properties.png" alt="css-selector">
+
 ## grid-template-column
 
 grid-template-column is describe `column numbers with width`
