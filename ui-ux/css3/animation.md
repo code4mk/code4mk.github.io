@@ -63,10 +63,10 @@ Defines in which direction the animation is played.
 
 value : `normal` , `reverse` , `alternate` , `alternate-reverse`
 
-* `normal`: starts at 0%, ends at 100%, starts at 0% again
-* `reverse`: starts at 100%, ends at 0%, starts at 100% again
-* `alternate`: starts at 0%, goes to 100%, goes to 0%
-* `alternate-reverse`: starts at 100%, goes to 0%, goes to 100%
+* `normal`: 0% → 100% .
+* `reverse`: 100% → 0%
+* `alternate`: 0% → 100% → 0%
+* `alternate-reverse`: 100% → 0% → 100%
 
 ~ It’s easier to visualise if the animation’s `iteration count` is set to `infinite`.
 
