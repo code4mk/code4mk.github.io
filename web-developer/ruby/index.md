@@ -47,6 +47,21 @@ puts name2.object_id
 
 * [ruby doc symbol](https://ruby-doc.org/core-2.2.0/Symbol.html)
 
+## try catch
+
+| js | rails     |
+| :------------- | :------------- |
+| try..catch..finaly     | begin..rescue..ensure      |
+
+```ruby
+begin
+  eval "2/0"
+rescue zeroDivisionError
+  puts "error "
+ensure
+  puts 'thsi is final statement'
+```
+
 ## resource
 
 

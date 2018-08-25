@@ -6,7 +6,7 @@
 
 ```js
 /is(?=\sthe)/
-//kamal is the is developer
+// kamal is the is developer
 ```
 
 * [demo](https://regexr.com/3nt8t)
@@ -16,7 +16,7 @@
 
 ```js
 /is(?!\sthe)/
-//kamal is the is developer
+// kamal is the is developer
 ```
 
 * [demo](https://regexr.com/3nt90)
