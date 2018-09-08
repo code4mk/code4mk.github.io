@@ -1,0 +1,37 @@
+
+# php
+
+php means `Hypertext Preprocessor` . It is a server side scripting language.
+
+
+```php
+<?php
+echo "welcome to php world"
+?>
+```
+# comments
+
+* single line
+
+```php
+// this is single line comments
+```
+
+* multi line comments
+
+```php
+/* this is
+ multi line comments */
+```
+
+# variable
+
+* start with `$` sign
+
+```php
+$name = "kamal"
+echo $name
+echo "${name}"
+// kamal
+// kamal
+```
