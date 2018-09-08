@@ -35,3 +35,10 @@ echo "${name}"
 // kamal
 // kamal
 ```
+
+# concat
+
+```php
+echo "welcome to" . " " . " code4mk.org";
+# welcome to  code4mk.org   
+```
