@@ -33,6 +33,9 @@ Me::info();
 ### this is user info
 ```
 
+➲(`laravel` ) : `static` live in `facades` folder
+
+
 ### abstract class
 
 `abstract class me{} → extends me `
@@ -46,7 +49,7 @@ Me::info();
 
 `interface me{} → implements me `
 
-➲(`laravel` ) : `intreface` live in `contract`
+➲(`laravel` ) : `intreface` live in `contract` folder
 
 ### trait
 
