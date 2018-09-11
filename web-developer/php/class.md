@@ -46,7 +46,7 @@ Me::info();
 
 `interface me{} → implements me `
 
-➲ (laravel )➲ intreface live in ` contract`
+➲ (`laravel` ) : `intreface` live in ` contract`
 
 ### trait
 
