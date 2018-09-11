@@ -502,6 +502,8 @@ php:
     title: class
   - path: /web-developer/php/include/
     title: include
+  - path: /web-developer/php/namespace/
+    title: namespace
 
 extra:
 - sectiontitle: extra
