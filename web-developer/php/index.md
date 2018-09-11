@@ -20,7 +20,8 @@ echo "welcome to php world"
 * single line
 
 ```php
-// this is single line comments
+// this is single line comment
+# signle line comment 
 ```
 
 * multi line comments
