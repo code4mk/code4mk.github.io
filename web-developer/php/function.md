@@ -1,3 +1,9 @@
+---
+description: function
+keywords: php
+title: function
+---
+
 # function
 
 ```php

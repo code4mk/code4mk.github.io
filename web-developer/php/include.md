@@ -1,3 +1,10 @@
+---
+description: include file
+keywords: php
+title: include file
+toc_max: 4
+---
+
 # include file
 
 # ➣  include

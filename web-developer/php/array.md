@@ -1,5 +1,9 @@
-
-
+---
+description: array
+keywords: php
+title: array
+toc_max: 4
+---
 # array
 
 ```php

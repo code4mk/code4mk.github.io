@@ -73,6 +73,10 @@ horizontalnav:
   path: /django/
   node: django
 
+- title:  PHP
+  path: /php/
+  node: php
+
 
 - title:  Extra
   path: /extra/
@@ -474,6 +478,30 @@ django:
   section:
   - path: /web-developer/django/model-layer/
     title: model
+
+php:
+- sectiontitle: Basic php
+  section:
+  - path: /web-developer/php/
+    title: intro
+  - path: /web-developer/php/variable/
+    title: variable
+  - path: /web-developer/php/string/
+    title: string
+  - path: /web-developer/php/array/
+    title: array
+  - path: /web-developer/php/operator/
+    title: operator
+  - path: /web-developer/php/condition/
+    title: condition
+  - path: /web-developer/php/loop/
+    title: loop
+  - path: /web-developer/php/function/
+    title: function
+  - path: /web-developer/php/class/
+    title: class
+  - path: /web-developer/php/include/
+    title: include
 
 extra:
 - sectiontitle: extra

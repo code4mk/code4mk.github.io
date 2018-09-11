@@ -1,4 +1,9 @@
-
+---
+description: Class
+keywords: php
+title: Class
+toc_max: 4
+---
 
 # class
 

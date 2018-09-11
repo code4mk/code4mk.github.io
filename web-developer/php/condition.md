@@ -1,3 +1,9 @@
+---
+description: condition
+keywords: php
+title: condition
+toc_max: 4
+---
 
 # if
 

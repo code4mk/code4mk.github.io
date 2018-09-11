@@ -1,3 +1,9 @@
+---
+description: resources
+keywords: php
+title: resources
+toc_max: 4
+---
 
 * [php official ref](http://us1.php.net/manual/en/langref.php)
 * [awesome php](https://github.com/ziadoz/awesome-php)

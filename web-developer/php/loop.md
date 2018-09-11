@@ -1,4 +1,9 @@
-
+---
+description: loop
+keywords: php
+title: loop
+toc_max: 4
+---
 
 # while
 

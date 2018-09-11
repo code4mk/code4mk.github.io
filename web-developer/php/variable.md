@@ -1,3 +1,10 @@
+---
+description: variable
+keywords: php
+title: variable
+toc_max: 4
+---
+
 # variable
 
 * start with `$` sign
