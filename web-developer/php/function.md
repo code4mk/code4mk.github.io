@@ -4,7 +4,7 @@ keywords: php
 title: function
 ---
 
-# function
+### function
 
 ```php
 function user() {
@@ -12,9 +12,10 @@ function user() {
 }
 user();
 User();
+# function name isn't case-sensitive
 ```
 
-# argument
+### argument
 
 ```php
 function user($name,$status) {
@@ -24,7 +25,7 @@ user("kamal","coder");
 # kamal is a coder
 ```
 
-# default argument
+### default argument
 
 ```php
 function user($name,$status="artist") {
@@ -34,7 +35,7 @@ user("kamal",);
 # kamal is a artist
 ```
 
-# rest
+### rest
 
 ```php
 function user(...$users) {

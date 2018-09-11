@@ -5,14 +5,14 @@ title: include file
 toc_max: 4
 ---
 
-# include file
+### include file
 
-# ➣  include
+### ➣  include
 When a file is included using the `include` statement, but PHP is `unable` to find it, the script continues to `execute`.
 
  `include →  unable find →  execute`
 
-# ➣ require
+### ➣ require
 
 when a file is included using the `require` statement but PHP  is `unable` to find it, the script return `error`
 

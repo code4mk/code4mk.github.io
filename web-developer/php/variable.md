@@ -5,7 +5,7 @@ title: variable
 toc_max: 4
 ---
 
-# variable
+### variable
 
 * start with `$` sign
 
@@ -17,7 +17,7 @@ echo "${name}"
 // kamal
 ```
 
-## scope variable
+###### scope variable
 
 ```php
 $name = "kamal"
@@ -27,10 +27,10 @@ function user(){
 }
 user()
 echo $name
-# jamal
-# kamal
+### jamal
+### kamal
 ```
-## global
+###### global
 
 ```php
 $name = "kamal"
@@ -59,7 +59,7 @@ echo $name
 # jamal
 ```
 
-# static
+### static
 
 ~ `static variable` only call once
 
@@ -94,7 +94,7 @@ amount()
 
 ```
 
-## variables variable
+###### variables variable
 
 ```php
 $name = "kamal";
@@ -104,7 +104,7 @@ echo $$who;
 # who => name => kamal
 ```
 
-## constant
+###### constant
 
 * outside of class
 

@@ -5,7 +5,7 @@ title: loop
 toc_max: 4
 ---
 
-# while
+### while
 
 ```php
 $a = 1;
@@ -16,7 +16,7 @@ while ($a <= 10) {
 # 1,2,3,4,5,6,7,8,9
 ```
 
-# do while
+### do while
 
 * execute one time then check condition
 
@@ -26,19 +26,19 @@ do {
   echo $i;
   $a = $a + 1;
 } while ($a < 1);
-# 0
+#  0
 ```
 
-# for
+### for
 
 ```php
 for ($a = 0 ; $a < 10 ; $a++) {
   echo "${a}";
 }
-# 0,1,2,3,4,5,6,7,8,9
+#  0,1,2,3,4,5,6,7,8,9
 ```
 
-## break
+###### break
 
 ```php
 for ($a = 0 ; $a < 10 ; $a++) {
@@ -47,10 +47,10 @@ for ($a = 0 ; $a < 10 ; $a++) {
   }
   echo "${a}";
 }
-# 0,1,2,3,4
+#  0,1,2,3,4
 ```
 
-# continue
+### continue
 
 ```php
 for ($a = 0 ; $a < 10 ; $a++) {
@@ -63,7 +63,7 @@ for ($a = 0 ; $a < 10 ; $a++) {
 ```
 
 
-# foreach
+### foreach
 
 ```php
 $users = ["kamal","jamal","sadia","maruf"];
@@ -76,7 +76,7 @@ foreach($users as $key => $user){
 # 3 = maruf
 ```
 
-# switch
+### switch
 
 * `code4mk is JS lover `
 
@@ -94,5 +94,5 @@ switch("b") {
     echo "not exist";
   }
 }
-# yo b
+#  yo b
 ```

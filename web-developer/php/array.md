@@ -4,7 +4,7 @@ keywords: php
 title: array
 toc_max: 4
 ---
-# array
+### array
 
 ```php
 $amount = [1,2,3,4];
@@ -12,7 +12,7 @@ echo "${amount[1]}";
 # two
 ```
 
-# Associative  array
+### Associative  array
 
 ```php
 $users = [
@@ -28,7 +28,7 @@ echo "${users["name"]}";
 ```
 
 
-# resources
+### resources
 
 * [array](http://php.net/manual/en/language.types.array.php)
 * [array functions](http://php.net/manual/en/function.array.php)

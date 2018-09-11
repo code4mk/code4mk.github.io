@@ -5,7 +5,7 @@ title: condition
 toc_max: 4
 ---
 
-# if
+### if
 
 ```php
 $a = 5;
@@ -15,7 +15,7 @@ if ($a === 5) {
 # 5
 ```
 
-# else
+### else
 
 ```php
 $a = 6;
@@ -27,7 +27,7 @@ if ($a === 5) {
 # 5
 ```
 
-# elseif
+### elseif
 
 ```php
 $a = 6;
@@ -41,7 +41,7 @@ if ($a === 5) {
 # 6
 ```
 
-# tenary condition
+### tenary condition
 
 ```php
 $a = 6;
@@ -50,6 +50,6 @@ echo $status;
 # false
 ```
 
-# resources
+### resources
 
 * [condition](http://www.php.net/manual/en/language.control-structures.php)

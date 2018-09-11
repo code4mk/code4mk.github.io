@@ -15,7 +15,7 @@ class Me {
 }
 $t = new Me();
 $t->info();
-### this is user info
+# this is user info
 ```
 
 ### static
@@ -30,7 +30,7 @@ class Me {
   }
 }
 Me::info();
-### this is user info
+# this is user info
 ```
 
 ➲(`laravel` ) : `static` live in `facades` folder
@@ -68,7 +68,7 @@ class A {
 }
 
 $obj= new A();
- ### constructor automaticaly return when class call
+ # constructor automaticaly return when class call
 ?>
 ```
 

@@ -5,7 +5,7 @@ title: Love PHP
 toc_max: 4
 ---
 
-# php
+### php
 
 php means `Hypertext Preprocessor` . It is a server side scripting language.
 
@@ -15,7 +15,7 @@ php means `Hypertext Preprocessor` . It is a server side scripting language.
 echo "welcome to php world"
 ?>
 ```
-# comments
+### comments
 
 * single line
 
@@ -30,7 +30,7 @@ echo "welcome to php world"
  multi line comments */
 ```
 
-# variable
+### variable
 
 * start with `$` sign
 
@@ -42,7 +42,7 @@ echo "${name}"
 // kamal
 ```
 
-# concat
+### concat
 
 ```php
 echo "welcome to" . " " . " code4mk.org";
