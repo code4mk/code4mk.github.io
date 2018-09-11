@@ -5,6 +5,8 @@ title: resources
 toc_max: 4
 ---
 
+# others
+
 * [php official ref](http://us1.php.net/manual/en/langref.php)
 * [awesome php](https://github.com/ziadoz/awesome-php)
 * [learn php > lists > github](https://github.com/odan/learn-php)

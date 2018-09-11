@@ -18,6 +18,8 @@ $t->info();
 # this is user info
 ```
 
+* [class php.net](http://sg2.php.net/manual/en/oop5.intro.php)
+
 ### properties
 
 * `variables` are called `properties` which `live` in `class`
