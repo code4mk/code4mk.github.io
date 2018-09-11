@@ -46,6 +46,8 @@ Me::info();
 
 `interface me{} → implements me `
 
+➲ (laravel )➲ intreface live in ` contract` 
+
 # trait
 
 trait is a process that re use methods . if you are Vue developer or SASS(css), you know about `mixins` . `trait` as like `mixins`
