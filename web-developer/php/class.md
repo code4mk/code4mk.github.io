@@ -18,6 +18,10 @@ $t->info();
 # this is user info
 ```
 
+### properties
+
+* `variables` are called `properties` which `live` in `class`
+
 ### static
 
 * `no need to declare of class objects (new)`
