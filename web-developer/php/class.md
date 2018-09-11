@@ -53,7 +53,7 @@ Me::info();
 
 ### trait
 
-trait is a process that re use methods . if you are Vue developer or SASS(css), you know about `mixins` . `trait` as like `mixins`
+trait is a process that reuse methods . if you are Vue developer or SASS(css), you know about `mixins` . `trait` as like `mixins`
 
 `trait me{} → use me `
 
