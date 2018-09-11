@@ -5,7 +5,7 @@ title: Class
 toc_max: 4
 ---
 
-# class
+### class
 
 ```php
 class Me {
@@ -15,10 +15,10 @@ class Me {
 }
 $t = new Me();
 $t->info();
-# this is user info
+### this is user info
 ```
 
-# static
+### static
 
 * `no need to declare of class objects (new)`
 * `scope :: operator`
@@ -30,10 +30,10 @@ class Me {
   }
 }
 Me::info();
-# this is user info
+### this is user info
 ```
 
-# abstract class
+### abstract class
 
 `abstract class me{} → extends me `
 
@@ -42,19 +42,19 @@ Me::info();
 * [javatpoint](https://www.javatpoint.com/abstract-class-in-java)
 * [developer](https://www.developer.com/lang/php/article.php/3604111/PHP-5-OOP-Interfaces-Abstract-Classes-and-the-Adapter-Pattern.htm)
 
-# interface
+### interface
 
 `interface me{} → implements me `
 
-➲ (laravel )➲ intreface live in ` contract` 
+➲ (laravel )➲ intreface live in ` contract`
 
-# trait
+### trait
 
 trait is a process that re use methods . if you are Vue developer or SASS(css), you know about `mixins` . `trait` as like `mixins`
 
 `trait me{} → use me `
 
-# constructor
+### constructor
 
 ```php
 class A {
@@ -65,7 +65,7 @@ class A {
 }
 
 $obj= new A();
- # constructor automaticaly return when class call
+ ### constructor automaticaly return when class call
 ?>
 ```
 
