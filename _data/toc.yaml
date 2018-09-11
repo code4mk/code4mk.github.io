@@ -504,6 +504,8 @@ php:
     title: include
   - path: /web-developer/php/namespace/
     title: namespace
+  - path: /web-developer/php/resources/
+    title: resources
 
 extra:
 - sectiontitle: extra

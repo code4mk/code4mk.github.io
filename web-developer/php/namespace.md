@@ -39,7 +39,7 @@ class profile {
 ```php
 <?php
 use User\Info;
-user User\Info as client;
+use User\Info as client;
 class Test{
 
 }
