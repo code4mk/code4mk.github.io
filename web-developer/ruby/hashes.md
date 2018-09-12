@@ -18,3 +18,17 @@ users = {
 puts users["status"]
 # dev
 ```
+
+
+```py
+users = {
+  "name" => "mostafa",
+  "age" => 21,
+  "status" => {
+    'now' => 'dev',
+    'prev' => 'coder'
+  }
+}
+puts "#{users["status"]["prev"]}"
+# coder
+```
