@@ -5,6 +5,30 @@ title: string
 toc_max: 4
 ---
 
+### string
+
+* single quote
+
+```php
+$name = 'kamal'
+```
+
+```php
+echo 'kamal is here \n new line'
+//  kamal is here \n new line
+```
+
+* double quote
+
+```php
+$name = "kamal"
+```
+
+```php
+echo "kamal is here \n new line"
+//  kamal is here
+//  new line
+```
 
 
 ### resources
