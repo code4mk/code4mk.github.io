@@ -42,3 +42,7 @@ toc_max: 4
 * [https://risingstars.js.org/2017/en/](https://risingstars.js.org/2017/en/)
 * [https://bestofjs.org](https://bestofjs.org)
 * [js.org](https://github.com/js-org/js.org/blob/master/cnames_active.js)
+
+## documents comments
+
+* [usejsdoc](http://usejsdoc.org/index.html)
