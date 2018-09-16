@@ -522,3 +522,9 @@ extra:
     title: webpack
   - path: /javascript-developer/extra/htaccess/
     title: htaccess
+- sectiontitle: socketio
+  section:
+  - path: /javascript-developer/extra/socket.io/
+    title: intro socket
+  - path: /javascript-developer/extra/socket.io/client-api/
+    title: client api

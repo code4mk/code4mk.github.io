@@ -1,4 +1,9 @@
-
+---
+description: journey socketio
+keywords: js, socket
+title: journey socketio
+toc_max: 4
+---
 
 
 
@@ -37,9 +42,41 @@ io.to('some room').emit('some event'):
 
 // leave to unsubscribe the socket to a given channel (server-side)
 socket.leave('some room');
+
+```
+
+# client others
+
+```js
+var socket = io.connect("https://localhost:8082", {
+                query:                          'key=nokey',
+                'reconnection limit':           10000,
+                'max reconnection attempts':    Infinity,
+                reconnection:                false,
+                upgrade:                        false,
+                rememberUpgrade:       true,
+                transports:                     ['websocket']
+            });
+socket .on('connect', function () {
+      socket.emit('name', 'vis.0');
+      socket.emit('authenticate',  function () {});
+});
 ```
 
 # sources
 
 * [devdocs](http://devdocs.io/socketio/)
 * [room socket](https://gist.github.com/mostafa6765/482d28caa02f59f6da12d13ea907e856)
+* [room socket](https://gist.github.com/crtr0/2896891)
+
+* [mongo socket 1](https://www.youtube.com/watch?v=8Y6mWhcdSUM)
+* [mongo socket 2 / last](https://www.youtube.com/watch?v=hrRue5Rt6Is)
+
+
+* [chat.io](https://github.com/OmarElGabry/chat.io/blob/master/app/socket/index.js)
+
+* [angular](https://github.com/ShankyTiwari/Realtime-Private-Chat-using-AngularJs-Nodejs-and-Mysql)
+
+* [socketio redis](https://github.com/socketio/socket.io-redis)
+
+* [short journey socket medium](https://medium.com/code4mk-org/a-short-journey-of-socket-io-with-code4mk-86c9e198720e)
