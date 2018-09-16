@@ -46,6 +46,10 @@ socket.on('connect', () => {
 });
 ```
 
+### emit cheetsheat
+
+![emit](https://cdn-images-1.medium.com/max/2000/1*1hAQzCAuZzhkBPtMpsN5KA.png)
+
 ### emit
 
 ```js
