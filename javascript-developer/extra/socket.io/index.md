@@ -5,7 +5,46 @@ title: journey socketio
 toc_max: 4
 ---
 
+### socketio Relationship
 
+![client images](https://cdn-images-1.medium.com/max/2000/1*Ju3JkhXr0Jrb_tAb0LiIhw.png)
+
+### server-side
+
+```js
+var serverIO = require('socket.io')(9000);
+
+serverIO.on('connection', (socket) => {
+  // fetch
+  socket.on('message', (response) => {
+    console.log(response.name)
+   });
+   // sent
+   socket.emit('post', {
+     title: 'data server to cilent',
+     like: 100
+   })
+  socket.on('disconnect', () => { });
+});
+```
+
+### client-side
+
+```js
+var socket = io('http://localhost:9000');
+socket.on('connect', () => {
+  socket.send('hi');
+  //  sent
+  socket.emit('message',{
+    id: 1,
+    name: 'socket.io'
+  })
+  // fetch
+  socket.on('post', (response) => {
+    console.log(response.title)
+  });
+});
+```
 
 ### emit
 
@@ -45,7 +84,7 @@ socket.leave('some room');
 
 ```
 
-# client others
+### client others
 
 ```js
 var socket = io.connect("https://localhost:8082", {
@@ -63,7 +102,7 @@ socket .on('connect', function () {
 });
 ```
 
-# sources
+### sources
 
 * [devdocs](http://devdocs.io/socketio/)
 * [room socket](https://gist.github.com/mostafa6765/482d28caa02f59f6da12d13ea907e856)
