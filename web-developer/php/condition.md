@@ -22,7 +22,7 @@ $a = 6;
 if ($a === 5) {
   echo "${a}";
 } else {
-  echo "not 5"
+  echo "not 5";
 }
 # 5
 ```
@@ -34,9 +34,9 @@ $a = 6;
 if ($a === 5) {
   echo "${a}";
 } elseif ($a == 6) {
-  echo "${a}"
+  echo "${a}";
 } else {
-  echo "not exist"
+  echo "not exist";
 }
 # 6
 ```

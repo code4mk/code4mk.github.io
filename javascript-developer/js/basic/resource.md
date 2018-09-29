@@ -24,6 +24,7 @@ toc_max: 4
 * [microsoft](https://docs.microsoft.com/en-us/scripting/javascript/javascript-language-reference)
 * [digitalocean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 * [wikibook](https://en.wikibooks.org/wiki/JavaScript)
+* [mjavascript](https://github.com/mjavascript/mastering-modular-javascript)
 
 ### cheatsheet
 

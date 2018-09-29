@@ -31,7 +31,7 @@ user("kamal","coder");
 function user($name,$status="artist") {
   echo("${name} is a ${status}");
 }
-user("kamal",);
+user("kamal");
 # kamal is a artist
 ```
 

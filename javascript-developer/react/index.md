@@ -72,6 +72,8 @@ var users = {
 * [https://frontendmasters.com/courses/react-intro/](https://frontendmasters.com/courses/react-intro/)
 * [https://frontendmasters.com/books/front-end-handbook/2017/learning/react-redux.html](https://frontendmasters.com/books/front-end-handbook/2017/learning/react-redux.html)
 
+* [https://reactpatterns.com/](https://reactpatterns.com/)
+
 ## path active  
 
 [https://www.youtube.com/watch?v=XVdwq8W2ZsM&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=8](https://www.youtube.com/watch?v=XVdwq8W2ZsM&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=8)

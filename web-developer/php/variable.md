@@ -10,9 +10,9 @@ toc_max: 4
 * start with `$` sign
 
 ```php
-$name = "kamal"
-echo $name
-echo "${name}"
+$name = "kamal";
+echo $name;
+echo "${name}";
 // kamal
 // kamal
 ```
@@ -20,27 +20,27 @@ echo "${name}"
 ###### scope variable
 
 ```php
-$name = "kamal"
+$name = "kamal";
 function user(){
-  $name = "jamal"
-  echo $name
+  $name = "jamal";
+  echo $name;
 }
-user()
-echo $name
+user();
+echo $name;
 ### jamal
 ### kamal
 ```
 ###### global
 
 ```php
-$name = "kamal"
+$name = "kamal";
 function user(){
-  global $name
-  $name = "jamal"
-  echo $name
+  global $name;
+  $name = "jamal";
+  echo $name;
 }
-users()
-echo $name
+users();
+echo $name;
 # jamal
 # jamal
 ```
@@ -48,13 +48,13 @@ echo $name
 * `global` alternative `$GLOBAL[]`
 
 ```php
-$name = "kamal"
+$name = "kamal";
 function user(){
-  $GLOBALS['name'] = "jamal"
-  echo $name
+  $GLOBALS['name'] = "jamal";
+  echo $name;
 }
-users()
-echo $name
+users();
+echo $name;
 # jamal
 # jamal
 ```
@@ -67,12 +67,12 @@ echo $name
 
 ```php
 function amount(){
-  $loan = 1000
-  echo "$loan\n"
-  $loan = $loan + 200
+  $loan = 1000;
+  echo "$loan\n";
+  $loan = $loan + 200;
 }
-amount()
-amount()
+amount();
+amount();
 // 1000
 // 1000
 
@@ -83,12 +83,12 @@ amount()
 
 ```php
 function amount(){
-  static $loan = 1000
-  echo "$loan\n"
-  $loan = $loan + 200
+  static $loan = 1000;
+  echo "$loan\n";
+  $loan = $loan + 200;
 }
-amount()
-amount()
+amount();
+amount();
 // 1000
 // 1200
 
@@ -117,7 +117,7 @@ echo VERSION;
 * inside class
 
 ```php
-const VERSION = "1.0.0"
+const VERSION = "1.0.0";
 echo VERSION;
 # 1.0.0
 ```

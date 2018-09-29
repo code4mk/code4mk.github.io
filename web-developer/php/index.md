@@ -12,7 +12,7 @@ php means `Hypertext Preprocessor` . It is a server side scripting language.
 
 ```php
 <?php
-echo "welcome to php world"
+echo "welcome to php world";
 ?>
 ```
 ### comments
@@ -21,7 +21,7 @@ echo "welcome to php world"
 
 ```php
 // this is single line comment
-# signle line comment 
+# signle line comment
 ```
 
 * multi line comments
@@ -36,9 +36,9 @@ echo "welcome to php world"
 * start with `$` sign
 
 ```php
-$name = "kamal"
-echo $name
-echo "${name}"
+$name = "kamal";
+echo $name;
+echo "${name}";
 // kamal
 // kamal
 ```

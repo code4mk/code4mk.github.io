@@ -14,7 +14,7 @@ $name = 'kamal'
 ```
 
 ```php
-echo 'kamal is here \n new line'
+echo 'kamal is here \n new line';
 //  kamal is here \n new line
 ```
 
@@ -25,7 +25,7 @@ $name = "kamal"
 ```
 
 ```php
-echo "kamal is here \n new line"
+echo "kamal is here \n new line";
 //  kamal is here
 //  new line
 ```
