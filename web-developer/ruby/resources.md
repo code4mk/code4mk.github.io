@@ -3,6 +3,7 @@
 * [ruby-doc.org](https://ruby-doc.org)
 * [ruby lang](www.ruby-lang.org)
 * [github repo](https://github.com/ruby/ruby)
+* [ruby for beginner](http://ruby-for-beginners.rubymonstas.org/index.html)
 * [wikibook](https://en.wikibooks.org/wiki/Ruby_Programming)
 * [ruby wikipedia](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 * [launchschool](https://launchschool.com/books/oo_ruby/read/introduction)
