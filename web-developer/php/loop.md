@@ -75,24 +75,3 @@ foreach($users as $key => $user){
 # 2 = sadia
 # 3 = maruf
 ```
-
-### switch
-
-* `code4mk is JS lover `
-
-```php
-switch("b") {
-  case "a": {
-    echo "yo a";
-    break;
-  }
-  case "b": {
-    echo "yo b";
-    break;
-  }
-  default: {
-    echo "not exist";
-  }
-}
-#  yo b
-```
