@@ -24,15 +24,15 @@
 			display: block;
 		}
 	</style>
-	{% if page.url contains "datacenter" %}<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=k6svi4faiclrdpi5eax4n23dzy"></script>{% endif %}
+	<!-- {% if page.url contains "datacenter" %}<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=k6svi4faiclrdpi5eax4n23dzy"></script>{% endif %}
 	<script type="text/javascript">
 	  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";
 	  analytics.load("IWj9D0UpZHZdZUZX9jl98PcpBFWBnBMy");
 	  analytics.page();
 	  }}();
-	</script>
-	{% if site.GH_ENV == "gh_pages" %}
-	<meta name="robots" content="noindex">{% endif %}
+	</script> -->
+	<!-- {% if site.GH_ENV == "gh_pages" %}
+	<meta name="robots" content="noindex">{% endif %} -->
 	<!-- favicon -->
 	<link rel="icon" type="image/x-icon" href="/favicons/docs@2x.ico" sizes="129x128">
 	<meta name="msapplication-TileImage" content="/favicons/docs@2x.ico">
@@ -65,7 +65,7 @@
 	<!-- temp css will be removed -->
 	<link rel="stylesheet" href="/css/temp.css">
 	{% seo %}
-	{% if page.hide_from_sitemap %}<meta name="robots" content="noindex" />{% endif %}
+	<!-- {% if page.hide_from_sitemap %}<meta name="robots" content="noindex" />{% endif %} -->
 	<script language="javascript">
 	// Default to assuming this is an archive and hiding some stuff
 	// See js/archive.js and js/docs.js for logic relating to this
