@@ -83,4 +83,25 @@ set represent by `[]`
 
 `[0-9] and [\d] same`
 
+# bd phn valid
+
+```js
+const regex = /(\+){0,1}(88){0,1}01(3|7|8|6|9|5)(\d){8}/;
+var result = regex.exec('+8801751255157');
+console.log(result)
+
+/* output
+
+[
+  '+8801751255157',
+  '+',
+  '88',
+  '7',
+  '7',
+  index: 0,
+  input: '+8801751255157'
+]
+/*
+```
+
 * [demo](https://regexr.com/3nt82)
