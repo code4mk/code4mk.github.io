@@ -198,7 +198,7 @@ vue:
   section:
   - path: /javascript-developer/vue/
     title: What is vue
-  - path: /javascript-developer/react/directives/
+  - path: /javascript-developer/vue/directives/
     title: directives
 
 react:
