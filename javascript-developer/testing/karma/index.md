@@ -151,3 +151,8 @@ http://localhost:9876/
 
 * [Karma site ](https://karma-runner.github.io)
 * [karma github](https://github.com/karma-runner/karma)
+
+## resource assertions
+
+* [expect.js](https://github.com/Automattic/expect.js/)
+* [js-must](https://github.com/moll/js-must)

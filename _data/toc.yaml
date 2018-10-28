@@ -2,6 +2,9 @@ horizontalnav:
 - title: Home
   path: /
   node:
+- title: Vue
+  path: /vue
+  node: vue
 - title: React
   path: /react
   node: react
@@ -189,6 +192,14 @@ es6:
   - path: /javascript-developer/es/resource/
     title: resources
 
+
+vue:
+- sectiontitle: Basic React
+  section:
+  - path: /javascript-developer/vue/
+    title: What is vue
+  - path: /javascript-developer/react/directives/
+    title: directives
 
 react:
 - sectiontitle: Basic React
