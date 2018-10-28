@@ -200,6 +200,8 @@ vue:
     title: What is vue
   - path: /javascript-developer/vue/directives/
     title: directives
+  - path: /javascript-developer/vue/component/
+    title: component
 
 react:
 - sectiontitle: Basic React
