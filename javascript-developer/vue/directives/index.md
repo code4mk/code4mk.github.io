@@ -11,8 +11,8 @@ toc_max: 4
 
 * `{{  }}` blade
 
-```html
-<h1> {{ username }}
+```vue
+<h1> {{ username }} </h1>
 ```
 
 # v-text
