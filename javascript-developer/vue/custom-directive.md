@@ -1,3 +1,9 @@
+---
+description: custom directive
+keywords: vue,vusjs
+title: custom directive
+toc_max: 4
+---
 
 * https://www.youtube.com/watch?v=3-fLYMEKOU0
 

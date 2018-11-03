@@ -1,4 +1,9 @@
-
+---
+description: components
+keywords: vue,vusjs
+title: components
+toc_max: 4
+---
 
 # components main 3 parts
 
@@ -51,7 +56,7 @@ export default {
 ```vue
 /* parent component */
 <template lang="html">
-  <child-one propsData="posts"/>
+  <child-one :propsData="posts"/>
 </template>
 
 <script>
@@ -199,7 +204,7 @@ export default {
     <h1> parents </h1>
     <child>
       <h3 slot="before"> this is before slot </h3>
-      <h3 slot="before"> this is after slot </h3>
+      <h3 slot="after"> this is after slot </h3>
     </child>
   </div>
 </template>
@@ -249,3 +254,29 @@ export default {
     }
 </script>
 ```
+
+## components register
+
+* `kabab-case-component`
+* `PascalCaseComponent`
+
+~ global
+
+```js
+Vue.component('component-name',{
+  // code
+})
+```
+
+~ local
+
+* `components is  object`
+
+```js
+components: {
+  'kabab-case-component': ImportedComponent
+}
+```
+
+* [officil](https://vuejs.org/v2/guide/components-registration.html)
+* [style guide](https://vuejs.org/v2/style-guide/#Component-files-strongly-recommended)

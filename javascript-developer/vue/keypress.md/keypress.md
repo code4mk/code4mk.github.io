@@ -1,3 +1,9 @@
+---
+description: keypress
+keywords: vue,vusjs
+title: keypress
+toc_max: 4
+---
 
 * https://forum.vuejs.org/t/capture-keypress-for-all-keys/14560/2
 
