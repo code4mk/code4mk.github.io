@@ -200,8 +200,32 @@ vue:
     title: What is vue
   - path: /javascript-developer/vue/directives/
     title: directives
+  - path: /javascript-developer/vue/directives/custom-directive/
+    title: custom directive
   - path: /javascript-developer/vue/component/
     title: component
+  - path: /javascript-developer/vue/data/
+    title: data
+  - path: /javascript-developer/vue/slot/
+    title: slot
+  - path: /javascript-developer/vue/props-data/
+    title: props
+  - path: /javascript-developer/vue/mixins/
+    title: mixins
+  - path: /javascript-developer/vue/ref/
+    title: ref
+  - path: /javascript-developer/vue/filters/
+    title: filters
+  - path: /javascript-developer/vue/instance/
+    title: vue instance
+  - path: /javascript-developer/vue/computed-vs-watch/
+    title: computed vs watch
+  - path: /javascript-developer/vue/life-cycle/
+    title: life cycle
+  - path: /javascript-developer/vue/plugin/
+    title: plugin
+  - path: /javascript-developer/vue/resources/
+    title: resources
 
 react:
 - sectiontitle: Basic React

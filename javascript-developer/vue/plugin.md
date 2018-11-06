@@ -10,9 +10,9 @@ toc_max: 4
 * `Vue.use(name)`
 
 ```js
-Vue.use(pluginName) {
+Vue.use(pluginName, {
   someOption: true
-}
+})
 ```
 
 ## create plugin

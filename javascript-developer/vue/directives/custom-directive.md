@@ -5,14 +5,6 @@ title: custom directive
 toc_max: 4
 ---
 
-* https://www.youtube.com/watch?v=3-fLYMEKOU0
-
-* https://vuejs.org/v2/guide/custom-directive.html
-
-* https://css-tricks.com/power-custom-directives-vue/
-
-* https://alligator.io/vuejs/custom-directives/
-
 ## global directive
 
 ```js
@@ -56,3 +48,13 @@ directives: {
 * `componentUpdated` - `This hook is called once the component and the children have been updated.`
 
 * `unbind` - `This hook is called once the directive is removed.`
+
+## resources
+
+* [https://www.youtube.com/watch?v=3-fLYMEKOU0](https://www.youtube.com/watch?v=3-fLYMEKOU0)
+
+* [https://vuejs.org/v2/guide/custom-directive.html](https://vuejs.org/v2/guide/custom-directive.html)
+
+* [https://css-tricks.com/power-custom-directives-vue/](https://css-tricks.com/power-custom-directives-vue/)
+
+* [alligator](https://alligator.io/vuejs/custom-directives/)

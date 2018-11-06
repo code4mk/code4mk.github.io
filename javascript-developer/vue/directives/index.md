@@ -115,3 +115,7 @@ toc_max: 4
 * `v-on:--="--"`
 * shaort hand `@`
 * `@.--="--"` = `v-on:--="--"`
+
+## resources
+
+* [api](https://vuejs.org/v2/api/#Directives)

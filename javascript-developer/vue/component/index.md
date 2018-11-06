@@ -284,5 +284,6 @@ components: {
 
 ## resource
 
-* [officil](https://vuejs.org/v2/guide/components-registration.html)
+* [official](https://vuejs.org/v2/guide/components-registration.html)
+* [api](https://vuejs.org/v2/api/#Vue-component)
 * [style guide](https://vuejs.org/v2/style-guide/#Component-files-strongly-recommended)
