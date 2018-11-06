@@ -278,5 +278,11 @@ components: {
 }
 ```
 
+## keep-alive
+
+* [keep alive video](https://www.youtube.com/watch?v=28lQKD6DNfg)
+
+## resource
+
 * [officil](https://vuejs.org/v2/guide/components-registration.html)
 * [style guide](https://vuejs.org/v2/style-guide/#Component-files-strongly-recommended)
