@@ -44,6 +44,10 @@ toc_max: 4
 * [https://bestofjs.org](https://bestofjs.org)
 * [js.org](https://github.com/js-org/js.org/blob/master/cnames_active.js)
 
+## rich editor
+
+* [rich text editor](https://github.com/topics/rich-text-editor)
+
 ## documents comments
 
 * [usejsdoc](http://usejsdoc.org/index.html)
