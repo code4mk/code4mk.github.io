@@ -30,6 +30,13 @@
 
 # `auth:routes()`
 
+* https://github.com/laravel/framework/blob/5.6/src/Illuminate/Support/Facades/Auth.php#L49
+
+## `Auth::routes()`
+
+* [facades](https://github.com/laravel/framework/blob/5.6/src/Illuminate/Support/Facades/Auth.php#L49)
+
+
 * [auth:routes()](https://github.com/laravel/framework/blob/5.7/src/Illuminate/Routing/Router.php#L1147)
 
 # doc
