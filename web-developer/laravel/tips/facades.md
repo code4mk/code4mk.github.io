@@ -7,3 +7,5 @@
 
 
 getFacadeAccessor {return 'name'} [[facades]] <== bind('name',function(){}) [[serviceprovider]]
+
+  * [real time facades laracast video](https://laracasts.com/series/whats-new-in-laravel-5-4/episodes/8)
