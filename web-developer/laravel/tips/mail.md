@@ -44,3 +44,13 @@
   ```
    * configure viewConfig
     * set path `realpath(base_path('parrot'))`
+
+
+## real server
+
+* mailchip
+* mailgun
+* sparkpost
+* mailjet
+* amazon ses
+* sendgrid

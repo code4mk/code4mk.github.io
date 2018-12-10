@@ -20,6 +20,7 @@ toc_max: 4
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15)
 * [github python trending](https://github.com/trending/python)
 * [pythonspot](https://pythonspot.com/)
+* [regex](https://repl.it/@lochiwei/Python-Regular-Expression)
 
 # editor
 

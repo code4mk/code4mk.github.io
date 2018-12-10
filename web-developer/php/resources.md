@@ -16,6 +16,8 @@ toc_max: 4
 * [php-cheatsheet](https://websitesetup.org/php-cheat-sheet/)
 * [sabe](https://sabe.io/classes/php)
 
+* [php-fig](https://www.php-fig.org/psr/)
+
 # docblocker
 
 * [php doc block cheatsheet](http://phpdoc2cheatsheet.com/)

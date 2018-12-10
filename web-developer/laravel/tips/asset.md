@@ -11,6 +11,8 @@
 * https://github.com/LaravelCollective/html/blob/5.7/src/HtmlBuilder.php
 * https://laracasts.com/discuss/channels/laravel/return-asset-from-route
 
+* https://stackoverflow.com/questions/41799638/display-image-from-laravel-controller?rq=1
+
 ## package helpers
 
 * https://github.com/rappasoft/laravel-helpers
