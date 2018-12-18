@@ -35,6 +35,8 @@ class ScheduleServiceProvider extends ServiceProvider
 }
 ```
 
+* https://github.com/code-orange/statuspage/blob/master/src/Statuspage.php
+
 * https://stackoverflow.com/questions/35834681/laravel-5-package-scheduled-tasks
 
 * https://github.com/codestudiohq/laravel-totem
