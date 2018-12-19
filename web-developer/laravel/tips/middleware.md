@@ -10,3 +10,6 @@ $this->app['router']->pushMiddlewareToGroup('web', Vendor\Some\Middleware::class
 * https://laracasts.com/discuss/channels/laravel/dynamic-middleware-groups
 
 * https://github.com/laravel/framework/issues/8917
+
+
+* https://github.com/laravel/framework/blob/5.7/src/Illuminate/Routing/Router.php#L898
