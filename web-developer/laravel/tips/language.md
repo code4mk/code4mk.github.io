@@ -28,6 +28,12 @@ Route::get('/lang/{locale?}',function($locale = 'en'){
 * https://jsfiddle.net/alexriz/AEnyZ/
 * https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/#api-overview__languages
 
+# vue
+
+* https://github.com/Polyconseil/vue-gettext
+
+* https://stackoverflow.com/questions/45935089/vue-i18n-how-to-use-inside-vue-instance-filter `solve`
+
 # core
 
 * https://github.com/illuminate/translation
