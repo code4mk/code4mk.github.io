@@ -17,3 +17,8 @@ const result = initialState.filter((o) =>
 
 console.log(result);
 ```
+
+
+# wait  keydown/keyup as like debounce
+
+* https://schier.co/blog/2014/12/08/wait-for-user-to-stop-typing-using-javascript.html

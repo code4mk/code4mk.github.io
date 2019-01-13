@@ -121,3 +121,5 @@ const VERSION = "1.0.0";
 echo VERSION;
 # 1.0.0
 ```
+
+* http://php.net/manual/en/function.isset.php
