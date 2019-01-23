@@ -11,6 +11,13 @@ Application Programming  Interface
 
 ## curl
 
+## error
+
+* [error code laravel](https://stackoverflow.com/questions/51065170/laravel-api-how-to-properly-handle-errors)
+
+* https://www.youtube.com/watch?v=_mdZxG6ExbE
+* https://www.youtube.com/watch?v=-Gv5jZ7rD54
+
 
 ## Rest
 

@@ -13,6 +13,8 @@
 # ajax validation
 
 * https://laracasts.com/discuss/channels/laravel/how-to-send-validation-errors-as-json-to-view
+* https://www.youtube.com/watch?v=o-HYSAXKQNk
+* https://www.youtube.com/watch?v=cEOUoa2DAfQ
 
 ```php
 $validator = \Validator::make($request->all(), [

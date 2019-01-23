@@ -83,7 +83,7 @@ document.location.search
 
 * [https://developer.mozilla.org/en-US/docs/Web/API/Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
 * [https://developer.mozilla.org/en-US/docs/Web/API/URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
-
+* [https://gist.github.com/sindresorhus/7489686](https://gist.github.com/sindresorhus/7489686)
 ## package
 
 * [websanova](https://github.com/websanova/js-url)

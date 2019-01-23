@@ -37,3 +37,17 @@ this.$router.replace({ query });
 # router history
 
 * https://github.com/vuejs/vue-router/issues/883
+
+# router link
+
+* https://github.com/sanity-io/example-ecommerce-snipcart-vue/blob/master/pages/product/_product.vue#L12
+
+# source search router push
+
+* https://github.com/algolia/vue-instantsearch-examples/blob/master/examples/vue-router/src/Search.vue#L59
+
+
+# router meta field
+
+* https://vueschool.io/lessons/global-navigation-guards-and-meta-fields
+* https://github.com/juanwmedia/vue-firebase/blob/master/56-vue-router-meta-field/src/main.js

@@ -18,3 +18,7 @@
 # ecommerce  video
 
 * https://www.youtube.com/watch?v=H4ThmxWZCN4&list=PL1AXcfXimFRGUgufKD3-4kRf_dcTs5T_h&t=0s&index=10
+
+# github person
+
+* https://github.com/drehimself
