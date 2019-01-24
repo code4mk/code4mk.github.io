@@ -13,6 +13,8 @@ toc_max: 4
 Vue.mixin({
   // code
 })
+// or
+Vue.mixin(mixinName);
 ```
 ~ local
 

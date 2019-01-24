@@ -9,6 +9,10 @@ toc_max: 4
 
 * data <= parent
 
+# access props
+
+* https://forum.vuejs.org/t/accessing-prop-value-in-created-method/26630/4
+
 
 # resource
 
