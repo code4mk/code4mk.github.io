@@ -123,3 +123,5 @@ socket .on('connect', function () {
 * [socketio redis](https://github.com/socketio/socket.io-redis)
 
 * [short journey socket medium](https://medium.com/code4mk-org/a-short-journey-of-socket-io-with-code4mk-86c9e198720e)
+
+* [how implement with](https://stackoverflow.com/questions/6398887/using-php-with-socket-io)

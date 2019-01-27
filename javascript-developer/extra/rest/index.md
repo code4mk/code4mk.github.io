@@ -42,3 +42,8 @@ Application Programming  Interface
 * [awesome](https://github.com/Kikobeats/awesome-api)
 * [public apis](https://github.com/toddmotto/public-apis)
 * [public APIs](https://github.com/abhishekbanthia/Public-APIs)
+
+## salat/namaj
+
+* https://sufism.org/salaat/salaat-times-2
+* https://www.islamicboard.com/prayer/134307830-rakats-prayer.html
