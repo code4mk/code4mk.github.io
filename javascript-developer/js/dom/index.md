@@ -122,4 +122,6 @@ when `get` `class , id or selector` that time `document is  element`.
 
 ~ [window mdn](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
+* [https://stackoverflow.com/questions/4348912/get-title-of-website-via-link](https://stackoverflow.com/questions/4348912/get-title-of-website-via-link)
+
 *  [net ninja dom](https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)

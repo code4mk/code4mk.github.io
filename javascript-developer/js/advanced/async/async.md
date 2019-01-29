@@ -32,7 +32,7 @@ console.log('three para');
 ```js
 setTimeout(() => {
   console.log('one');
-})
+},3000)
 console.log('two');
 console.log('three');
 // if gradually , output : one, two, three

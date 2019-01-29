@@ -5,6 +5,8 @@ title: event
 toc_max: 4
 ---
 
+* Events are actions or occurrences that happen in the system you are programming, which the system tells you about so you can respond to them in some way if desired
+
 ## addEventListener
 
 `target.addEventListener(type, listener[, options]);`
@@ -45,5 +47,6 @@ mainAreaTwo.addEventListener('click', (e) => {
 
 * [mdn mouseover](https://developer.mozilla.org/en-US/docs/Web/Events/mouseover)
 * [mdn event](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [mdn event description](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 * [event mdn API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 * [event target](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget)
