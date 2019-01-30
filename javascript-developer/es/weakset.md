@@ -1,4 +1,9 @@
-
+---
+description: WeakSet
+keywords: es,es6,js
+title: WeakSet
+toc_max:  4
+---
 
 ## set
 

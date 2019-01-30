@@ -8,6 +8,7 @@ toc_max:  4
 Map is collection of data as key value pairs.
 
 ~ `map methods`
+~ `A JavaScript “Set” object can store only keys but “Map” can store key and value pairs.`
 
 * size (properies)
 * clear
@@ -19,6 +20,21 @@ Map is collection of data as key value pairs.
 * has
 * keys
 * values
+
+`Map is a collection of keyed data items, just like an Object. But the main difference is that Map allows keys of any type.`
+
+
+The main methods are:
+
+```js
+  new Map() – creates the map.
+  map.set(key, value) – stores the value by the key.
+  map.get(key) – returns the value by the key, undefined if key doesn’t exist in map.
+  map.has(key) – returns true if the key exists, false otherwise.
+  map.delete(key) – removes the value by the key.
+  map.clear() – clears the map
+  map.size – returns the current element count.
+```
 
 ## set
 
@@ -154,3 +170,4 @@ console.log(users.get('phone').office);
 # soureces
 
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+* [http://qnimate.com/javascript-map-object/](http://qnimate.com/javascript-map-object/)

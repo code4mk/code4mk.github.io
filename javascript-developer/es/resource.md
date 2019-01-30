@@ -17,6 +17,7 @@ toc_max:  4
 * [https://github.com/addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) `awesome`
 * [http://babeljs.io/learn-es2015/#introduction](http://babeljs.io/learn-es2015/#introduction) `es2015`
 * [https://devhints.io/es6](https://devhints.io/es6)
+* [https://javascript.info/map-set-weakmap-weakset](https://javascript.info/map-set-weakmap-weakset)
 
 * [albertomontalesi](https://albertomontalesi.github.io/courses/es6)
 
@@ -27,6 +28,11 @@ toc_max:  4
 # ES official repo:
 
 * [https://github.com/tc39/ecma262](https://github.com/tc39/ecma262)
+
+# difference
+
+* [https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373](https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373)
+* [array-vs-set-vs-map-vs-object](https://codeburst.io/array-vs-set-vs-map-vs-object-real-time-use-cases-in-javascript-es6-47ee3295329b)
 
 # test / compile
 * [https://repl.it/languages/babel](https://repl.it/languages/babel)
