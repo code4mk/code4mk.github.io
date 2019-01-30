@@ -175,8 +175,12 @@ es6:
     title: destructuring
   - path: /javascript-developer/es/map-set-get/
     title: map
+  - path: /javascript-developer/es/weakmap/
+    title: weakmap
   - path: /javascript-developer/es/set/
     title: set
+  - path: /javascript-developer/es/weakset/
+    title: weakset
   - path: /javascript-developer/es/class/
     title: class
   - path: /javascript-developer/es/getter-setter/
