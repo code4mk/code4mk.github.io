@@ -96,6 +96,10 @@ values()
 
 * [https://developer.mozilla.org/fr/docs/Web/API/URLSearchParams](https://developer.mozilla.org/en/docs/Web/API/URLSearchParams)
 
+## location action
+
+* [redirect](https://appendto.com/2016/04/javascript-redirect-how-to-redirect-a-web-page-with-javascript/)
+
 ## resource
 
 * [https://developer.mozilla.org/en-US/docs/Web/API/Location](https://developer.mozilla.org/en-US/docs/Web/API/Location)
