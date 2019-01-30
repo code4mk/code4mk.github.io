@@ -8,7 +8,7 @@ toc_max:  4
 Map is collection of data as key value pairs.
 
 ~ `map methods`
-~ `A JavaScript “Set” object can store only keys but “Map” can store key and value pairs.`
+~ A JavaScript “Set” object can store only keys but “Map” can store key and value pairs.
 
 * size (properies)
 * clear
