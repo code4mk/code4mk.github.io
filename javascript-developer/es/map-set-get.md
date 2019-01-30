@@ -171,3 +171,4 @@ console.log(users.get('phone').office);
 
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 * [http://qnimate.com/javascript-map-object/](http://qnimate.com/javascript-map-object/)
+* [https://javascript.info/map-set-weakmap-weakset](https://javascript.info/map-set-weakmap-weakset)
