@@ -19,7 +19,7 @@ console.log(set.size);
 // 1
 ```
 
-## waekset
+## weakset
 
 * don't store reference
 * no garbage
