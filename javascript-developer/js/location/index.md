@@ -77,7 +77,24 @@ document.location.search
 
 #### URLSearchParams
 
-* [https://developer.mozilla.org/fr/docs/Web/API/URLSearchParams](https://developer.mozilla.org/fr/docs/Web/API/URLSearchParams)
+* method lists
+
+```js
+append()
+delete()
+entries()
+forEach()
+get()
+getAll()
+has()
+keys()
+set()
+sort()
+toString()
+values()
+```
+
+* [https://developer.mozilla.org/fr/docs/Web/API/URLSearchParams](https://developer.mozilla.org/en/docs/Web/API/URLSearchParams)
 
 ## resource
 
