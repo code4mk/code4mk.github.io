@@ -65,3 +65,4 @@ echo $klass->employee();
 ```
 
 * [php.net function argument](http://us1.php.net/manual/en/functions.arguments.php)
+* [function all types as filesystem](http://php.net/manual/en/funcref.php)
