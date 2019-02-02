@@ -20,6 +20,8 @@ $t->info();
 
 ### extends
 
+* [inheritends](http://sg2.php.net/manual/en/language.oop5.inheritance.php)
+
 ```php
 class User{
   public function me(){
@@ -90,7 +92,32 @@ Me::info();
 
 ### abstract class
 
-`abstract class me{} → extends me `
+`abstract class Me{} → extends Me `
+
+
+* Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+* `must be have one abstract method`
+
+```php
+abstract class User{
+  abstract public function name();
+  public function normal(){
+    echo "this is normal function";
+  }
+}
+
+class Employee extends User{
+  public function name(){
+    echo "abstract methods body\n";
+  }
+}
+$t = new Employee();
+
+$t->name();
+$t->normal();
+// abstract methods body
+// this is normal function  
+```
 
 ~ resources
 
@@ -101,7 +128,35 @@ Me::info();
 
 `interface me{} → implements me `
 
+➲ `visibility` must be `public`
+➲ blueprint of class's functions
 ➲(`laravel` ) : `intreface` live in `contract` folder
+
+```php
+interface me{
+  public function name();
+}
+
+class User implements me{
+  public function name(){
+    echo "this is user\n";
+  }
+}
+
+
+class Employee implements me{
+  public function name(){
+    echo "this is employee\n";
+  }
+}
+
+$r = new Employee();
+$t = new User();
+$t->name();
+$r->name();
+// this is user
+// this is employee
+```
 
 ### trait
 
