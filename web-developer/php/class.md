@@ -164,6 +164,22 @@ trait is a process that reuse methods . if you are Vue developer or SASS(css), y
 
 `trait me{} → use me `
 
+```php
+trait me{
+  public function name(){
+    echo "this is trait";
+  }
+}
+
+class User{
+  use me;
+}
+
+$t = new User();
+$t->name();
+// this is trait 
+```
+
 ### constructor
 
 ```php
