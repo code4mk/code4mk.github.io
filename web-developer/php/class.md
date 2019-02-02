@@ -129,7 +129,9 @@ $t->normal();
 `interface me{} → implements me `
 
 ➲ `visibility` must be `public`
+
 ➲ blueprint of class's functions
+
 ➲(`laravel` ) : `intreface` live in `contract` folder
 
 ```php
@@ -177,7 +179,7 @@ class User{
 
 $t = new User();
 $t->name();
-// this is trait 
+// this is trait
 ```
 
 ### constructor
