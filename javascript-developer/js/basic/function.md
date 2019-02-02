@@ -55,6 +55,19 @@ console.log(result);
 // 5
 ```
 
+# call inside another function
+
+```js
+function user(){
+  console.log("yes you can do this")
+}
+//let a = 5
+function employee(){
+  user()
+}
+employee()
+```
+
 ## references
 
 * [mdn guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)

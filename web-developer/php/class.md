@@ -18,6 +18,52 @@ $t->info();
 # this is user info
 ```
 
+### extends
+
+```php
+class User{
+  public function me(){
+    echo "kamal";
+  }
+}
+
+class Emp extends User{
+
+}
+
+$j = new Emp();
+$j->me();
+// kamal
+```
+
+* call system
+
+```php
+class User{
+  public function me(){
+    echo "kamal";
+  }
+}
+
+class Emp extends User{
+  public function me(){
+    echo "parent is here";
+  }
+  public function selfMe(){
+    self::me();
+  }
+  public function parentMe(){
+    self::me();
+  }
+}
+
+$j = new Emp();
+$j->selfMe();
+// output : kamal
+$j->parentMe();
+// output: parent is here
+```
+
 * [class php.net](http://sg2.php.net/manual/en/oop5.intro.php)
 
 ### properties
@@ -81,3 +127,4 @@ $obj= new A();
 ~ resource
 
 * [phptpoint](https://www.phptpoint.com/php-constructor/)
+* [classobj](http://php.net/manual/en/book.classobj.php)

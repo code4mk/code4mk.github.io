@@ -45,4 +45,23 @@ user(5,7,6);
 # 7
 ```
 
+### call function inside another function
+
+```php
+
+class Worker{
+  public function user(){
+    return "this is user";
+  }
+  public function employee(){
+    //call coba function
+    return $this->user();
+  }
+
+}
+
+$klass = new Worker();
+echo $klass->employee();
+```
+
 * [php.net function argument](http://us1.php.net/manual/en/functions.arguments.php)
