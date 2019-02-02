@@ -75,3 +75,11 @@ this.users.forEach(function(user){
   console.log(user.name);
 })
 ```
+
+## immediately envoke
+
+```js
+(() => {
+  console.log('Ok');
+})()
+```
