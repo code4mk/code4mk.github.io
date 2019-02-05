@@ -29,10 +29,14 @@ objects = `module/block` has class,property,methods
 
 ~ `Encapsulation or information hiding`
 
+~ `Hide internal states and values inside a class`
+
 Encapsulation means hiding attributes in programming so that you can make changes in one place without having to also make changes in the other parts of an application. Otherwise, if you make information more open, you risk a change in one location leading to cascading, multiple changes elsewhere. It's better to restrict the direct access of one piece of data. If you've ever wondered, "What is encapsulation?" this online tutorial explains the issue in more depth.
 
 * hiding data of objects or functions
 * call one inside another method/function
+* https://github.com/dntoll/1dv610/blob/master/lectures/examples/l10/encapsulate.php **
+* https://laracasts.com/series/laravel-from-scratch-2018/episodes/19
 * https://www.youtube.com/watch?v=auakmknQ_hA
 * https://www.brainbell.com/tutorials/php/encapsulation-polymorphism-inheritance.html
 * http://www.easysolutionweb.com/php-tutorials-programming-concepts/concept-encapsulation-php
