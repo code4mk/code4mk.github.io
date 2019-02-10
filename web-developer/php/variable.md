@@ -114,6 +114,17 @@ echo VERSION;
 # 1.0.0
 ```
 
+```php
+define('ANIMALS', [
+    'dog',
+    'cat',
+    'bird'
+]);
+
+echo ANIMALS[1]
+// dog
+```
+
 * inside class
 
 ```php
@@ -121,5 +132,20 @@ const VERSION = "1.0.0";
 echo VERSION;
 # 1.0.0
 ```
+
+##### default variable
+
+* [source php](http://php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op)
+
+```php
+$name;
+$user = $name ?? 'jamal';
+echo $user;
+# jamal
+```
+
+~ pass reference with variable `&$var2`
+
+
 
 * http://php.net/manual/en/function.isset.php

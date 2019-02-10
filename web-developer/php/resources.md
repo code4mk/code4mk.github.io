@@ -17,6 +17,7 @@ toc_max: 4
 * [sabe](https://sabe.io/classes/php)
 
 * [php-fig](https://www.php-fig.org/psr/)
+* [psr style guide github](https://github.com/php-fig/fig-standards)
 
 # docblocker
 
