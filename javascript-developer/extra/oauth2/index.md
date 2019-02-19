@@ -22,3 +22,7 @@ toc_max: 4
 
 * [auth0](https://auth0.com/)
 * [onelogin](https://onelogin.com)
+
+## issue
+
+* [jwt vs oauth](https://stackoverflow.com/a/46626451)
