@@ -142,7 +142,7 @@ $pdfString = LARAPDF::loadFile($htmlCode)
 #### imageWatermark
 
 * $image = your image url
-* $oacity = 0.2
+* $opacity = 0.2
 * $size width and height array = [100,100]
 
 ```php
