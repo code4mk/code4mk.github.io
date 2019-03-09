@@ -1,4 +1,11 @@
 
+# what is algorithm
+
+An algorithm is a set of instructions to find the solution to a problem
+
+
+# RESOURCE
+
 * [algo](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
 
 # graph

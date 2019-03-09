@@ -80,6 +80,10 @@ horizontalnav:
   path: /php/
   node: php
 
+- title:  Package
+  path: /package/
+  node: package
+
 
 - title:  Extra
   path: /extra/
@@ -549,6 +553,18 @@ php:
     title: exception
   - path: /web-developer/php/resources/
     title: resources
+
+package:
+- sectiontitle: Lara PDF
+  section:
+  - path: /package/laravel/lara-pdf/
+    title: intro
+  - path: /package/laravel/lara-pdf/installation/
+    title: installation
+  - path: /package/laravel/lara-pdf/config/
+    title: config
+  - path: /package/laravel/lara-pdf/usage/
+    title: usage
 
 extra:
 - sectiontitle: extra

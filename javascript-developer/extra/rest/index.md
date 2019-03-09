@@ -37,6 +37,8 @@ Application Programming  Interface
 
 * [rest django](https://www.youtube.com/watch?v=XMu0T6L2KRQ&list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS)
 
+* [restcookbook](https://github.com/restcookbook/restcookbook)
+
 ### Api lists
 
 * [awesome](https://github.com/Kikobeats/awesome-api)

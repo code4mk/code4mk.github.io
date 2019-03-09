@@ -120,6 +120,12 @@ when `get` `class , id or selector` that time `document is  element`.
 * `window.document`
 * `window.location`
 
+# head meta access
+
+```js
+document.head.querySelector('meta[name="charset"]').content
+```
+
 ~ [window mdn](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 
 * [https://stackoverflow.com/questions/4348912/get-title-of-website-via-link](https://stackoverflow.com/questions/4348912/get-title-of-website-via-link)
