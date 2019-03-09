@@ -1,6 +1,6 @@
 ---
 description: laravel pdf document
-keywords: js
+keywords: lara-pdf,code4mk,laravel,package
 title: laravel pdf document
 toc_max: 4
 ---

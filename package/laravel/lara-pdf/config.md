@@ -1,4 +1,9 @@
-
+---
+description: laravel pdf config
+keywords: lara-pdf,code4mk,laravel,package
+title: laravel pdf config
+toc_max: 4
+---
 
 ```php
 return[

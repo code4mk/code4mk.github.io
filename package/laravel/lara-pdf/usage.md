@@ -1,11 +1,11 @@
 ---
 description: Lara pdf documentation
-keywords: js
+keywords: lara-pdf,code4mk,laravel,package
 title: Lara pdf documentation & useage
 toc_max: 4
 ---
 
-# alias
+### alias
 
 Lara pdf alias is `LARAPDF`
 
@@ -13,11 +13,11 @@ Lara pdf alias is `LARAPDF`
 use LARAPDF;
 ```
 
-# methods
+### methods
 
-## load
+#### load
 
-### loadView
+#### loadView
 
 ```php
 use LARAPDF;
@@ -25,19 +25,19 @@ LARAPDF::loadView($viewFile,$data=[],$mergeData=[])->show();
 // LARAPDF::loadView('pdf.welcome',['data'=>$mydata])->show
 ```
 
-### loadFile
+#### loadFile
 
 ```php
 LARAPDF::loadFile($file)
 ```
 
-### loadHtml
+#### loadHtml
 
 ```php
 LARAPDF::loadHtml($htmlCode)
 ```
 
-# margin
+### margin
 
 ```php
 LARAPDF::loadHtml($htmlCode)
@@ -45,7 +45,7 @@ LARAPDF::loadHtml($htmlCode)
         ->show()
 ```
 
-# paper
+### paper
 
 ```php
 LARAPDF::loadFile($htmlCode)
@@ -53,37 +53,37 @@ LARAPDF::loadFile($htmlCode)
         ->show()
 ```
 
-# show
+### show
 
 ```php
 LARAPDF::loadFile($htmlCode)
         ->show()
 ```
 
-# download
+### download
 
 ```php
 LARAPDF::loadFile($htmlCode)
         ->download($desiredFileName);
 ```
 
-# save
+### save
 
 ```php
 LARAPDF::loadFile($htmlCode)
         ->save($driverName,$desiredFileName);
 ```
 
-# get
+### get
 
 ```php
 $pdfString = LARAPDF::loadFile($htmlCode)
         ->get();
 ```
 
-# watermark
+### watermark
 
-## textWatermark
+#### textWatermark
 
 ```php
 $pdfString = LARAPDF::loadFile($htmlCode)
@@ -91,7 +91,7 @@ $pdfString = LARAPDF::loadFile($htmlCode)
         ->show();
 ```
 
-## imageWatermark
+#### imageWatermark
 
 ```php
 $pdfString = LARAPDF::loadFile($htmlCode)

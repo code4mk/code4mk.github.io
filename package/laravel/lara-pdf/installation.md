@@ -1,6 +1,6 @@
 ---
 description: lara pdf installation
-keywords: js
+keywords: lara-pdf,code4mk,laravel,package
 title: lara pdf installation
 toc_max: 4
 ---
