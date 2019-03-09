@@ -1,7 +1,7 @@
 ---
 description: Lara pdf documentation
 keywords: lara-pdf,code4mk,laravel,package
-title: Lara pdf documentation & useage
+title: Lara pdf documentation & usages
 toc_max: 4
 ---
 
