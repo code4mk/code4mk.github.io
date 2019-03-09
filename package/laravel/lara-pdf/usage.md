@@ -71,7 +71,7 @@ LARAPDF::loadFile($htmlCode)
 
 ```php
 LARAPDF::loadFile($htmlCode)
-        ->save($driverName,$desiredFileName);
+        ->save(,$desiredFileName,$driverName);
 ```
 
 ### get
