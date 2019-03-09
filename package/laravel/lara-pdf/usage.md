@@ -19,6 +19,9 @@ use LARAPDF;
 
 #### loadView
 
+* $viewFile = your desired blade file
+* $data = you can pass data as like controller view data
+
 ```php
 use LARAPDF;
 LARAPDF::loadView($viewFile,$data=[],$mergeData=[])->show();
@@ -27,17 +30,25 @@ LARAPDF::loadView($viewFile,$data=[],$mergeData=[])->show();
 
 #### loadFile
 
+* you can load a file for converting pdf
+
 ```php
 LARAPDF::loadFile($file)
 ```
 
 #### loadHtml
 
+* you can load core html code
+
 ```php
 LARAPDF::loadHtml($htmlCode)
 ```
 
 ### margin
+
+* you can set margin
+* integer value
+* $left, $top, $right , $bottom, $header, $footer `all are optinal`
 
 ```php
 LARAPDF::loadHtml($htmlCode)
@@ -47,6 +58,23 @@ LARAPDF::loadHtml($htmlCode)
 
 ### paper
 
+* set  paper size
+*  case-insensitive
+* deafult is `a4`
+
+```txt
+'A0’ - 'A10', 'B0' - 'B10', 'C0' - 'C10'
+'4A0', '2A0', 'RA0' - 'RA4', 'SRA0' - 'SRA4'
+'Letter', 'Legal', 'Executive', 'Folio'
+'A4','A4-L'
+'Demy', 'Royal'
+'A' (Type A paperback 111x178mm)
+'B' (Type B paperback 128x198mm)
+'Ledger', 'Tabloid'
+```
+
+~ [source format](https://mpdf.github.io/reference/mpdf-functions/construct.html#variables-with-defaults-from-constructor)
+
 ```php
 LARAPDF::loadFile($htmlCode)
         ->paper('a4')
@@ -55,6 +83,8 @@ LARAPDF::loadFile($htmlCode)
 
 ### show
 
+* show pdf in web browser
+
 ```php
 LARAPDF::loadFile($htmlCode)
         ->show()
@@ -62,6 +92,8 @@ LARAPDF::loadFile($htmlCode)
 
 ### download
 
+* download pdf
+* $desiredFileName = set your file name
 ```php
 LARAPDF::loadFile($htmlCode)
         ->download($desiredFileName);
@@ -69,12 +101,20 @@ LARAPDF::loadFile($htmlCode)
 
 ### save
 
+* save pdf file in your desired filesystem driver
+* $desiredFileName = file name
+* $driverName = filesystem driver name
+* default driver is `local`
+
 ```php
 LARAPDF::loadFile($htmlCode)
         ->save(,$desiredFileName,$driverName);
 ```
 
 ### get
+
+* get pdf as string format
+* you can sent pdf by mail  
 
 ```php
 $pdfString = LARAPDF::loadFile($htmlCode)
@@ -85,6 +125,14 @@ $pdfString = LARAPDF::loadFile($htmlCode)
 
 #### textWatermark
 
+* $text = 'your text'
+* other parameters are optional
+* $opacity = 0.1
+* $angle = 45
+* $font-family = 'font'
+
+~ [mpdf fonts](https://github.com/mpdf/mpdf/blob/development/src/Config/FontVariables.php)
+
 ```php
 $pdfString = LARAPDF::loadFile($htmlCode)
         ->textWatermark($text,$opacity,$angle,$font_family)
@@ -92,6 +140,10 @@ $pdfString = LARAPDF::loadFile($htmlCode)
 ```
 
 #### imageWatermark
+
+* $image = your image url
+* $oacity = 0.2
+* $size width and height array = [100,100]
 
 ```php
 $pdfString = LARAPDF::loadFile($htmlCode)
