@@ -51,7 +51,7 @@ LARAPDF::loadHtml($htmlCode)
 
 ```php
 LARAPDF::loadHtml($htmlCode)
-        ->largeData('250MB',100000)
+        ->largeData('250M',100000)
         ->show();
 ```
 
