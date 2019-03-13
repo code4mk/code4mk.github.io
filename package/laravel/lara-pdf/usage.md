@@ -44,6 +44,17 @@ LARAPDF::loadFile($file)
 LARAPDF::loadHtml($htmlCode)
 ```
 
+### large data
+
+* 6k+ table row tested, you can try more
+* largeData($memorySizeString,$limitTimeInSecond)
+
+```php
+LARAPDF::loadHtml($htmlCode)
+        ->largeData('250MB',100000)
+        ->show();
+```
+
 ### margin
 
 * you can set margin

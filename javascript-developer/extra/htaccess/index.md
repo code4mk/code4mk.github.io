@@ -16,3 +16,5 @@ toc_max: 4
 * [https://wiki.apache.org/httpd/FrontPage](https://wiki.apache.org/httpd/FrontPage)
 
 * [http://httpd.apache.org/docs/2.4/](http://httpd.apache.org/docs/2.4/)
+
+* [stackoverflow](https://stackoverflow.com/questions/tagged/.htaccess)

@@ -21,11 +21,14 @@ web: vendor/bin/heroku-php-apache2 public/
 # remote heroku project
 
 ```bash
+git init
 heroku git:remote -a heroky-app-name
 git add -A
 # OR
 git add .
 git commit -am "make it now"
+# or
+git commit -m "make it now"
 git push heroku master
 ```
 
@@ -48,6 +51,8 @@ heroku config:set APP_KEY=key-code
 heroku open
 ```
 
-# remove env
+# remove env (alternative set config)
 
+* if you want try this
+* alternative of set config
 * remove env from .gitignore

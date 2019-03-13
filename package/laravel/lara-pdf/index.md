@@ -14,6 +14,7 @@ Easily generate laravel pdf document. Try lara-pdf
 * load view
 * load file
 * load core html
+* large data (6k+ table rows)
 * pdf browser show
 * pdf download
 * pdf save in storage
