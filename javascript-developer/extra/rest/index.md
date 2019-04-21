@@ -45,7 +45,6 @@ Application Programming  Interface
 * [public apis](https://github.com/toddmotto/public-apis)
 * [public APIs](https://github.com/abhishekbanthia/Public-APIs)
 
-## salat/namaj
+## security
 
-* https://sufism.org/salaat/salaat-times-2
-* https://www.islamicboard.com/prayer/134307830-rakats-prayer.html
+* [dzone](https://dzone.com/refcardz/rest-api-security-1?chapter=1)
