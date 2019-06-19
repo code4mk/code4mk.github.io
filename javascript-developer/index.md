@@ -41,7 +41,7 @@ notoc: true
 <div class="component-container">
     <!--start row-->
     <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-3 block">
+        <div class="col-sm-12 col-md-12 col-lg-4 block">
             <div class="component">
                 <div class="component-icon">
                     <a href="vue/"> <img src="../images/js-image/vue.svg" alt="vue"> </a>
@@ -51,17 +51,8 @@ notoc: true
 
             </div>
         </div>
-        <div class="col-sm-12 col-md-12 col-lg-3 block">
-            <div class="component">
-                <div class="component-icon">
-                    <a href="vue-nuxt/"> <img src="https://cdn.svgporn.com/logos/nuxt.svg" alt="vue"> </a>
-                </div>
-                <h3><a href="vue-nuxt/">Nuxt.js</a></h3>
-                <p>Vue server side rending and seo friendly</p>
-
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-12 col-lg-3 block">
+        
+        <div class="col-sm-12 col-md-12 col-lg-4 block">
             <div class="component">
                 <div class="component-icon">
                     <a href="react/"> <img src="../images/js-image/react.svg" alt="react"> </a>
@@ -71,13 +62,30 @@ notoc: true
 
             </div>
         </div>
-        <div class="col-sm-12 col-md-12 col-lg-3 block">
+        <div class="col-sm-12 col-md-12 col-lg-4 block">
             <div class="component">
                 <div class="component-icon">
                     <a href="angular/"> <img src="../images/js-image/angular.svg" alt="angular"> </a>
                 </div>
                 <h3><a href="angular/">Angular</a></h3>
                 <p>AngularJS is a JavaScript-based open-source front-end web application framework mainly maintained by Google</p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="component-container">
+    <!--start row-->
+    <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-4 block">
+            <div class="component">
+                <div class="component-icon">
+                    <a href="vue-nuxt/"> <img src="https://cdn.svgporn.com/logos/nuxt.svg" alt="vue"> </a>
+                </div>
+                <h3><a href="vue-nuxt/">Nuxt.js</a></h3>
+                <p>Vue server side rending and seo friendly</p>
 
             </div>
         </div>
