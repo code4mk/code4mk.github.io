@@ -5,6 +5,7 @@
 
 ```bash
 heroku login
+heroku login --interactive
 ```
 
 ```bash

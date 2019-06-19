@@ -45,6 +45,24 @@ axios.delete(url, {
 
 ```
 
+# axios chaining
+
+```js
+axios.get(...)
+  .then((response) => {
+    return axios.get(...); // using response.data
+  })
+  .then((response) => {
+    console.log('Response', response);
+  });
+```
+
+* [axios  issue 708](https://github.com/axios/axios/issues/708)
+* [axios issue 371](https://github.com/axios/axios/issues/371#issuecomment-231529074)
+
+* [stackoverflow 44182951](https://stackoverflow.com/questions/44182951/axios-chaining-multiple-api-requests)
+* [stackoverflow 50627968](https://stackoverflow.com/questions/50627968/axios-put-inside-axios-get)
+
 # query string package
 
 * [qs](https://github.com/ljharb/qs)

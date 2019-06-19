@@ -6,3 +6,5 @@
 
 * https://www.youtube.com/watch?v=MKm_YV85m5o `read`
  * https://github.com/amitavroy/inferno/blob/master/server.js
+
+* https://github.com/binbytes/nuxt-chat-app
