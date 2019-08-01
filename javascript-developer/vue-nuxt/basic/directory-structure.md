@@ -10,6 +10,7 @@
   * plugins
   * static
   * store
+  * nuxt.config.js
 
 # assets
 
@@ -41,4 +42,8 @@
 
 # store
 
-* vuex , state management system.
+* `vuex` , state management system.
+
+# nuxt.config.js
+
+Nuxt.js custom configuration

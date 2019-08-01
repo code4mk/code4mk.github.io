@@ -23,7 +23,7 @@ plugins: [
 ],
 ```
 
-* usage 
+* usage
 
 ```js
 // event emit
@@ -42,4 +42,21 @@ this.$root.$emit('removeposition', { something: 'yes' })
 
 // Component 2
 this.$root.$on('removeposition', filter => { })
+```
+
+# event handling child component
+
+* nested.vue
+
+```js
+<template>
+  <nuxt-child @something="handle_something" />
+</template>
+```
+* `nested/index.vue`
+
+```js
+<template>
+  <button @click="$emit('something!')" >something</button>
+</template>
 ```
