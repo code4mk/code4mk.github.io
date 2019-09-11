@@ -18,7 +18,7 @@ php artisan make:listener ListenerName
 php artisan make:event EventName
 ```
 
-## event
+# event
 
 * `EventName` class.
 
@@ -230,7 +230,7 @@ event(new EventName($order));
         }
     ```
 
-* `php artisan queue::work database --queue=listener`
+* `php artisan queue::work database --queue=listeners`
 
 
 
