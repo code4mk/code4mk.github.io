@@ -18,7 +18,7 @@ php artisan make:listener ListenerName
 php artisan make:event EventName
 ```
 
-# event
+## event
 
 * `EventName` class.
 
@@ -63,7 +63,7 @@ class EventName
 }
 ```
 
-# listen
+## listener
 
 ```php
 
@@ -98,7 +98,7 @@ class ListenName
 }
 ```
 
-# register
+## register
 
 * `app\Providers\EventServiceProvider.php`
 
@@ -112,12 +112,126 @@ protected $listen = [
 ];
 ```
 
-# fire / dispatching
+## fire / dispatching
 
 ```php
 use App\Events\OrderShipped;
 event(new EventName($order));
 ```
+
+## event with queue
+
+* table create
+
+    ```bash
+    php artisan queue:table
+    php artisan migrate
+    ```
+* update inside .env for (database)
+  * `QUEUE_CONNECTION=database`
+
+* `implements ShouldQueue ` in `ListenName` class
+
+    ```php
+        namespace App\Listeners;
+
+        use App\Events\EventName;
+        use Illuminate\Queue\InteractsWithQueue;
+        use Illuminate\Contracts\Queue\ShouldQueue;
+
+        class ListenName implements ShouldQueue
+        {
+            /**
+             * Create the event listener.
+             *
+             * @return void
+             */
+            public function __construct()
+            {
+                //
+            }
+
+            /**
+             * Handle the event.
+             *
+             * @param  EventName  $event
+             * @return void
+             */
+            public function handle(EventName $event)
+            {
+                return $event;
+            }
+        }
+    ```
+
+* `php artisan queue::work`
+
+## event with queue `2nd method`
+
+* table create
+
+    ```bash
+    php artisan queue:table
+    php artisan migrate
+    ```
+
+* `implements ShouldQueue ` in `ListenName` class
+
+    ```php
+        namespace App\Listeners;
+
+        use App\Events\EventName;
+        use Illuminate\Queue\InteractsWithQueue;
+        use Illuminate\Contracts\Queue\ShouldQueue;
+
+        class ListenName implements ShouldQueue
+        {
+            /**
+             * The name of the connection the job should be sent to.
+             *
+             * @var string|null
+             */
+            public $connection = 'database';
+
+            /**
+             * The name of the queue the job should be sent to.
+             *
+             * @var string|null
+             */
+            public $queue = 'listeners';
+
+            /**
+             * The time (seconds) before the job should be processed.
+             *
+             * @var int
+             */
+            public $delay = 60;
+
+            /**
+             * Create the event listener.
+             *
+             * @return void
+             */
+            public function __construct()
+            {
+                //
+            }
+
+            /**
+             * Handle the event.
+             *
+             * @param  EventName  $event
+             * @return void
+             */
+            public function handle(EventName $event)
+            {
+                return $event;
+            }
+        }
+    ```
+
+* `php artisan queue::work database --queue=listener`
+
 
 
 
