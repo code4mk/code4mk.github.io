@@ -18,7 +18,7 @@ php artisan make:listener ListenerName
 php artisan make:event EventName
 ```
 
-# event
+### event
 
 * `EventName` class.
 
