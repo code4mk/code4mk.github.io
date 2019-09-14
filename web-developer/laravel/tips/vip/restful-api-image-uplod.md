@@ -142,3 +142,39 @@ class Test extends controllers {
     }
 }
 ```
+
+## custom storage content route
+
+* if you can't take hussle for siblink with public folder you can use custom route
+
+* `route` for `local` storage
+
+```php
+Route::get('/storage/{params}', function($params){
+    $path = storage_path('app/'.$params);
+    $file = File::get($path);
+    $type = File::mimeType($path);
+    $response = Response::make($file, 200);
+    $response->header("Content-Type", $type);
+    if(file_exists(storage_path('app/'.$params))){
+        return $response;
+    }
+})->where('params', '.*');
+
+```
+
+* `route` for storage `2nd method`
+
+```php
+Route::get('/storage/{disk}/{params}', function($disk,$params){
+    if (Storage::disk($disk)->exists($params)) {
+        $storageFile =  Storage::disk($disk)->get($params);
+        return response($storageFile, 200)->header('Content-Type', Storage::disk('local')->mimeType($params));
+    }
+})->where('params', '.*');
+
+```
+
+```php
+{{ asset('storage/diskname/test.png')`  }}
+```
