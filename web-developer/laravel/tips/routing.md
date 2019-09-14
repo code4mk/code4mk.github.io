@@ -121,3 +121,9 @@ return response()->redirectToIntended($path= 'homeAutomatic')
 php artisan route:cache
 php artisan route:clear
 ```
+
+
+## sub-domain routing
+
+* [likegeeks](https://likegeeks.com/dynamic-laravel-subdomain-routing/)
+* [point cname with custome domain](https://stackoverflow.com/questions/24327868/php-laravel-allow-users-to-use-a-custom-domain-name)
