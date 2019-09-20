@@ -33,6 +33,7 @@ function myFunction(elmnt,clr) {
 $('body').on('click', '.editProduct', function () {
       var product_id = $(this).data('id');
 //
+}
 ```
 
 ```html
