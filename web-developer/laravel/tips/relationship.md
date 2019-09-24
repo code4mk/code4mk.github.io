@@ -37,6 +37,16 @@ toc_max: 4
 
 * `hasManyThrough('Model\Name','Model\Name1','foreign_key1','foreign_key','local_key','local_key1')`
 
+### Polymorphic
+
+* `$this->morphTo();` -> `App\Image`
+* `$this->morphOne('App\Image', 'imageable')`
+
+~
+
+* `imageable_type -> model/name`
+* `imageable_id -> id`
+
 ## Eager Loading
 
 ```php
