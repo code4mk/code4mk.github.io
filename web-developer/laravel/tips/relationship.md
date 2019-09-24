@@ -9,33 +9,33 @@ toc_max: 4
 
 ### one to one
 
-* hasOne('Model\Name','foreign_key','local_key')
-* belongsTo('Model\Name','foreign_key','local_key')
+* `hasOne('Model\Name','foreign_key','local_key')`
+* `belongsTo('Model\Name','foreign_key','local_key')`
 
 ### one to many
 
-* hasMany('Model\Name','foreign_key','local_key')
-* belongsTo('Model\Name','foreign_key','local_key')
+* `hasMany('Model\Name','foreign_key','local_key')`
+* `belongsTo('Model\Name','foreign_key','local_key')`
 
 ### many to many
 
-* belongsToMany('App\Role', 'role_user', 'user_id', 'role_id')
-* role_user table
+* `belongsToMany('App\Role', 'role_user', 'user_id', 'role_id')`
+* `role_user table`
 
 ~
 
-* role->attach($id|array $ids)
-* role->detach($id|array $ids) / role->detach()
-* role->sync([])
-* role->toggle([])
+* `role->attach($id|array $ids)`
+* `role->detach($id|array $ids) / role->detach()`
+* `role->sync([])`
+* `role->toggle([])`
 
 ### hasOneThrough
 
-* hasOneThrough('Model\Name','Model\Name1','foreign_key1','foreign_key','local_key','local_key1')
+* `hasOneThrough('Model\Name','Model\Name1','foreign_key1','foreign_key','local_key','local_key1')`
 
 ### hasManyThrough
 
-* hasManyThrough('Model\Name','Model\Name1','foreign_key1','foreign_key','local_key','local_key1')
+* `hasManyThrough('Model\Name','Model\Name1','foreign_key1','foreign_key','local_key','local_key1')`
 
 ## Eager Loading
 
