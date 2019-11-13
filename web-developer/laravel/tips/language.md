@@ -37,3 +37,8 @@ Route::get('/lang/{locale?}',function($locale = 'en'){
 # core
 
 * https://github.com/illuminate/translation
+
+
+# number i18n
+
+* https://github.com/zf1/zend-locale
