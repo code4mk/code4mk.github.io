@@ -29,3 +29,6 @@ $validator = \Validator::make($request->all(), [
      //return response()->json(['errors'=>$validator->errors()]);
  }
 ```
+
+$error->has()
+$error->all()

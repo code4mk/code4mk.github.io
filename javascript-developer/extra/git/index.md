@@ -10,6 +10,7 @@
 
 * [github](https://github.github.com/training-kit/)
 * [github education](https://education.github.com/git-cheat-sheet-education.pdf)
+* [github git help](https://help.github.com/en/github/using-git)
 * [git-tower](https://www.git-tower.com/learn/cheat-sheets/git)
 * [keycdn](https://www.keycdn.com/blog/git-cheat-sheet)
 * [arslanbilal](https://github.com/arslanbilal/git-cheat-sheet)
