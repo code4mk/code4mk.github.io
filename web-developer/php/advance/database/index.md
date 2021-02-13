@@ -1,6 +1,7 @@
 
 
 * http://php.net/manual/en/intro.pdo.php
+* https://www.cloudways.com/blog/connect-mysql-with-php/
 
 
 # extend other driver
