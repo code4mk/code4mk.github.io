@@ -179,3 +179,5 @@ private         |       ✔      |     ✘     |       ✘       |   ✘
  * update
 
 </details>
+
+* https://www.fullstack.cafe/blog/php-interview-questions
