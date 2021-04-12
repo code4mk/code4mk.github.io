@@ -24,3 +24,7 @@
 
 * [greenkeeper](https://blog.greenkeeper.io/introduction-to-semver-d272990c44f2)
 * [telerik](https://www.telerik.com/blogs/the-mystical-magical-semver-ranges-used-by-npm-bower)
+
+# pdf 
+
+* https://bytearcher.com/goodies/semantic-versioning-cheatsheet/
