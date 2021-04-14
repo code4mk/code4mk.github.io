@@ -30,3 +30,6 @@
 # pdf 
 
 * https://bytearcher.com/goodies/semantic-versioning-cheatsheet/
+
+# why use semver
+* https://www.sitepoint.com/semantic-versioning-why-you-should-using/
