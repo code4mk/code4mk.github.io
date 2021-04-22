@@ -22,6 +22,7 @@ toc_max: 4
 ## online test
 
 * [https://regexr.com/](https://regexr.com/)
+* [ihateregex](https://ihateregex.io/)
 
 ## video
 
