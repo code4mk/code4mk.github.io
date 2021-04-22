@@ -17,6 +17,6 @@ Docker persistence data store on volumes.
 
 Docker build image with Dockerfile .Dockefile is text format whiche are commands
 
-#docker-compose.yml
+# docker-compose.yml
 
-* create multiple container 
+* create multiple container
