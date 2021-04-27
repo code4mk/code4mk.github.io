@@ -89,6 +89,7 @@ delete from table_name
 * [http://www.sqltutorial.org/sql-cheat-sheet/](http://www.sqltutorial.org/sql-cheat-sheet/)
 * [wiki book pdf](https://upload.wikimedia.org/wikipedia/commons/6/6d/Structured_Query_Language.pdf)
 * [wikibook](https://en.wikibooks.org/wiki/Structured_Query_Language)
+* [mysqltutorial](https://www.mysqltutorial.org/mysql-data-types.aspx)
 
 ## gui
 
