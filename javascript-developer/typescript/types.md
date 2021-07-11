@@ -28,4 +28,6 @@ let isDanger: Array<number> = [1, 3, 5, 7];
 let isDanger: any = "this is kamal"
 ```
 
+# resources 
+* [typescripttutorial](https://www.typescripttutorial.net/typescript-tutorial/typescript-object-type/)
 * <a href="https://youtu.be/Q6pePpv-C-E" target="_blank">Video Tutorial</a>
