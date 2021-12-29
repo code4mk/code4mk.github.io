@@ -39,7 +39,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 </div>
 
 
-## A hackable text editor
+## Now you can play on your desired ground.
 
 <div class="component-container">
     <!--start row-->
@@ -47,10 +47,10 @@ GitHub is a code hosting platform for version control and collaboration. It lets
         <div class="col-sm-12 col-md-12 col-lg-6 block">
             <div class="component">
                 <div class="component-icon">
-                    <a href="atom/"> <img src="../images/ui-ux-image/atom.svg" alt="atom"> </a>
+                    <a href="/javascript-developer/"> <img src="../images/js-image/javascript.svg" alt="javascript"> </a>
                 </div>
-                <h3><a href="atom/">Atom</a></h3>
-                <p>A hackable text editor for the 21st Century</p>
+                <h3><a href="atom/">JavaScript Zone</a></h3>
+                <p>Play on JavaScript zone ( ES6, TypeScript ) </p>
             </div>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-6 block">
