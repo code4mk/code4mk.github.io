@@ -26,6 +26,8 @@ toc_max: 4
 * [ss64](https://ss64.com/bash/printf.html)
 
 * [gnu bash](https://www.gnu.org/software/bash/manual/bashref.html#Bash-Startup-Files)
+* [bash-cheat-sheet by pcwdld](https://www.pcwdld.com/bash-cheat-sheet)
+
 # editor
 
 * [http://rextester.com/l/bash_online_compiler](http://rextester.com/l/bash_online_compiler)
