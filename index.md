@@ -49,7 +49,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
                 <div class="component-icon">
                     <a href="/javascript-developer/"> <img src="../images/js-image/javascript.svg" alt="javascript"> </a>
                 </div>
-                <h3><a href="atom/">JavaScript Zone</a></h3>
+                <h3><a href="/javascript-developer/">JavaScript Zone</a></h3>
                 <p>Play on JavaScript zone ( ES6, TypeScript ) </p>
             </div>
         </div>
