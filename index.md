@@ -1,8 +1,8 @@
 ---
-description: Code4mk is an open source organization, which main focus on make easy and enjoyful programming for all.
+description: Code4mk is an open-source organization.code4mk’s main goal is to make programming easy and enjoyable for all.
 keywords: php, vue, react, angular, javascript, js, wordpress, ruby, laravel, ruby-on-rails, java, spring, python, django
 landing: true
-title: code4mk organization | enjoy with coding
+title: code4mk organization | lets code with code4mk
 notoc: true
 notags: true
 ---
@@ -23,7 +23,8 @@ notags: true
 
 ## What is code4mk?
 
-Code4mk is a open source organization.code4mk's main goal is make programming easy and enjoyful for all.
+Code4mk is an open-source organization.code4mk’s main goal is to make programming easy and enjoyable for all.
+
 
 </div>
 <div markdown="1" class="col-xs-12 col-sm-12 col-md-12 col-lg-6 block">
