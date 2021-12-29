@@ -1,14 +1,14 @@
 ---
-description: Home page for code4mk organization
+description: Code4mk is an open source organization, which main focus on make easy and enjoyful programming for all.
 keywords: php, vue, react, angular, javascript, js, wordpress, ruby, laravel, ruby-on-rails, java, spring, python, django
 landing: true
-title: code4mk
+title: code4mk organization | enjoy with coding
 notoc: true
 notags: true
 ---
 <!-- {% assign page.title = site.name %} -->
 
-<div>
+<!-- <div>
 <video
     id="vid1"
     class="video-js vjs-default-skin vjs-big-play-centered"
@@ -16,16 +16,14 @@ notags: true
     width="735" height="350"
     data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://youtu.be/w3jLJU7DT5E"}] }' >
 </video>
-</div>
+</div> -->
 
 <div class="row">
 <div markdown="1" class="col-xs-12 col-sm-12 col-md-12 col-lg-6 block">
 
-## What is Github?
+## What is code4mk?
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-[Let's start with Github](/github){: class="button outline-btn"}
+Code4mk is a open source organization.code4mk's main goal is make programming easy and enjoyful for all.
 
 </div>
 <div markdown="1" class="col-xs-12 col-sm-12 col-md-12 col-lg-6 block">
