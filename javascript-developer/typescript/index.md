@@ -12,6 +12,7 @@ toc_max: 4
 * [playground](https://www.typescriptlang.org/play)
 * [educative](https://www.educative.io/blog/typescript-tutorial)
 * [typescripttutorial](https://www.typescripttutorial.net/typescript-tutorial/typescript-object-type/)
+* [cheatsheet by rmolinamir](https://github.com/rmolinamir/typescript-cheatsheet)
 
 ## Video
 
