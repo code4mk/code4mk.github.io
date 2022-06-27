@@ -585,3 +585,12 @@ extra:
     title: intro socket
   - path: /javascript-developer/extra/socket.io/client-api/
     title: client api
+
+circleci:
+- sectiontitle: circleci
+  section:
+  - path: /devops/ci-cd/circleci-101/
+    title: circleci
+  - path: /devops/ci-cd/circleci-101/environment/
+    title: environment
+
