@@ -89,6 +89,10 @@ horizontalnav:
   path: /extra/
   node: extra
 
+- title:  Circleci
+  path: /circleci/
+  node: circleci
+
 js:
 - sectiontitle: Basic JS
   section:
