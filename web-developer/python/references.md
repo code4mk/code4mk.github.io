@@ -21,6 +21,7 @@ toc_max: 4
 * [github python trending](https://github.com/trending/python)
 * [pythonspot](https://pythonspot.com/)
 * [regex](https://repl.it/@lochiwei/Python-Regular-Expression)
+* [skillshare platform](https://www.skillshare.com/browse/web-development)
 
 # editor
 
