@@ -205,7 +205,7 @@ es6:
     title: resources
 
 typescript:
-- sectiontitle:
+- sectiontitle: typescript
   section:
     - path: /javascrip-developer/typescript/
       title: Typescript intro
