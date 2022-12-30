@@ -65,6 +65,7 @@ horizontalnav:
 - title:  Es6
   path: /es6/
   node: es6
+
 - title:  Typescript
   path: /typescript/
   node: typescript
