@@ -24,10 +24,23 @@ let isResult: string = `welcome to ${isDanger}`;
 let isDanger: number[] = [1, 3, 5, 7];
 let isDanger: Array<number> = [1, 3, 5, 7];
 
+# Array of objects
+let employees: Array<{name: string, age: number, [key: string]: any}> = [
+  { name: 'kamal', age: 26 },
+  { name: 'mostafa', age: 21}
+]
+
+# Array of objects
+let employees: {name: string, age: number}[] = [
+  { name: 'kamal', age: 26 },
+  { name: 'mostafa', age: 21}
+]
+
 # any
 let isDanger: any = "this is kamal"
 ```
 
 # resources 
 * [typescripttutorial](https://www.typescripttutorial.net/typescript-tutorial/typescript-object-type/)
+* [array of objects stackoverflow](https://stackoverflow.com/questions/35435042/how-can-i-define-an-array-of-objects)
 * <a href="https://youtu.be/Q6pePpv-C-E" target="_blank">Video Tutorial</a>

@@ -204,6 +204,24 @@ es6:
   - path: /javascript-developer/es/resource/
     title: resources
 
+typescript:
+- sectiontitle:
+  section:
+    - path: /javascrip-developer/typescript/
+      title: Typescript intro
+    - path: /javascrip-developer/typescript/types/
+      title: Type
+    - path: /javascrip-developer/typescript/enum/
+      title: Enum
+    - path: /javascrip-developer/typescript/type-alias/
+      title: Type alias
+    - path: /javascrip-developer/typescript/generic/
+      title: Generic
+    - path: /javascrip-developer/typescript/decorator/
+      title: Decorator
+    - path: /javascrip-developer/typescript/resources/
+      title: Resources
+
 
 vue:
 - sectiontitle: Basic React
