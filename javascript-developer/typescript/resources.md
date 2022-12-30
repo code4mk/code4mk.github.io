@@ -5,7 +5,7 @@ title: Typescript resources
 toc_max: 4
 ---
 
-# documentations and contents
+## documentations and contents
 
 * [official doc](https://www.typescriptlang.org/docs/handbook/classes.html)
 * [playground](https://www.typescriptlang.org/play)
