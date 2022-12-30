@@ -211,19 +211,19 @@ es6:
 typescript:
 - sectiontitle: typescript
   section:
-    - path: /javascrip-developer/typescript/
+    - path: /javascript-developer/typescript/decorator/
       title: Typescript intro
-    - path: /javascrip-developer/typescript/types/
+    - path: /javascript-developer/typescript/types/
       title: Type
-    - path: /javascrip-developer/typescript/enum/
+    - path: /javascript-developer/typescript/enum/
       title: Enum
-    - path: /javascrip-developer/typescript/type-alias/
+    - path: /javascript-developer/typescript/type-alias/
       title: Type alias
-    - path: /javascrip-developer/typescript/generic/
+    - path: /javascript-developer/typescript/generic/
       title: Generic
-    - path: /javascrip-developer/typescript/decorator/
+    - path: /javascript-developer/typescript/decorator/
       title: Decorator
-    - path: /javascrip-developer/typescript/resources/
+    - path: /javascript-developer/typescript/resources/
       title: Resources
 
 
