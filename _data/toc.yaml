@@ -211,7 +211,7 @@ es6:
 typescript:
 - sectiontitle: typescript
   section:
-    - path: /javascript-developer/typescript/decorator/
+    - path: /javascript-developer/typescript/
       title: Typescript intro
     - path: /javascript-developer/typescript/types/
       title: Type
