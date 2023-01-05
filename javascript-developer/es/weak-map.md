@@ -9,3 +9,4 @@ toc_max:  4
 # reference
 
 * [http://qnimate.com/difference-between-map-and-weakmap-in-javascript/](http://qnimate.com/difference-between-map-and-weakmap-in-javascript/)
+* https://www.youtube.com/watch?v=dSltpdrdZ9E
