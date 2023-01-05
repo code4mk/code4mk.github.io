@@ -36,6 +36,11 @@ The main methods are:
   map.size – returns the current element count.
 ```
 
+when use map
+
+* Need to use a non-string value as a key
+* specific order 
+
 ## set
 
 ```js
@@ -165,6 +170,23 @@ console.log(users.get('phone').office);
     // kamal
     // 21
     // dev
+```
+
+## specific order
+
+```js
+// with object
+let data = {
+  'name': 'kamal'
+  '1': 'one'
+}
+console.log(data)
+
+// with map
+let data = new Map()
+data.set('name','kamal')
+data.set('1', 'one')
+console.log(data.entries())
 ```
 
 # soureces
