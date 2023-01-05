@@ -5,6 +5,14 @@ title: Promises javascript
 toc_max: 4
 ---
 
+In JavaScript, a promise is an object that represents the eventual completion (or failure) of an asynchronous operation. Promises provide a simpler way to handle asynchronous operations compared to using callbacks, and they are often used with async/await.
+
+A promise has a few key properties:
+
+* It represents the result of an asynchronous operation, which can be a success (resolved) or a failure (rejected).
+* It has a then method that allows you to specify callback functions for handling the successful completion or failure of the asynchronous operation.
+* It has a catch method that allows you to specify a callback function for handling any errors that may occur during the asynchronous operation.
+
 `promise` is `alternative` of `callback` . Promise is Asynchronous.
 
 ### promise has 3 states
