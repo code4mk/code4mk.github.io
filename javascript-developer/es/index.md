@@ -1,7 +1,7 @@
 ---
-description: Play with ES6
+description: Learn ECHMAScript the most easy way.
 keywords: es,es6,js
-title: Play with ES6
+title: Learn ECHMAScript the most easy way.
 toc_max:  4
 ---
 
